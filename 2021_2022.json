@@ -1,0 +1,1720 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "General Biology I",
+    "code": "FSB 101.1",
+    "session": "2021/2022",
+    "topics": [
+      "Animal Kingdom",
+      "Biochemistry",
+      "Bioenergetics",
+      "Biological Classification",
+      "Carbohydrates",
+      "Cell Biology",
+      "Cell Division",
+      "Cellular Organelles",
+      "Cellular Processes",
+      "Cellular Structure",
+      "Cellular Transport",
+      "Chemical Thermodynamics",
+      "Circulatory System",
+      "Classification",
+      "Diseases",
+      "Diversity of Living Organisms",
+      "Ecology",
+      "Enzymes",
+      "Evolution",
+      "Genetics",
+      "Health",
+      "Heredity",
+      "History of Biology",
+      "History of Science",
+      "Human Physiology",
+      "Kingdom Plantae",
+      "Meiosis",
+      "Membrane Structure",
+      "Metabolism",
+      "Microbiology",
+      "Nomenclature",
+      "Nutrition",
+      "Organic Chemistry",
+      "Origin of Life",
+      "Parasitology",
+      "Plant Physiology",
+      "Prokaryotic Cells",
+      "Proteins",
+      "Reproduction",
+      "Respiration",
+      "Taxonomy",
+      "Transport Systems",
+      "Viruses",
+      "Vitamins"
+    ],
+    
+    "time": "30"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Plant Physiology", "Cellular Processes"],
+    "Question": {
+      "content": "Which of the following is not a requirement for photosynthesis?",
+      "type": "OBJ",
+      "options": [
+        "Sunlight",
+        "Chlorophyll",
+        "Water",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Photosynthesis Requirements</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Photosynthesis?</strong><br>\n    Photosynthesis is how plants make their own food. They use sunlight to convert water and carbon dioxide into glucose (sugar) and oxygen.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Essential Requirements:</strong><br>\n    <ul>\n      <li><strong>Sunlight:</strong> Provides energy for the process</li>\n      <li><strong>Chlorophyll:</strong> Green pigment in leaves that captures sunlight</li>\n      <li><strong>Water:</strong> Absorbed from soil through roots</li>\n      <li><strong>Carbon Dioxide:</strong> Taken from air through tiny pores in leaves</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> \"None of the above\" is correct because ALL listed items (sunlight, chlorophyll, water) ARE required for photosynthesis.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Genetics", "Biological Classification"],
+    "Question": {
+      "content": "Which of the following is not a branch of genetics?",
+      "type": "OBJ",
+      "options": [
+        "Mendelian Genetics",
+        "Molecular Genetics",
+        "Population Genetics",
+        "Taxonomic Genetics",
+        "Quantitative Genetics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Taxonomic Genetics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Branches of Genetics</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Genetics?</strong><br>\n    Genetics is the study of how traits (characteristics) are passed from parents to offspring through genes.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Real Branches of Genetics:</strong><br>\n    <ul>\n      <li><strong>Mendelian Genetics:</strong> Studies basic inheritance patterns (like Gregor Mendel's pea plant experiments)</li>\n      <li><strong>Molecular Genetics:</strong> Studies genes at molecular/DNA level</li>\n      <li><strong>Population Genetics:</strong> Studies how genes change in populations over time</li>\n      <li><strong>Quantitative Genetics:</strong> Studies traits controlled by many genes (like height or skin color)</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is NOT a Branch:</strong><br>\n    \"Taxonomic Genetics\" doesn't exist. Taxonomy is about classifying organisms into groups (kingdom, phylum, class, etc.), not specifically about inheritance.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Taxonomic Genetics is not a recognized branch of genetics.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Cellular Processes", "Biochemistry"],
+    "Question": {
+      "content": "Life is sustained by energy reactions generally referred to as:",
+      "type": "OBJ",
+      "options": [
+        "Oxidation reactions",
+        "Reduction Reactions",
+        "Catabolism",
+        "Metabolism",
+        "Anabolic reactions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metabolism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy Reactions in Living Things</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Understanding the Terms:</strong><br>\n    <ul>\n      <li><strong>Metabolism:</strong> ALL chemical reactions in an organism (both energy-producing and energy-using)</li>\n      <li><strong>Catabolism:</strong> BREAKING DOWN molecules to RELEASE energy (e.g., digestion)</li>\n      <li><strong>Anabolism:</strong> BUILDING UP molecules USING energy (e.g., making proteins)</li>\n      <li><strong>Oxidation/Reduction:</strong> Specific types of chemical reactions involving electron transfer</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Simple Analogy:</strong><br>\n    Think of metabolism as your body's \"total budget\" - it includes both earning money (catabolism) and spending money (anabolism). The other options are just specific transactions.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Metabolism is the comprehensive term for all energy reactions that sustain life.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Cell Biology", "Cell Division"],
+    "Question": {
+      "content": "In which stage of mitosis does the spindle appear?",
+      "type": "OBJ",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase",
+        "Late prophase"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prophase"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mitosis Stages</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Mitosis?</strong><br>\n    Mitosis is cell division where one cell divides into two identical daughter cells. It has 4 main stages.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Stages of Mitosis:</strong><br>\n    <ol>\n      <li><strong>Prophase:</strong> Chromosomes condense, nuclear membrane disappears, SPINDLE FIBERS FORM</li>\n      <li><strong>Metaphase:</strong> Chromosomes line up in middle of cell</li>\n      <li><strong>Anaphase:</strong> Chromosomes separate and move to opposite ends</li>\n      <li><strong>Telophase:</strong> Two new nuclei form, cell starts to divide</li>\n    </ol>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is the Spindle?</strong><br>\n    The spindle is like a \"fishing line\" structure that pulls chromosomes apart during division. It FIRST appears in prophase.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> The spindle appears during Prophase (specifically early prophase).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Biochemistry", "Chemical Thermodynamics"],
+    "Question": {
+      "content": "In natural systems, which statement correctly describes the relationship that drives all energy-requiring or energy-producing reactions?",
+      "type": "OBJ",
+      "options": [
+        "\\(\\Delta G < 0\\) Exergonic or energy releasing reaction, \\(\\Delta G > 0\\) Endergonic reverse spontaneous or energy consuming reaction, and \\(\\Delta G = 0\\) state of equilibrium, nothing happens.",
+        "\\(\\Delta G < 0\\) potential energy untouched, \\(\\Delta G > 0\\) Energy sinking reaction, and \\(\\Delta G = 0\\) state of in-equilibrium, something happens.",
+        "\\(\\Delta G = 0\\) There is no relationship at all, \\(\\Delta G < 0\\) heat must be added",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(\\Delta G < 0\\) Exergonic or energy releasing reaction, \\(\\Delta G > 0\\) Endergonic reverse spontaneous or energy consuming reaction, and \\(\\Delta G = 0\\) state of equilibrium, nothing happens."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding ΔG (Gibbs Free Energy)</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is ΔG?</strong><br>\n    ΔG (Delta G) measures whether a chemical reaction will happen spontaneously (on its own) or needs energy input.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Three Cases:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>1. ΔG < 0 (Negative):</strong><br>\n      • Reaction releases energy (exergonic)<br>\n      • Happens spontaneously<br>\n      • Example: Burning wood\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>2. ΔG > 0 (Positive):</strong><br>\n      • Reaction needs energy input (endergonic)<br>\n      • Won't happen without added energy<br>\n      • Example: Photosynthesis needs sunlight\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>3. ΔG = 0 (Zero):</strong><br>\n      • System is balanced (equilibrium)<br>\n      • No net change occurs<br>\n      • Example: Saturated salt solution\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Option A correctly describes all three cases of ΔG.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Cell Biology", "Cellular Transport"],
+    "Question": {
+      "content": "What happens to a cell placed in a hypertonic solution?",
+      "type": "OBJ",
+      "options": [
+        "Water moves from exterior environment into the cytoplasm of the cell",
+        "Water moves from the cytoplasm of the cell to the external environment",
+        "The concentration of solute molecules in the cytoplasm and the external environment is in equilibrium",
+        "Solute molecules move from the cytoplasm of the cell to the external environment",
+        "Solute molecules in the cytoplasm and the external environment are in equilibrium"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Water moves from the cytoplasm of the cell to the external environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hypertonic Solutions and Cells</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Concept:</strong> OSMOSIS<br>\n    Water moves from areas with LESS dissolved stuff (solutes) to areas with MORE dissolved stuff, trying to balance concentrations.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Three Solution Types:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Hypertonic Solution:</strong><br>\n      • More solutes OUTSIDE cell than inside<br>\n      • Water LEAVES cell → cell SHRINKS<br>\n      • Like putting a grape in salt water\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Hypotonic Solution:</strong><br>\n      • Less solutes outside than inside<br>\n      • Water ENTERS cell → cell SWELLS<br>\n      • Like putting a raisin in pure water\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Isotonic Solution:</strong><br>\n      • Equal concentrations inside/outside<br>\n      • Water moves equally in/out → cell stays same<br>\n      • Like IV fluids in medicine\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> In hypertonic solution, water moves FROM cytoplasm TO external environment, causing cell shrinkage.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Cellular Processes", "Biochemistry"],
+    "Question": {
+      "content": "Where does glycolysis take place in the cell?",
+      "type": "OBJ",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Vacuole"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cytoplasm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Glycolysis Location</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Glycolysis?</strong><br>\n    Glycolysis is the FIRST step in breaking down glucose (sugar) to get energy. It means \"sugar splitting.\"\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Simple Analogy:</strong><br>\n    Think of glucose as a $100 bill. Glycolysis is like breaking it into ten $10 bills in your pocket (cytoplasm). Later steps convert these to coins in the mitochondria.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Cellular Locations:</strong><br>\n    <ul>\n      <li><strong>Cytoplasm:</strong> Liquid filling the cell where glycolysis occurs</li>\n      <li><strong>Mitochondria:</strong> \"Powerhouse\" where later energy steps occur (Krebs cycle, electron transport)</li>\n      <li><strong>Nucleus:</strong> Contains DNA, not involved in energy production</li>\n      <li><strong>Ribosome:</strong> Makes proteins</li>\n      <li><strong>Vacuole:</strong> Storage space in plant cells</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Glycolysis occurs in the cytoplasm of ALL living cells.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Cell Biology", "Cellular Transport"],
+    "Question": {
+      "content": "Which statement correctly describes facilitated diffusion?",
+      "type": "OBJ",
+      "options": [
+        "Requires energy",
+        "Is involved in the transportation of very small molecules across a membrane",
+        "Involves the transportation of large molecules across a membrane using transport proteins",
+        "Involves the transport of molecules across a cell membrane against a concentration gradient",
+        "Requires pumps"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Involves the transportation of large molecules across a membrane using transport proteins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Facilitated Diffusion Explained</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Three Types of Transport:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>1. Simple Diffusion:</strong><br>\n      • Small molecules (oxygen, carbon dioxide)<br>\n      • No help needed<br>\n      • DOWN concentration gradient\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>2. Facilitated Diffusion:</strong><br>\n      • Larger molecules (glucose, amino acids)<br>\n      • Uses PROTEIN CHANNELS as doors<br>\n      • DOWN concentration gradient<br>\n      • NO energy required\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>3. Active Transport:</strong><br>\n      • Any size molecules<br>\n      • Uses protein PUMPS<br>\n      • AGAINST concentration gradient<br>\n      • REQUIRES energy (ATP)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Real-life Example:</strong><br>\n    Facilitated diffusion is like using a turnstile at a subway station. Glucose is too big to squeeze through the membrane \"fence,\" so it uses a special protein \"turnstile\" to get in, but only moves where there's space (down gradient).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Facilitated diffusion uses transport proteins to help large molecules cross membranes down their concentration gradient.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Cell Biology", "Cellular Transport"],
+    "Question": {
+      "content": "Which statement correctly describes active transport?",
+      "type": "OBJ",
+      "options": [
+        "Requires energy",
+        "Is involved in the transportation of very small molecules across a membrane",
+        "Involves the transport of large molecules across a membrane using transport proteins",
+        "Involves the transport of molecules across a cell membrane against a concentration gradient using pumps and transport proteins",
+        "Spontaneous passage of molecules across a membrane without the use of transport proteins"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Involves the transport of molecules across a cell membrane against a concentration gradient using pumps and transport proteins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Active Transport Characteristics</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Complete Definition:</strong><br>\n    Active transport moves molecules FROM where they are FEW to where they are MANY (against the gradient), using special protein PUMPS that require ENERGY (ATP).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Features of Active Transport:</strong><br>\n    <ul>\n      <li><strong>Against Gradient:</strong> Moves from low to high concentration</li>\n      <li><strong>Requires Energy:</strong> Uses ATP (cell's energy currency)</li>\n      <li><strong>Uses Pumps:</strong> Special transport proteins act like pumps</li>\n      <li><strong>Specific:</strong> Each pump transports specific molecules</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Real-life Example:</strong><br>\n    Like pumping water UPHILL into a water tower. Water naturally flows down, but you need energy (pumps) to push it up against gravity. Similarly, cells use energy to pump nutrients INTO the cell even when there's already plenty inside.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Common Example:</strong><br>\n    The sodium-potassium pump in nerve cells pumps 3 sodium ions OUT and 2 potassium ions IN against their gradients, using ATP.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Option D gives the most complete description: against gradient + uses pumps/proteins + requires energy.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Human Physiology", "Metabolism"],
+    "Question": {
+      "content": "What condition occurs when abnormal amounts of certain breakdown products accumulate in the blood because fats don't burn completely due to excessive breakdown that cannot be handled by the body?",
+      "type": "OBJ",
+      "options": [
+        "Ketosis",
+        "Heparin",
+        "Stomatitis",
+        "Dwarfism",
+        "Photolysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ketosis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Ketosis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Normal Energy Use:</strong><br>\n    Normally, your body burns glucose (carbs) for energy first. When glucose is scarce, it switches to burning fat.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What Happens in Ketosis:</strong><br>\n    <ol>\n      <li>Body runs out of glucose (starvation, low-carb diet)</li>\n      <li>Starts burning fat rapidly for energy</li>\n      <li>Fat breakdown produces \"ketone bodies\" as byproducts</li>\n      <li>Ketones accumulate in blood → condition called ketosis</li>\n    </ol>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Symptoms/Signs:</strong><br>\n    • Sweet/fruity breath (acetone smell)<br>\n    • Fatigue, nausea<br>\n    • Common in: uncontrolled diabetes, starvation, ketogenic diets\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Options Explained:</strong><br>\n    <ul>\n      <li><strong>Heparin:</strong> Blood thinner medication</li>\n      <li><strong>Stomatitis:</strong> Mouth inflammation</li>\n      <li><strong>Dwarfism:</strong> Growth disorder</li>\n      <li><strong>Photolysis:</strong> Light-induced chemical breakdown</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Ketosis is the condition described.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Biological Classification", "History of Biology"],
+    "Question": {
+      "content": "Who is considered the founder of modern taxonomy?",
+      "type": "OBJ",
+      "options": [
+        "Darwin",
+        "Whittaker",
+        "Linnaeus",
+        "Newton"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Linnaeus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Founders of Biological Sciences</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Taxonomy?</strong><br>\n    Taxonomy is the science of naming, describing, and classifying organisms into groups based on similarities.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Scientists:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Carl Linnaeus (1707-1778):</strong><br>\n      • Swedish botanist<br>\n      • Created binomial nomenclature (two-name system: Genus species)<br>\n      • Developed hierarchical classification (Kingdom→Phylum→Class→etc.)<br>\n      • <strong>Founder of modern taxonomy</strong>\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Others:</strong><br>\n      • <strong>Charles Darwin:</strong> Theory of evolution by natural selection<br>\n      • <strong>Robert Whittaker:</strong> Proposed 5-kingdom system (1969)<br>\n      • <strong>Isaac Newton:</strong> Physics/mathematics, not biology\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Linnaeus's System:</strong><br>\n    Humans are classified as:<br>\n    <div style='text-align: center; margin: 10px 0;'>\n      <strong>Homo sapiens</strong><br>\n      ↓<br>\n      Genus: Homo + Species: sapiens\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Carl Linnaeus is universally recognized as the father of modern taxonomy.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Nutrition", "Metabolism"],
+    "Question": {
+      "content": "Which of the following is not a type of heterotrophic nutrition?",
+      "type": "OBJ",
+      "options": [
+        "Parasitism",
+        "Saprophytism",
+        "Autotrophism",
+        "Mutualism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Autotrophism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Nutrition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Two Main Categories:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Autotrophic Nutrition:</strong><br>\n      • Organisms make their own food<br>\n      • Example: Plants (photosynthesis)<br>\n      • \"Auto\" = self, \"troph\" = feeding\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Heterotrophic Nutrition:</strong><br>\n      • Organisms depend on others for food<br>\n      • \"Hetero\" = other, \"troph\" = feeding<br>\n      • Types: Parasitism, Saprophytism, Mutualism\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Difference:</strong><br>\n    Autotrophism is the OPPOSITE of heterotrophic nutrition. Autotrophs are producers (like plants), while heterotrophs are consumers (like animals, fungi).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Autotrophism is NOT a type of heterotrophic nutrition—it's the complete opposite.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Nutrition", "Parasitology"],
+    "Question": {
+      "content": "What type of nutrition occurs when an organism lives on the body surface or inside the body of another organism?",
+      "type": "OBJ",
+      "options": [
+        "Parasitic nutrition",
+        "Holozoic nutrition",
+        "Saprophytic nutrition",
+        "Herbivorous nutrition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parasitic nutrition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Parasitic Nutrition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is a Parasite?</strong><br>\n    A parasite lives ON or IN another organism (host) and benefits at the host's expense.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Examples:</strong><br>\n    • <strong>External parasites:</strong> Ticks, lice (live ON host)<br>\n    • <strong>Internal parasites:</strong> Tapeworms, malaria parasite (live IN host)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Nutrition Types:</strong><br>\n    <ul>\n      <li><strong>Holozoic:</strong> Eating solid food (like animals do)</li>\n      <li><strong>Saprophytic:</strong> Feeding on dead/decaying matter (like fungi)</li>\n      <li><strong>Herbivorous:</strong> Plant-eating (a TYPE of holozoic nutrition)</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Parasitic nutrition involves living on or inside another organism.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Genetics", "Reproduction"],
+    "Question": {
+      "content": "What is the offspring called that results from a cross between two genetically different parents?",
+      "type": "OBJ",
+      "options": [
+        "Hybrid",
+        "Pure breed",
+        "Pure line",
+        "Back cross",
+        "Test cross"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hybrid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Genetic Crosses Terminology</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Terms:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Hybrid:</strong><br>\n      • Offspring of two genetically DIFFERENT parents<br>\n      • Example: Mule (horse × donkey)<br>\n      • Often shows \"hybrid vigor\" (stronger traits)\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Pure Breed/Pure Line:</strong><br>\n      • Offspring of genetically SIMILAR parents<br>\n      • Same traits generation after generation\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Back Cross:</strong><br>\n      • Crossing a hybrid with one of its parents\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Test Cross:</strong><br>\n      • Crossing with a homozygous recessive to determine genotype\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Hybrid offspring come from genetically different parents.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Biochemistry", "Bioenergetics"],
+    "Question": {
+      "content": "What is the study of energy transformation in living organisms called?",
+      "type": "OBJ",
+      "options": [
+        "Thermodynamics",
+        "Bioenergetics",
+        "Enthalpy",
+        "Entropy",
+        "Gibbs free energy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bioenergetics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bioenergetics Defined</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Breaking Down the Word:</strong><br>\n    • <strong>Bio-</strong> = life/biological<br>\n    • <strong>Energetics</strong> = study of energy<br>\n    • So: Study of energy in living systems\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What Bioenergetics Studies:</strong><br>\n    • How cells convert food into energy (ATP)<br>\n    • Energy flow in ecosystems<br>\n    • Metabolic pathways (glycolysis, Krebs cycle)<br>\n    • Energy requirements of organisms\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Related Terms:</strong><br>\n    <ul>\n      <li><strong>Thermodynamics:</strong> General study of energy (physics/chemistry)</li>\n      <li><strong>Enthalpy:</strong> Total heat content of a system</li>\n      <li><strong>Entropy:</strong> Measure of disorder/randomness</li>\n      <li><strong>Gibbs free energy:</strong> Energy available to do work</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Bioenergetics specifically studies energy transformations in living organisms.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["History of Biology", "Cell Biology"],
+    "Question": {
+      "content": "Who invented the first microscope?",
+      "type": "OBJ",
+      "options": [
+        "Robert Hooke",
+        "Mathias Schleiden",
+        "Theodor Schwann",
+        "Hans and Zacharias Janssen",
+        "Anton Van Leeuwenhoek"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hans and Zacharias Janssen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Microscope Inventors</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Historical Timeline:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>1590s: Hans & Zacharias Janssen</strong><br>\n      • Dutch father-son eyeglass makers<br>\n      • Created FIRST compound microscope<br>\n      • Used multiple lenses in a tube\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>1665: Robert Hooke</strong><br>\n      • First to observe and name \"cells\" in cork<br>\n      • Improved microscope design\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>1670s: Anton Van Leeuwenhoek</strong><br>\n      • Made powerful single-lens microscopes<br>\n      • First to observe living cells (bacteria, sperm)\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>1830s: Schleiden & Schwann</strong><br>\n      • Proposed cell theory<br>\n      • Much later scientists\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Hans and Zacharias Janssen invented the first microscope in the 1590s.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Cell Biology", "Cellular Structure"],
+    "Question": {
+      "content": "How do eukaryotic cells differ from prokaryotic cells?",
+      "type": "OBJ",
+      "options": [
+        "By having a nucleus",
+        "By having mitochondria",
+        "By having cytoplasm",
+        "By having DNA",
+        "By having flagella"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "By having a nucleus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Eukaryotic vs Prokaryotic Cells</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Main Difference:</strong><br>\n    <strong>Eukaryotic</strong> cells have a TRUE NUCLEUS with a nuclear membrane.<br>\n    <strong>Prokaryotic</strong> cells have NO true nucleus—DNA floats freely.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Comparison Table:</strong><br>\n    <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 10px 0;'>\n      <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px;'>\n        <strong>Eukaryotic Cells</strong><br>\n        • True nucleus<br>\n        • Membrane-bound organelles<br>\n        • Larger (10-100 μm)<br>\n        • Animals, plants, fungi\n      </div>\n      <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px;'>\n        <strong>Prokaryotic Cells</strong><br>\n        • No true nucleus<br>\n        • No membrane-bound organelles<br>\n        • Smaller (1-5 μm)<br>\n        • Bacteria, archaea\n      </div>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Important Note:</strong><br>\n    Both cell types have:<br>\n    • Cytoplasm (all cells have this)<br>\n    • DNA (all living cells have DNA)<br>\n    • Some have flagella (both types can have them)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> The defining feature is the presence of a true nucleus in eukaryotic cells.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Biochemistry", "Enzymes"],
+    "Question": {
+      "content": "How do enzymes speed up biochemical reactions in living systems?",
+      "type": "OBJ",
+      "options": [
+        "By inhibiting the activation energy of the reactions",
+        "By increasing the activation energy of the reactions",
+        "By blocking the activation energy of the reactions",
+        "By lowering the activation energy of the reactions",
+        "By stabilizing the activation energy of the reactions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "By lowering the activation energy of the reactions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Enzymes as Biological Catalysts</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What are Enzymes?</strong><br>\n    Enzymes are protein molecules that speed up chemical reactions in cells without being used up.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Activation Energy Analogy:</strong><br>\n    Imagine pushing a car over a hill:<br>\n    • <strong>Without enzyme:</strong> High hill = hard to push (high activation energy)<br>\n    • <strong>With enzyme:</strong> Low hill = easy to push (low activation energy)<br>\n    The enzyme provides an \"easier path\" for the reaction.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How Enzymes Work:</strong><br>\n    1. Substrate (reactant) binds to enzyme's active site<br>\n    2. Enzyme-substrate complex forms<br>\n    3. Reaction occurs more easily<br>\n    4. Products are released, enzyme reused\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Points:</strong><br>\n    • Enzymes DON'T change the final products<br>\n    • They DON'T provide energy to reactions<br>\n    • They ONLY make reactions happen faster\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Enzymes lower the activation energy, making reactions occur more easily.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Biochemistry", "Metabolism"],
+    "Question": {
+      "content": "What are energy-releasing reactions called?",
+      "type": "OBJ",
+      "options": [
+        "Endergonic reactions",
+        "Exergonic reactions",
+        "Oxidation reactions",
+        "Reduction reactions",
+        "Catabolic reactions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Exergonic reactions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy-Releasing vs Energy-Absorbing Reactions</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Remember the Prefixes:</strong><br>\n    • <strong>Ex-</strong> = exit/out (like exit, exhale)<br>\n    • <strong>Endo-</strong> = enter/in (like enter, endocrine)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Two Main Types:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Exergonic Reactions:</strong><br>\n      • RELEASE energy (ΔG < 0)<br>\n      • Spontaneous<br>\n      • Examples: Burning wood, cellular respiration<br>\n      • \"Exiting\" energy\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Endergonic Reactions:</strong><br>\n      • ABSORB energy (ΔG > 0)<br>\n      • Need energy input<br>\n      • Examples: Photosynthesis, protein synthesis<br>\n      • \"Entering\" energy\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Related Terms:</strong><br>\n    • <strong>Catabolic:</strong> Breaking down molecules (often exergonic)<br>\n    • <strong>Anabolic:</strong> Building up molecules (often endergonic)<br>\n    • <strong>Oxidation/Reduction:</strong> Electron transfer reactions\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Exergonic reactions release energy.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Human Physiology", "Nutrition"],
+    "Question": {
+      "content": "Why is dietary fiber important in humans?",
+      "type": "OBJ",
+      "options": [
+        "Helps reduce the chance of constipation and diarrhea",
+        "Stimulates movements of digested food along the digestive tract",
+        "Slows the absorption of sugar and reduces the risk of type 2 Diabetes",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Dietary Fiber Benefits</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Dietary Fiber?</strong><br>\n    Fiber is the indigestible part of plant foods that passes through our digestive system mostly intact.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Three Key Benefits:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>1. Prevents Constipation/Diarrhea:</strong><br>\n      • Adds bulk to stool<br>\n      • Absorbs water (prevents diarrhea)<br>\n      • Softens stool (prevents constipation)\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>2. Stimulates Digestion:</strong><br>\n      • Promotes peristalsis (muscle contractions)<br>\n      • Keeps food moving through intestines<br>\n      • Prevents stagnation\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>3. Controls Blood Sugar:</strong><br>\n      • Slows carbohydrate digestion<br>\n      • Prevents sugar spikes<br>\n      • Reduces diabetes risk\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Good Fiber Sources:</strong><br>\n    • Whole grains (oats, brown rice)<br>\n    • Fruits (apples, berries)<br>\n    • Vegetables (broccoli, carrots)<br>\n    • Legumes (beans, lentils)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> All statements are true benefits of dietary fiber.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Cell Biology", "Cellular Transport"],
+    "Question": {
+      "content": "What are carrier proteins that transport solute from one side of the membrane to the other called?",
+      "type": "OBJ",
+      "options": [
+        "Symport",
+        "Antiport",
+        "Uniports",
+        "Crimport",
+        "Xemport"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uniports"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Carrier Proteins</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Three Main Types:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Uniports:</strong><br>\n      • Transport ONE substance in ONE direction<br>\n      • \"Uni\" = one<br>\n      • Example: Glucose transporter\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Symports:</strong><br>\n      • Transport TWO substances in SAME direction<br>\n      • \"Sym\" = together<br>\n      • Example: Sodium-glucose cotransporter\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Antiports:</strong><br>\n      • Transport TWO substances in OPPOSITE directions<br>\n      • \"Anti\" = against<br>\n      • Example: Sodium-potassium pump\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Question Focus:</strong><br>\n    The question asks specifically about transporting \"solute from one side to the other\"—this describes uniport movement (single substance, single direction).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Note:</strong><br>\n    \"Crimport\" and \"Xemport\" are not real biological terms.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Uniports transport a single solute from one side to the other.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Cell Biology", "Reproduction"],
+    "Question": {
+      "content": "What type of organism uses budding as a method of cell multiplication?",
+      "type": "OBJ",
+      "options": [
+        "Bacteria",
+        "Algae",
+        "Yeast",
+        "Viruses",
+        "Bacteriophages"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yeast"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Budding Reproduction</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Budding?</strong><br>\n    A small \"bud\" grows out from the parent cell, matures, and eventually detaches as a new individual.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Yeast Budding:</strong><br>\n    • Yeast are single-celled fungi<br>\n    • They reproduce asexually by budding<br>\n    • Process: Small bud forms → nucleus divides → bud grows → separates\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Organisms' Reproduction:</strong><br>\n    <ul>\n      <li><strong>Bacteria:</strong> Binary fission (splitting in half)</li>\n      <li><strong>Algae:</strong> Various methods (fission, fragmentation, spores)</li>\n      <li><strong>Viruses/Bacteriophages:</strong> Infect host cells and hijack machinery</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Real-life Example:</strong><br>\n    Yeast budding is important in:<br>\n    • Bread making (yeast produces CO₂)<br>\n    • Brewing beer/winemaking<br>\n    • Scientific research (common model organism)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Yeast is the classic example of an organism that reproduces by budding.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["History of Biology", "Genetics"],
+    "Question": {
+      "content": "What theory did biologists believe before the advent of genetics?",
+      "type": "OBJ",
+      "options": [
+        "Cell theory",
+        "Blending theory",
+        "Spontaneous generation",
+        "Principle of segregation of Genes",
+        "Principle of assortment of genes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blending theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Historical Theories of Inheritance</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Before Genetics (pre-1860s):</strong><br>\n    People didn't understand how traits were inherited. The prevailing idea was the <strong>Blending Theory</strong>.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Blending Theory:</strong><br>\n    • Parents' traits \"blend\" like mixing paints<br>\n    • Example: Red flower + white flower = pink flower<br>\n    • Offspring are intermediate between parents<br>\n    • Problem: Doesn't explain how traits reappear in later generations\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Theories:</strong><br>\n    <ul>\n      <li><strong>Spontaneous Generation:</strong> Life arises from non-living matter (disproven by Pasteur)</li>\n      <li><strong>Cell Theory:</strong> All living things are made of cells (still accepted)</li>\n      <li><strong>Mendel's Principles:</strong> Segregation & assortment—these CAME AFTER and REPLACED blending theory</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Gregor Mendel's Contribution (1865):</strong><br>\n    Showed traits are inherited as discrete units (genes), not blended. His work wasn't recognized until 1900.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Blending theory was the dominant belief before Mendel's genetics.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Biochemistry", "Organic Chemistry"],
+    "Question": {
+      "content": "Which functional group is NOT typically found in amino acids?",
+      "type": "OBJ",
+      "options": [
+        "Amino group",
+        "Carboxyl group",
+        "Alkyl group",
+        "Ethoxy group",
+        "Aryl group"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethoxy group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Amino Acid Structure</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Basic Structure of ALL Amino Acids:</strong><br>\n    <div style='text-align: center; margin: 15px 0;'>\n      H₂N — CH — COOH<br>\n          │<br>\n          R\n    </div>\n    Where R = side chain (varies for each amino acid)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Essential Components:</strong><br>\n    <ol>\n      <li><strong>Amino group (-NH₂):</strong> Basic part, gives \"amino\" name</li>\n      <li><strong>Carboxyl group (-COOH):</strong> Acidic part, makes it an \"acid\"</li>\n      <li><strong>Alpha carbon with R group:</strong> Central carbon with side chain</li>\n    </ol>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Possible R Groups:</strong><br>\n    • <strong>Alkyl groups:</strong> Carbon-hydrogen chains (in alanine, valine)<br>\n    • <strong>Aryl groups:</strong> Benzene rings (in phenylalanine, tyrosine)<br>\n    • <strong>BUT NOT Ethoxy groups (-O-CH₂-CH₃):</strong> This is specific to ethers, not amino acids\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Amino Acid Functions:</strong><br>\n    • Building blocks of proteins<br>\n    • 20 standard amino acids in humans<br>\n    • Differ only in their R groups\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Ethoxy group is not part of amino acid structure.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Parasitology", "Nutrition"],
+    "Question": {
+      "content": "Which structure is NOT associated with nutrient acquisition in endoparasites?",
+      "type": "OBJ",
+      "options": [
+        "Microvilli",
+        "Tegument",
+        "Stomata",
+        "Gut"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stomata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Endoparasite Nutrient Acquisition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What are Endoparasites?</strong><br>\n    Parasites that live INSIDE their host's body (e.g., tapeworms, liver flukes).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Nutrient-Acquiring Structures:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Microvilli:</strong><br>\n      • Tiny finger-like projections<br>\n      • Increase surface area for absorption<br>\n      • Found in tapeworm tegument\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Tegument:</strong><br>\n      • Specialized outer covering<br>\n      • Absorbs nutrients directly through skin<br>\n      • Common in flatworms\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Gut/Digestive System:</strong><br>\n      • Some parasites have simple guts<br>\n      • Digests host's tissues/fluids\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What are Stomata?</strong><br>\n    • Tiny pores on PLANT leaves<br>\n    • For gas exchange (CO₂ in, O₂ out)<br>\n    • Found in PLANTS, NOT parasites\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Point:</strong><br>\n    Endoparasites absorb nutrients directly from host's body fluids—they don't need plant-like stomata.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Stomata are plant structures, not parasite structures.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Cell Biology", "Cellular Organelles"],
+    "Question": {
+      "content": "What is the main function of mitochondria in the cell?",
+      "type": "OBJ",
+      "options": [
+        "Protein synthesis",
+        "Protein pumps",
+        "ATP synthesis",
+        "Store for genetic materials",
+        "Bag containing hydrolytic enzymes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ATP synthesis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mitochondria: The Powerhouse</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Primary Function:</strong><br>\n    Mitochondria produce <strong>ATP</strong> (Adenosine Triphosphate), the cell's energy currency.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How Mitochondria Make ATP:</strong><br>\n    1. Krebs Cycle (matrix): Breaks down nutrients<br>\n    2. Electron Transport Chain (inner membrane): Creates proton gradient<br>\n    3. ATP Synthase: Uses gradient to make ATP\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Organelles' Functions:</strong><br>\n    <ul>\n      <li><strong>Protein synthesis:</strong> Ribosomes (not mitochondria)</li>\n      <li><strong>Protein pumps:</strong> Cell membrane/ER</li>\n      <li><strong>Genetic material storage:</strong> Nucleus (mitochondria have their own DNA but not for storage)</li>\n      <li><strong>Hydrolytic enzymes:</strong> Lysosomes (\"digestive bags\")</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Interesting Facts:</strong><br>\n    • Mitochondria have their own DNA (maternal inheritance)<br>\n    • Can divide independently of cell<br>\n    • Abundant in high-energy cells (muscle, liver)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> ATP synthesis is the primary function of mitochondria.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Biochemistry", "Cellular Processes"],
+    "Question": {
+      "content": "What is the main energy carrier molecule in biological systems?",
+      "type": "OBJ",
+      "options": [
+        "FADH₂",
+        "NADH",
+        "ATP",
+        "Acetyl CoA",
+        "Pyruvic acid"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ATP"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cellular Energy Carriers</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>ATP: The Universal Energy Currency</strong><br>\n    ATP (Adenosine Triphosphate) is used by ALL cells for:<br>\n    • Muscle contraction<br>\n    • Active transport<br>\n    • Protein synthesis<br>\n    • Nerve impulse transmission\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>ATP Structure:</strong><br>\n    Adenosine — P~P~P (three phosphate groups)<br>\n    Energy is released when the last phosphate bond breaks: ATP → ADP + P + energy\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Molecules' Roles:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>NADH & FADH₂:</strong><br>\n      • Electron carriers in respiration<br>\n      • Help MAKE ATP but don't directly power reactions\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Acetyl CoA & Pyruvate:</strong><br>\n      • Metabolic intermediates<br>\n      • Broken down to release energy stored in ATP\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Simple Analogy:</strong><br>\n    • ATP = Cash (immediately usable)<br>\n    • NADH/FADH₂ = Gift cards (need conversion)<br>\n    • Acetyl CoA = Raw materials (need processing)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> ATP is the direct, universal energy carrier for cellular work.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Cell Biology", "Prokaryotic Cells"],
+    "Question": {
+      "content": "What is the dense region of concentrated genetic material in prokaryotic cells called?",
+      "type": "OBJ",
+      "options": [
+        "Nucleus",
+        "DNA",
+        "Nucleoid",
+        "Cytoplasm",
+        "Membrane"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleoid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotic Genetic Organization</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Difference:</strong><br>\n    <strong>Eukaryotes:</strong> DNA in membrane-bound NUCLEUS<br>\n    <strong>Prokaryotes:</strong> DNA in NUCLEOID region (no membrane)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Nucleoid Characteristics:</strong><br>\n    • Irregularly shaped region<br>\n    • Contains circular DNA chromosome<br>\n    • Not separated from cytoplasm by membrane<br>\n    • \"Nucleoid\" = nucleus-like\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Visualizing the Nucleoid:</strong><br>\n    Imagine bacterial DNA as a tangled ball of string floating in jelly (cytoplasm). The dense tangle is the nucleoid.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why No True Nucleus?</strong><br>\n    Prokaryotes are simpler, more primitive cells. The nucleus evolved later in eukaryotes for better genetic organization and protection.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Prokaryotic Examples:</strong><br>\n    • Bacteria (E. coli, Staphylococcus)<br>\n    • Archaea (extremophiles)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Nucleoid is the region containing DNA in prokaryotes.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["History of Biology", "Cell Biology"],
+    "Question": {
+      "content": "Who first observed cells?",
+      "type": "OBJ",
+      "options": [
+        "Rudolf Virchow",
+        "Robert Hooke",
+        "Anton Van Leeuwenhoek",
+        "Gregor Mendel",
+        "John Dalton"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Robert Hooke"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Discovery of Cells</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Robert Hooke (1665):</strong><br>\n    • English scientist<br>\n    • Observed cork under microscope<br>\n    • Saw tiny compartments resembling \"cells\" in a monastery<br>\n    • Published \"Micrographia\" with drawings<br>\n    • FIRST to use term \"cell\"\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Scientists' Contributions:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Anton Van Leeuwenhoek (1670s):</strong><br>\n      • First to observe LIVING cells<br>\n      • Saw bacteria, sperm, red blood cells<br>\n      • Called them \"animalcules\"\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Rudolf Virchow (1855):</strong><br>\n      • Proposed \"all cells come from pre-existing cells\"<br>\n      • Part of cell theory development\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Gregor Mendel & John Dalton:</strong><br>\n      • Genetics and atomic theory, respectively<br>\n      • Not cell biology\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What Hooke Actually Saw:</strong><br>\n    Cork cell WALLS (dead plant cells). He didn't see the living contents inside.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Robert Hooke first observed and named cells in 1665.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Cell Biology", "Prokaryotic Cells"],
+    "Question": {
+      "content": "What is the cell wall of prokaryotic cells made of?",
+      "type": "OBJ",
+      "options": [
+        "Proteins",
+        "Hemicellulose",
+        "Plastids",
+        "Peptidoglycan",
+        "Cellulose"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peptidoglycan"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotic Cell Walls</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Peptidoglycan Structure:</strong><br>\n    • \"Peptido\" = peptide (protein chains)<br>\n    • \"Glycan\" = sugar chains<br>\n    • Mesh-like network of sugars cross-linked by proteins<br>\n    • Provides strength and shape\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Comparison with Other Organisms:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Bacteria (Prokaryotes):</strong><br>\n      • Peptidoglycan cell wall<br>\n      • Can be thick (Gram-positive) or thin (Gram-negative)\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Plants (Eukaryotes):</strong><br>\n      • Cellulose cell wall<br>\n      • Hemicellulose and pectin also present\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Fungi (Eukaryotes):</strong><br>\n      • Chitin cell wall\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Medical Importance:</strong><br>\n    • Antibiotics like penicillin target peptidoglycan synthesis<br>\n    • Disrupting cell wall kills bacteria without harming human cells (we have no cell wall)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Terms:</strong><br>\n    • <strong>Plastids:</strong> Plant organelles (chloroplasts), not wall components<br>\n    • <strong>Proteins:</strong> Part of peptidoglycan but not the main component\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Prokaryotic cell walls contain peptidoglycan.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Cell Biology", "Diversity of Living Organisms"],
+    "Question": {
+      "content": "The cell membrane of Archibacteria is composed of",
+      "type": "OBJ",
+      "options": [
+        "Bilipid membrane composed of straight chain fatty acids and ester linkages",
+        "Monolayer of branched hydrocarbons and ester linkages",
+        "Monolayer of lipids",
+        "Bilipid layer sandwiching proteins",
+        "Peptidoglycan layer"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Monolayer of branched hydrocarbons and ester linkages"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cell Membrane of Archaebacteria</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Unique Features of Archaea</strong><br>\n    Archaebacteria live in extreme environments (extreme heat, salt, etc.). To survive this, their cell membranes are different from normal bacteria and eukaryotes.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Branched vs. Straight Chains</strong><br>\n    <ul>\n      <li><strong>Normal Bacteria/Animals:</strong> Have <em>straight</em> fatty acid chains.</li>\n      <li><strong>Archaebacteria:</strong> Have <em>branched</em> hydrocarbon chains (made of isoprene units). This branching makes the membrane more stable.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Monolayer vs. Bilayer</strong><br>\n    In very hot environments, the two layers of the lipid bilayer can fuse together to form a <strong>monolayer</strong>. This makes the membrane rigid and prevents it from melting apart.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Genetics", "Biochemistry"],
+    "Question": {
+      "content": "RNA differs from DNA in that it contains the nitrogenous base Uracil in place of",
+      "type": "OBJ",
+      "options": [
+        "Adenine",
+        "Thymine",
+        "Guanine",
+        "Cytosine",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thymine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA vs. RNA Bases</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The 4 Bases of DNA:</strong><br>\n    A-T-C-G\n    <ul>\n      <li>Adenine (A) pairs with <strong>Thymine (T)</strong></li>\n      <li>Cytosine (C) pairs with Guanine (G)</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The 4 Bases of RNA:</strong><br>\n    A-U-C-G\n    <ul>\n      <li>Adenine (A) pairs with <strong>Uracil (U)</strong></li>\n      <li>Cytosine (C) pairs with Guanine (G)</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Difference:</strong> RNA does not have Thymine. Instead, it uses <strong>Uracil</strong>. So, Uracil replaces Thymine.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Microbiology", "Viruses"],
+    "Question": {
+      "content": "Replication is a mechanism of",
+      "type": "OBJ",
+      "options": [
+        "Bacteria multiplication",
+        "Viral multiplication",
+        "Algal reproduction",
+        "Yeast multiplication"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Viral multiplication"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Replication</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Different organisms multiply in different ways:\n    <ul>\n      <li><strong>Bacteria:</strong> Multiply by <em>Binary Fission</em> (splitting in two).</li>\n      <li><strong>Yeast:</strong> Multiply by <em>Budding</em>.</li>\n      <li><strong>Viruses:</strong> Multiply by <strong>Replication</strong>.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why Viruses?</strong><br>\n    Viruses are not fully \"alive\" on their own. They must hijack a host cell's machinery to copy their genetic code. This process of copying inside a host is specifically called <strong>Viral Replication</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Microbiology", "Diversity of Living Organisms"],
+    "Question": {
+      "content": "Prokaryotes have the following morphological forms except",
+      "type": "OBJ",
+      "options": [
+        "Cocci",
+        "Bacilli",
+        "Spirally",
+        "Vibrio",
+        "Polygonal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polygonal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Shapes of Bacteria (Prokaryotes)</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Bacteria are classified by their shape (morphology). The standard shapes are:\n    <ul>\n       <li><strong>Cocci:</strong> Spherical or round.</li>\n       <li><strong>Bacilli:</strong> Rod-shaped.</li>\n       <li><strong>Spirilla (Spirally):</strong> Spiral or corkscrew shaped.</li>\n       <li><strong>Vibrio:</strong> Comma shaped.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Odd One Out</strong><br>\n    \"Polygonal\" (having many angles like a geometric polygon) is <strong>not</strong> a standard biological category for describing the shape of a single bacterial cell.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Diversity of Living Organisms", "Animal Kingdom"],
+    "Question": {
+      "content": "Phylum _________ is the most diversified group in the animal kingdom",
+      "type": "OBJ",
+      "options": [
+        "Arthropoda",
+        "Annelida",
+        "Nematoda",
+        "Porifera"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Arthropoda"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Largest Animal Phylum</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Arthropoda</strong> is the largest and most diverse phylum in the animal kingdom. It includes:\n    <ul>\n      <li>Insects (beetles, ants, butterflies)</li>\n      <li>Arachnids (spiders, scorpions)</li>\n      <li>Crustaceans (crabs, shrimp)</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Fun Fact:</strong><br>\n    Over 80% of all known animal species are Arthropods! Their success is due to their versatile exoskeleton and jointed legs.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Plant Physiology", "Ecology"],
+    "Question": {
+      "content": "Photosynthesis produces oxygen during the day and gives off carbon dioxide at night. What would you recommend that an owner of a house plant does with his plant at night if he sleeps in the same room with his plant?",
+      "type": "OBJ",
+      "options": [
+        "Nothing",
+        "something",
+        "shift window curtain all the time",
+        "Remove the plant at night",
+        "Remove plant during the day"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Remove the plant at night"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plants and Breathing at Night</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Daytime:</strong><br>\n    Plants perform <strong>Photosynthesis</strong>. They take in Carbon Dioxide (CO₂) and release Oxygen (O₂). This is good for humans.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Nighttime:</strong><br>\n    There is no sunlight, so photosynthesis stops. However, the plant still performs <strong>Respiration</strong> (breathing). It takes in Oxygen and releases Carbon Dioxide, just like humans do.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why remove it?</strong><br>\n    If you sleep in a closed room with a plant, both you and the plant are competing for oxygen and releasing CO₂. While the effect is small, the classic biological recommendation is to remove the plant to ensure fresh air.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Nutrition", "Ecology"],
+    "Question": {
+      "content": "Which of these statements is not true about mode of nutrition of plants and animals",
+      "type": "OBJ",
+      "options": [
+        "Both do not obtain food by the same process",
+        "Plants synthesis food",
+        "Animals depend on other organisms for food",
+        "Both obtain nutrient from inorganic compounds"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both obtain nutrient from inorganic compounds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plant vs. Animal Nutrition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Let's check the options to find the <strong>false</strong> one:\n    <ul>\n      <li>(a) True: Plants make food; animals eat food.</li>\n      <li>(b) True: Plants synthesize food (Photosynthesis).</li>\n      <li>(c) True: Animals are consumers (heterotrophs).</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why (d) is False:</strong><br>\n    Plants can build their bodies from <strong>inorganic</strong> compounds (like CO₂ and Water). However, animals <strong>cannot</strong> survive on inorganic compounds alone; they need <strong>organic</strong> nutrients (proteins, carbs, fats) that come from eating plants or other animals.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Ecology", "Parasitology"],
+    "Question": {
+      "content": "Which of these is not relevant for ectoparasites to gain access to their host nutrient",
+      "type": "OBJ",
+      "options": [
+        "Parasite transporters and permeases",
+        "Proboscis",
+        "Antennae",
+        "Ability to secrete digestive enzymes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parasite transporters and permeases"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ectoparasite Adaptations</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Ectoparasites</strong> are parasites that live on the <em>outside</em> of the host (like ticks, lice, or mosquitoes). \n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    To feed, they need:\n    <ul>\n      <li><strong>Proboscis:</strong> A mouthpart to pierce skin and suck blood.</li>\n      <li><strong>Antennae:</strong> To sense heat or smell to find the host.</li>\n      <li><strong>Enzymes:</strong> To stop blood from clotting or digest skin.</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Parasite transporters and permeases\" are microscopic proteins used by single cells to move molecules across a membrane. This is a <strong>cellular/molecular</strong> mechanism, not a physical body part used by an insect/bug to bite a host.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Taxonomy", "Classification"],
+    "Question": {
+      "content": "Which of these is not correct about why we should classify organisms?",
+      "type": "OBJ",
+      "options": [
+        "To create confusion",
+        "For ease of grouping",
+        "Provision of a system of studying larger populations",
+        "To highlight the relationship between different organisms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To create confusion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Purpose of Classification</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Classification (Taxonomy) is designed to organize the vast variety of life. Its goals are to:\n    <ul>\n      <li>Make organisms easier to study.</li>\n      <li>Show how organisms are related (evolutionary history).</li>\n      <li>Provide a universal naming system.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Odd One Out:</strong><br>\n    Classification exists to <strong>eliminate</strong> confusion (so everyone knows what a \"Felis catus\" is), not to create it. Therefore, option (a) is the incorrect reason.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Biochemistry", "Cell Biology"],
+    "Question": {
+      "content": "Which of these is not associated with ATP molecule",
+      "type": "OBJ",
+      "options": [
+        "Nitrogenous base",
+        "ribose sugar",
+        "Phosphate group",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Structure of ATP</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    ATP stands for <strong>Adenosine Triphosphate</strong>. It is composed of three parts:\n    <ol>\n      <li><strong>Nitrogenous Base:</strong> Specifically Adenine.</li>\n      <li><strong>Sugar:</strong> A Ribose sugar.</li>\n      <li><strong>Phosphate:</strong> Three phosphate groups.</li>\n    </ol>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Analyzing the Options</strong><br>\n    The question asks what is <em>NOT</em> associated.\n    <ul>\n      <li>(a) Nitrogenous base: Is associated.</li>\n      <li>(b) Ribose sugar: Is associated.</li>\n      <li>(c) Phosphate group: Is associated.</li>\n    </ul>\n    Since all options A, B, and C are actually parts of ATP, the correct choice is that \"None of the above\" are <em>unassociated</em>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": ["Diversity of Living Organisms", "Taxonomy"],
+    "Question": {
+      "content": "Which of these is a taxonomic hierarchy of organisms",
+      "type": "OBJ",
+      "options": [
+        "phylum/division→class→order→kingdom→family→species→genus",
+        "species→genus→family→order→kingdom→phylum/division→class",
+        "kingdom→phylum/division→class→order→family→genus→species",
+        "kingdom→phylum/division→class→order→family→genus→species"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "kingdom→phylum/division→class→order→family→genus→species"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Taxonomic Hierarchy</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Classification goes from the largest group to the smallest specific group. A helpful mnemonic is: <br>\n    <em>\"<strong>K</strong>ing <strong>P</strong>hillip <strong>C</strong>ame <strong>O</strong>ver <strong>F</strong>or <strong>G</strong>ood <strong>S</strong>oup\"</em>\n  </div>\n\n  <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n    <strong>K</strong>ingdom → <strong>P</strong>hylum (or Division in plants) → <strong>C</strong>lass → <strong>O</strong>rder → <strong>F</strong>amily → <strong>G</strong>enus → <strong>S</strong>pecies\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Option (c) follows the correct descending order from Kingdom to Species.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": ["Cell Biology", "Transport Systems"],
+    "Question": {
+      "content": "Which of the following statement is not correct",
+      "type": "OBJ",
+      "options": [
+        "Passive transport does not require energy",
+        "Passive transport involves movement of molecules and substances across a membrane",
+        "Osmosis is the movement of water molecules from an area of high concentration to an area of low concentration through a semi (partially) permeable membrane",
+        "Osmosis requires chemical energy",
+        "Osmosis does not require energy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Osmosis requires chemical energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Passive Transport & Osmosis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Passive Transport</strong> means movement happens naturally without the cell doing work. It's like rolling a ball down a hill.\n    <ul>\n       <li><strong>Diffusion:</strong> Movement of particles.</li>\n       <li><strong>Osmosis:</strong> Movement of <em>Water</em> specifically.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Energy Requirement:</strong><br>\n    Since Osmosis is a type of passive transport, it <strong>does not</strong> require energy (ATP). Therefore, the statement claiming it \"requires chemical energy\" is false.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Cell Biology", "Cell Division"],
+    "Question": {
+      "content": "Which of the following statement is not correct",
+      "type": "OBJ",
+      "options": [
+        "Mitosis of one cell leads to the formation of two daughter cells such that the daughter cell have the diploid number of chromosomes",
+        "Mitosis of one cell leads to the formation of two daughter cells such that the daughter cells have the haploid number of chromosomes",
+        "Meiosis of one cell leads to the formation of four daughter cells such that the daughter cells have the haploid number of chromosomes",
+        "Meiosis is regarded as reduction of the chromosome number and division of the cells"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitosis of one cell leads to the formation of two daughter cells such that the daughter cells have the haploid number of chromosomes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mitosis vs Meiosis Outputs</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Mitosis (Cloning):</strong><br>\n    1 Parent (2n) → 2 Daughters (2n).<br>\n    The daughters are identical <strong>Diploids</strong>. They are <em>not</em> Haploid.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Meiosis (Sex Cells):</strong><br>\n    1 Parent (2n) → 4 Daughters (n).<br>\n    The daughters are <strong>Haploid</strong> (half the chromosomes).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Option (b) is incorrect because Mitosis creates Diploid cells, not Haploid cells.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Cell Biology", "Transport Systems"],
+    "Question": {
+      "content": "Which of the following statement is incorrect",
+      "type": "OBJ",
+      "options": [
+        "In hypotonic solutions there is flow of water from the external environment into the cytoplasm of the cells",
+        "In hypotonic solutions there is flow of water from there cytoplasm of the cell to the external environment",
+        "In Isotonic solutions the flow of water into the cell from the external environment and vice-versa is in equilibrium",
+        "In hypertonic solutions there is a net flow of water from the cell into the external environment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "In hypotonic solutions there is flow of water from there cytoplasm of the cell to the external environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Osmosis: Hypotonic vs Hypertonic</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>The Rule of Osmosis:</strong> Water always moves to where there is <em>more salt/sugar</em> (solute) to try and dilute it.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Hypotonic Solution (Weak solution outside):</strong><br>\n    The inside of the cell is saltier than the outside. Water rushes <strong>INTO</strong> the cell. <br>\n    <em>Statement (a) is Correct. Statement (b) says water flows OUT, which is Incorrect.</em>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Hypertonic Solution (Strong solution outside):</strong><br>\n    The outside is saltier. Water rushes <strong>OUT</strong> of the cell to dilute the outside. <br>\n    <em>Statement (d) is Correct.</em>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Option (b) describes a Hypertonic reaction but labels it Hypotonic. Therefore, it is the incorrect statement.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Biochemistry", "Nutrition"],
+    "Question": {
+      "content": "Which of the following is not a macro nutrient?",
+      "type": "OBJ",
+      "options": [
+        "Carbohydrate",
+        "Vitamins",
+        "Proteins",
+        "Water"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vitamins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Macro vs. Micro Nutrients</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Macro Nutrients:</strong><br>\n    Nutrients required by the body in <strong>large</strong> amounts. These include:\n    <ul>\n      <li>Carbohydrates</li>\n      <li>Proteins</li>\n      <li>Fats (Lipids)</li>\n      <li>Water (often considered a macro component due to volume)</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Micro Nutrients:</strong><br>\n    Nutrients required in <strong>small</strong> amounts.\n    <ul>\n      <li><strong>Vitamins</strong></li>\n      <li>Minerals</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Vitamins are micro nutrients, not macro nutrients.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Genetics", "Heredity"],
+    "Question": {
+      "content": "When the product of a cross of F1 hybrid yields 1:2:1 genotypic ratio at F2 the alleles of the gene controlling the true breeding character must have been",
+      "type": "OBJ",
+      "options": [
+        "Dominant and recessive to each other",
+        "Not related at all",
+        "Co-dominant to each other"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Co-dominant to each other"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Genotypic vs Phenotypic Ratios</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    When you cross two hybrids (e.g., Tt x Tt), the <strong>Genotypic Ratio</strong> is always <strong>1:2:1</strong> (1 TT : 2 Tt : 1 tt).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    However, the question phrasing is tricky. Usually, a 1:2:1 <strong>Phenotypic</strong> ratio indicates <strong>Incomplete Dominance</strong> or <strong>Co-dominance</strong> (where the middle \"2\" looks different from the parents).\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    But for a standard Mendelian cross where one is Dominant and one is Recessive, the Genotypic ratio is still 1:2:1. However, if the question implies that this ratio is unique or the defining feature noted (often implying the phenotype matches the genotype), it usually points to <strong>Co-dominance</strong> (where phenotype ratio = genotype ratio = 1:2:1).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": ["Diversity of Living Organisms", "Kingdom Plantae"],
+    "Question": {
+      "content": "What criteria is not true about the classification of the kingdom plantae?",
+      "type": "OBJ",
+      "options": [
+        "presence/absence of seeds",
+        "the presence/absence of vascular tissue",
+        "the way spores are produced",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classifying Plants</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    When scientists classify plants into smaller groups (like ferns, mosses, flowering plants), they look at specific features:\n    <ul>\n      <li><strong>Vascular Tissue:</strong> Does it have veins (Xylem/Phloem)? (Tracheophytes vs Bryophytes)</li>\n      <li><strong>Seeds:</strong> Does it make seeds or just spores? (Spermatophytes vs Pteridophytes)</li>\n      <li><strong>Spores:</strong> How does it reproduce?</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Conclusion:</strong><br>\n    Since A, B, and C are all <em>valid</em> methods used to classify plants, the answer is \"None of the above\" (meaning none of the options are false).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": ["Nutrition", "Vitamins"],
+    "Question": {
+      "content": "Vitamins such as Retinol, cholecalciferol, Tocopherol and Antihemorrhagic are collectively classified as:",
+      "type": "OBJ",
+      "options": [
+        "fat-soluble vitamin",
+        "water-soluble vitamins",
+        "riboflavin",
+        "co-enzymes vitamins"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "fat-soluble vitamin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fat Soluble vs Water Soluble</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>The Fat Soluble Vitamins (ADEK):</strong><br>\n    These dissolve in fat and are stored in the body.\n    <ul>\n      <li>Vitamin A (Retinol)</li>\n      <li>Vitamin D (Cholecalciferol)</li>\n      <li>Vitamin E (Tocopherol)</li>\n      <li>Vitamin K (Antihemorrhagic)</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong>The Water Soluble Vitamins:</strong><br>\n    Vitamin C and B-complex.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": ["Genetics"],
+    "Question": {
+      "content": "The unit of inheritance in chromosomes are called",
+      "type": "OBJ",
+      "options": [
+        "gene",
+        "proteins",
+        "genotype",
+        "phenotype",
+        "RNA"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "gene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Units of Inheritance</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Chromosomes are long strands of DNA. Specific sections of this DNA that code for a specific trait (like eye color or height) are called <strong>Genes</strong>.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Genotype:</strong> The genetic makeup (the set of genes).</li>\n      <li><strong>Phenotype:</strong> The physical appearance resulting from the genes.</li>\n      <li><strong>Gene:</strong> The basic physical and functional unit of heredity.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": ["Microbiology", "Genetics"],
+    "Question": {
+      "content": "The transfer of genetic materials of one bacteria cell to another bacteria through an agency is called",
+      "type": "OBJ",
+      "options": [
+        "bacteriophation",
+        "transformation",
+        "translocation",
+        "transduction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "transduction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bacterial Gene Transfer</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Bacteria can swap DNA in three main ways:\n    <ol>\n      <li><strong>Transformation:</strong> Picking up naked DNA from the environment (no agency).</li>\n      <li><strong>Conjugation:</strong> Direct contact between two bacteria (\"bacterial sex\").</li>\n      <li><strong>Transduction:</strong> Transfer via an <strong>agent</strong>, specifically a virus (bacteriophage).</li>\n    </ol>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> When an outside agency (virus) carries the DNA, it is called <strong>Transduction</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": ["Cell Biology", "Membrane Structure"],
+    "Question": {
+      "content": "The structure of the unit membrane of eukaryotic organisms consist of the following",
+      "type": "OBJ",
+      "options": [
+        "A monolipid layer in which proteins are distributed within the layer",
+        "A protein layer in which lipids are distributed within the layer",
+        "A double layer of lipids in which protein molecules are distributed within the bilipid layers",
+        "A double layer of proteins in which lipids are distributed within the biprotein layer"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A double layer of lipids in which protein molecules are distributed within the bilipid layers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fluid Mosaic Model</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    The cell membrane is a <strong>Lipid Bilayer</strong> (two layers of fats). Floating inside this sea of fat are <strong>Proteins</strong>.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Think of it like a sea of lipid molecules with protein icebergs floating in it. \n    <ul>\n      <li><strong>Base:</strong> Double layer of lipids (Bilipid).</li>\n      <li><strong>Inserts:</strong> Proteins distributed within/throughout.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": ["Biochemistry", "Genetics"],
+    "Question": {
+      "content": "The secondary structure of nucleic acids comprises of",
+      "type": "OBJ",
+      "options": [
+        "linear sequences of nucleotides which are linked to each other by phosphodiester linkages",
+        "the three dimensional shape into which the entire polynucleotide chain is folded",
+        "Interaction between the bases the double strands of DNA in the double helix are bound to each other by hydrogen bonds",
+        "interaction of the nucleic acids with the other molecules"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interaction between the bases the double strands of DNA in the double helix are bound to each other by hydrogen bonds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA Structure Levels</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Primary Structure:</strong> The simple line of letters (sequence of nucleotides).</li>\n      <li><strong>Secondary Structure:</strong> The <strong>Double Helix</strong> shape. This is formed when two strands connect via Hydrogen Bonds between their bases (A connects to T, C connects to G).</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": ["Taxonomy"],
+    "Question": {
+      "content": "The science that deals with identification, classification and naming of organisms is termed",
+      "type": "OBJ",
+      "options": [
+        "Biology",
+        "bioengineering",
+        "Taxonomy",
+        "anatomy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Taxonomy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of Taxonomy</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Taxonomy</strong> is the specific branch of science dedicated to naming (nomenclature), defining, and classifying groups of biological organisms on the basis of shared characteristics.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": ["Health", "Circulatory System"],
+    "Question": {
+      "content": "The risk of \"atherosclerosis\" a disease associated with fatty deposits which collect along the inside walls of larger medium sized arteria increased by",
+      "type": "OBJ",
+      "options": [
+        "Low-density Lipoprotein",
+        "High serum level of Low-density",
+        "High level of carbohydrates",
+        "protein deficiency"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High serum level of Low-density"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Good vs Bad Cholesterol</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Atherosclerosis is the clogging of arteries.\n    <ul>\n      <li><strong>HDL (High Density Lipoprotein):</strong> \"Good\" cholesterol. Cleans arteries.</li>\n      <li><strong>LDL (Low Density Lipoprotein):</strong> \"Bad\" cholesterol. Sticks to walls and clogs arteries.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Cause:</strong><br>\n    Having a <strong>High level</strong> of the <strong>Low-density</strong> lipoproteins (LDL) increases the risk of this disease.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": ["Cell Biology", "Meiosis"],
+    "Question": {
+      "content": "The prophase I of meiosis is divided into the following stages except",
+      "type": "OBJ",
+      "options": [
+        "leptotene",
+        "pachytene",
+        "Diplotene",
+        "Machytene",
+        "Diakinesis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Machytene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Prophase I</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    A helpful mnemonic: <em>\"Little Zara Plays Dead Daily\"</em>\n    <ol>\n      <li><strong>L</strong>eptotene</li>\n      <li><strong>Z</strong>ygotene</li>\n      <li><strong>P</strong>achytene</li>\n      <li><strong>D</strong>iplotene</li>\n      <li><strong>D</strong>iakinesis</li>\n    </ol>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Odd One Out:</strong><br>\n    \"Machytene\" is a made-up word. It sounds like Pachytene but does not exist in biology.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": ["Biochemistry", "Proteins"],
+    "Question": {
+      "content": "The primary structure of protein is composed of",
+      "type": "OBJ",
+      "options": [
+        "The linear of polypeptide chain assuming a helical shape",
+        "the linear sequence of amino acids that make up a polypeptide chain",
+        "Three dimensional structure formed by bending and twisting of polypeptide chain",
+        "Hydrogen bonds between atoms of amino acids backbones of the polypeptide chain",
+        "The linear sequence chain is folded into compact globular structure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the linear sequence of amino acids that make up a polypeptide chain"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protein Structure Levels</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Primary:</strong> A straight chain (sequence) of amino acids. Like beads on a string.</li>\n      <li><strong>Secondary:</strong> The string twists into a Helix or Sheet (Hydrogen bonds).</li>\n      <li><strong>Tertiary:</strong> The whole thing folds up into a 3D blob (Bending and twisting).</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The <strong>Primary</strong> structure is simply the linear sequence.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": ["Diversity of Living Organisms", "Classification"],
+    "Question": {
+      "content": "The most acceptable system of classifying organisms is the",
+      "type": "OBJ",
+      "options": [
+        "Dormant system",
+        "Whittaker's system",
+        "Phyto-division system",
+        "Carl Lewis system"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Whittaker's system"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classification Systems</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>R.H. Whittaker</strong> proposed the <strong>Five Kingdom Classification</strong> system in 1969. This system is widely accepted in modern biology because it accounts for cell structure (prokaryotic vs eukaryotic) and mode of nutrition.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    The 5 Kingdoms are:\n    <ol>\n      <li>Monera</li>\n      <li>Protista</li>\n      <li>Fungi</li>\n      <li>Plantae</li>\n      <li>Animalia</li>\n    </ol>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": ["Cell Biology", "Transport Systems"],
+    "Question": {
+      "content": "The mechanism by which transport protein function in membranes is called",
+      "type": "OBJ",
+      "options": [
+        "lock and kill model",
+        "Induced fit theory",
+        "ping and pong model",
+        "Enzyme and substrate model",
+        "Protein and protein model"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ping and pong model"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Transport Mechanism</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Carrier proteins move things across a cell membrane by changing shape. \n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    This is often called the <strong>Ping-Pong</strong> mechanism (or alternating access model).\n    <ul>\n      <li><strong>Ping:</strong> The protein opens to the outside to grab a molecule.</li>\n      <li><strong>Pong:</strong> The protein closes the outside and opens to the inside to release it.</li>\n    </ul>\n    It switches back and forth like a ping-pong game.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": ["Taxonomy", "Classification"],
+    "Question": {
+      "content": "The kingdom Protista was coined to cover eukaryotic organisms that are neither fungi, plant or animals. Who named these so?",
+      "type": "OBJ",
+      "options": [
+        "Aggrey Baldwin",
+        "Ernest Hackel",
+        "Ernest Ikoli",
+        "Charles Darwin"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ernest Hackel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Discovery of Protista</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Ernst Haeckel</strong> (often spelled Hackel in texts) proposed the third kingdom, <strong>Protista</strong>, in 1866. He did this to categorize microscopic organisms that didn't fit neatly into the Plant or Animal kingdoms.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "The following sugar are examples of monosaccharides except",
+      "type": "OBJ",
+      "options": [
+        "sucrose",
+        "glucose",
+        "galactose",
+        "fructose",
+        "Ribose"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sucrose"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sugar Types</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Monosaccharides (Single sugars):</strong> Glucose, Fructose, Galactose, Ribose.</li>\n      <li><strong>Disaccharides (Double sugars):</strong> Sucrose, Maltose, Lactose.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why Sucrose?</strong><br>\n    Sucrose (table sugar) is made of Glucose + Fructose. Since it is made of two parts, it is NOT a monosaccharide.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": ["Cell Biology", "Cell Division"],
+    "Question": {
+      "content": "The following are the stages in mitosis except",
+      "type": "OBJ",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Interphase",
+        "Telophase"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interphase"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Cell Cycle vs Mitosis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    The Cell Cycle has two main parts:\n    <ol>\n      <li><strong>Interphase:</strong> The cell grows and copies DNA (The \"preparation\" phase).</li>\n      <li><strong>Mitosis (M Phase):</strong> The cell actually divides (Prophase, Metaphase, Anaphase, Telophase).</li>\n    </ol>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Distinction:</strong><br>\n    Interphase is essential for cell division, but it is strictly considered the phase <em>before</em> Mitosis begins.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": ["Cell Biology", "Respiration"],
+    "Question": {
+      "content": "The first step in cellular respiration is",
+      "type": "OBJ",
+      "options": [
+        "Krebs Cycle",
+        "Tricarboxylic acid cycle",
+        "Citric acid cycle",
+        "Glycolysis",
+        "Electron transport chain"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glycolysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Cellular Respiration</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Respiration breaks down glucose to release energy. The order is:\n  </div>\n\n  <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n    <strong style='color: var(--strongColor);'>Step 1: Glycolysis</strong> (Occurs in Cytoplasm, does not need Oxygen)<br>\n    Step 2: Krebs Cycle (or Citric Acid Cycle)<br>\n    Step 3: Electron Transport Chain\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Since Glycolysis happens first to break Glucose into Pyruvate, it is the initial step.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": ["Genetics", "History of Science"],
+    "Question": {
+      "content": "The findings of Gregor Mendel were discovered in",
+      "type": "OBJ",
+      "options": [
+        "1900",
+        "1906",
+        "1865",
+        "1665",
+        "1953"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1900"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mendel's Timeline</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>1865/1866:</strong> Mendel published his work. Nobody paid attention.</li>\n      <li><strong>1900:</strong> His work was <strong>rediscovered</strong> independently by three scientists (de Vries, Correns, and Tschermak). This is when his findings actually became known to the world.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": ["Genetics"],
+    "Question": {
+      "content": "The F1 phenotype of the cross between tall (Tt) and dwarf (tt) parents in Mendel Monohybrid cross were",
+      "type": "OBJ",
+      "options": [
+        "Tall and dwarf offspring",
+        "All dwarf offspring",
+        "All tall offspring",
+        "Dwarf and tall offspring",
+        "Blended offspring"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tall and dwarf offspring"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Monohybrid Cross: Heterozygous x Recessive</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Parents:</strong> Tall (Tt) x Dwarf (tt)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong>The Punnett Square:</strong><br>\n    <ul>\n      <li>Parent Tt gives alleles: <strong>T</strong> and <strong>t</strong></li>\n      <li>Parent tt gives alleles: <strong>t</strong> and <strong>t</strong></li>\n    </ul>\n    \n    <strong>Results:</strong>\n    1. T + t = <strong>Tt</strong> (Tall)<br>\n    2. t + t = <strong>tt</strong> (Dwarf)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The offspring will be 50% Tall and 50% Dwarf. Thus, you get <strong>Tall and dwarf offspring</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": ["Taxonomy", "Nomenclature"],
+    "Question": {
+      "content": "One of these is not true about scientific names",
+      "type": "OBJ",
+      "options": [
+        "It constitute the specific identity of the organisms",
+        "it has an indication of the largest group of organisms that can inter-breed and produce fertile offspring",
+        "It is always written either in Italics or underlined",
+        "It consist of two words, name of the genus to which the organism belongs which is written all through in small letters",
+        "It is understood all over the world as such eliminates confusion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It consist of two words, name of the genus to which the organism belongs which is written all through in small letters"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rules of Scientific Naming</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Scientific names (Binomial Nomenclature) follow strict rules:\n    <ul>\n      <li><strong>Two parts:</strong> Genus + Species (e.g., <em>Homo sapiens</em>).</li>\n      <li><strong>Capitalization:</strong> The Genus must start with a <strong>Capital letter</strong> (Homo). The species is small letters (sapiens).</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Error:</strong><br>\n    Option (d) claims the Genus is written \"all through in small letters\". This is incorrect. The Genus <strong>must</strong> be capitalized.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": ["Nutrition", "Biochemistry"],
+    "Question": {
+      "content": "One of these is not a function of macronutrients in living organisms",
+      "type": "OBJ",
+      "options": [
+        "Provision of structural materials for the building of proteins",
+        "provisions Of energy",
+        "some are components of body substances necessary for regulation of body processes",
+        "lubrication of gastrointestinal tract",
+        "catalysis of enzymes in the body"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "catalysis of enzymes in the body"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Macronutrient Functions</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Macronutrients (Carbs, Proteins, Fats, Water) do big jobs:\n    <ul>\n      <li>Build structure (Proteins)</li>\n      <li>Provide energy (Carbs/Fats)</li>\n      <li>Lubrication (Water/Fats)</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why (e) is incorrect:</strong><br>\n    \"Catalysis\" is the job of helper molecules often derived from <strong>Micronutrients</strong> (Vitamins/Minerals) acting as co-factors. While enzymes are proteins (macro), the act of <em>helping</em> enzymes work (catalysis aid) is a micronutrient role.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": ["Nutrition", "Diseases"],
+    "Question": {
+      "content": "One of the main consequences of protein deficiency in humans are",
+      "type": "OBJ",
+      "options": [
+        "starvation",
+        "marasmus",
+        "low energy levels",
+        "kwashiorkor"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "kwashiorkor"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Deficiency Diseases</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Kwashiorkor:</strong> Specifically caused by a lack of <strong>Protein</strong> (even if the person eats enough rice/carbs). Symptoms include a swollen belly.</li>\n      <li><strong>Marasmus:</strong> Caused by a lack of <strong>Total Calories</strong> (starvation of both carbs and protein).</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": ["Genetics", "Biochemistry"],
+    "Question": {
+      "content": "Which of the following statement is incorrect",
+      "type": "OBJ",
+      "options": [
+        "Nucleoside triphosphates are nucleotides",
+        "DNA is composed of two polynucleotide chains",
+        "RNA is composed of one polynucleotide chain",
+        "Plasmids do not contain DNA molecules",
+        "DNA may sometimes be located in the cytoplasm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plasmids do not contain DNA molecules"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is a Plasmid?</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    A <strong>Plasmid</strong> is a small, circular piece of <strong>DNA</strong> found in bacteria. \n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Therefore, the statement that \"Plasmids do not contain DNA\" is completely false. Plasmids <em>are</em> DNA.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Which of the following statement is incorrect",
+      "type": "OBJ",
+      "options": [
+        "Fructose is an isomer of glucose",
+        "Sucrose is an example of a non-reducing disaccharide",
+        "Maltose is an example of reducing disaccharide",
+        "Homopolysaccharides on hydrolysis give single type of monosaccharide",
+        "Tetrasaccharides yield three monosaccharide on hydrolysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tetrasaccharides yield three monosaccharide on hydrolysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hydrolysis of Sugars</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Hydrolysis means breaking down a complex sugar into its simple parts.\n    <ul>\n      <li>Disaccharide (2 units) → yields 2 monosaccharides.</li>\n      <li>Trisaccharide (3 units) → yields 3 monosaccharides.</li>\n      <li><strong>Tetrasaccharide</strong> (4 units) → yields <strong>4</strong> monosaccharides.</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Option (e) is incorrect because a tetrasaccharide yields four, not three, units.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": [
+      "Evolution",
+      "Origin of Life"
+    ],
+    "Question": {
+      "content": "___ scientist and academic A. I. Oparin in 1922, cellular life was preceded by a period of chemical evolution",
+      "type": "OBJ",
+      "options": [
+        "French",
+        "German",
+        "Italian",
+        "Brazilian"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Russian"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nationality of A. I. Oparin</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Fact Check:</strong><br>\n    Alexander Ivanovich Oparin was a <strong>Russian</strong> (Soviet) biochemist.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why are the options wrong?</strong><br>\n    The options listed (French, German, Italian, Brazilian) do not include the correct answer. It is likely that this question was printed with the wrong options, possibly confusing him with Louis Pasteur, a famous <strong>French</strong> scientist who also worked on theories of life.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Correct Answer:</strong> Oparin was a <strong>Russian</strong> scientist.\n  </div>\n</div>"
+    }
+  }
+]
