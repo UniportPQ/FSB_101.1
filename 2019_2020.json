@@ -1,0 +1,1829 @@
+[
+
+  {
+   "type": "pageInfo",
+   "kind": "OBJ",
+   "course_title": "General Biology I",
+   "code": "FSB 101.1",
+   "session": "2019/2020",
+   "topics":   [
+  "Cell Biology",
+  "Biological Molecules",
+  "Chemical Thermodynamics",
+  "Genetics",
+  "Nutrition",
+  "Transport Mechanisms",
+  "Taxonomy",
+  "Microbiology",
+  "Virology",
+  "Cell Theory",
+  "Prokaryotes vs Eukaryotes",
+  "Prokaryotes",
+  "Bacterial Structure",
+  "Organelles",
+  "Respiration",
+  "Protein Synthesis",
+  "Cell Division",
+  "Nucleus",
+  "Thermodynamics",
+  "Energy",
+  "Biochemistry",
+  "Redox Reactions",
+  "Ecology",
+  "Energy Flow",
+  "Bioenergetics",
+  "Enzymology",
+  "Chemical Bonding",
+  "Evolution"
+],
+
+   "time": "30"
+ },
+
+  
+   {
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+ },
+
+
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Cell Biology",
+      "Biological Molecules"
+    ],
+    "Question": {
+      "content": "Cellular energy comes mainly from which source?",
+      "type": "OBJ",
+      "options": [
+        "Inorganic compounds",
+        "Lean meat",
+        "Deoxyribonucleic acid",
+        "Carbohydrates",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbohydrates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cellular Energy Sources</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Understanding the Fuel</strong><br>\n    Think of the cell like a car. While a car can technically run on different additives, it is designed to run primarily on fuel. For cells, <strong>Carbohydrates</strong> (specifically Glucose) are that primary fuel.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why not the others?</strong>\n    <ul>\n        <li><strong>Lean meat (Protein):</strong> Used mainly for building structures, not primary energy.</li>\n        <li><strong>DNA:</strong> Used for genetic information, never for energy.</li>\n        <li><strong>Inorganic compounds:</strong> Mostly used by specialized bacteria, not general cellular energy.</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Carbohydrates are the body's main and preferred source of energy (ATP). \n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Biological Molecules"
+    ],
+    "Question": {
+      "content": "Heteropolysaccharides are complex carbohydrates that yield what types of monomers on breakdown?",
+      "type": "OBJ",
+      "options": [
+        "Different",
+        "Similar",
+        "No known",
+        "Five",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Different"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Polysaccharide Breakdown</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Clue is in the Name</strong><br>\n    In biology, prefixes tell you the answer:\n    <ul>\n        <li><strong>Homo-</strong> means \"same\". (e.g., Homopolysaccharides yield the <em>same</em> type of sugar unit).</li>\n        <li><strong>Hetero-</strong> means \"different\".</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Therefore, <strong>Heteropolysaccharides</strong> are chains made of <em>different</em> kinds of sugar units. When you break them down (hydrolysis), you get different types of monomers.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> They yield <strong>Different</strong> types of monomers.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Biological Molecules"
+    ],
+    "Question": {
+      "content": "Glycogen is the form of stored carbohydrates in which organisms?",
+      "type": "OBJ",
+      "options": [
+        "Plants",
+        "Starch for humans",
+        "Animals and plants",
+        "Animals",
+        "None higher plants"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Animals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy Storage: Plants vs. Animals</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Living things store extra sugar for later use, but they use different storage formats:\n  </div>\n\n  <table style='width: 100%; border-collapse: collapse; margin-bottom: 12px;'>\n    <tr style='border-bottom: 1px solid var(--transparentBlack);'>\n        <td style='padding: 8px;'><strong>Plants</strong></td>\n        <td style='padding: 8px;'>Store energy as <strong>Starch</strong>.</td>\n    </tr>\n    <tr>\n        <td style='padding: 8px;'><strong>Animals</strong></td>\n        <td style='padding: 8px;'>Store energy as <strong>Glycogen</strong> (mostly in the liver and muscles).</td>\n    </tr>\n  </table>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Glycogen is found in <strong>Animals</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Biological Molecules",
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "Why do lipids store more energy than carbohydrates?",
+      "type": "OBJ",
+      "options": [
+        "Are close to water",
+        "Have short carbon chains",
+        "Longer carbon chains than carbohydrates and proteins",
+        "Are greasy",
+        "Humans can drink lipids"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Longer carbon chains than carbohydrates and proteins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy Density in Molecules</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>It's all about the Bonds</strong><br>\n    Energy in biology is stored in chemical bonds, specifically Carbon-Hydrogen (C-H) bonds. \n    <ul>\n        <li><strong>Lipids (Fats):</strong> Are made of very long chains of Carbon and Hydrogen (Hydrocarbon chains). They are highly \"reduced,\" meaning they are packed with electrons/energy.</li>\n        <li><strong>Carbohydrates:</strong> Already contain oxygen (C-H-O), meaning they are partially oxidized and hold less potential energy per gram.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Among the options provided, the reference to longer carbon chains (which implies more C-H bonds) is the scientifically correct reason.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> They have <strong>longer carbon chains</strong> (more C-H bonds) compared to carbs.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Genetics",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "The central dogma of cell biology states that information flows from what to what?",
+      "type": "OBJ",
+      "options": [
+        "Water to molecules then to atoms",
+        "From carbohydrates to lipids then proteins",
+        "Proteins to lipids then to carbohydrates",
+        "Protein to deoxyribonucleic acid then to messenger ribonucleic acid",
+        "Deoxyribonucleic acid to messenger ribonucleic acid then protein"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Deoxyribonucleic acid to messenger ribonucleic acid then protein"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Central Dogma</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    The \"Central Dogma\" is the fundamental rule of how life works. It describes how instructions in your DNA become the physical parts of you.\n  </div>\n\n  \n\n  <div style='margin-bottom: 12px;'>\n    <strong>The Flow:</strong>\n    <ol>\n        <li><strong>DNA</strong> (Deoxyribonucleic acid): The Master Blueprint.</li>\n        <li>&darr; <em>Transcription</em></li>\n        <li><strong>mRNA</strong> (Messenger Ribonucleic Acid): The Copy/Message.</li>\n        <li>&darr; <em>Translation</em></li>\n        <li><strong>Protein:</strong> The Worker/Structure.</li>\n    </ol>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> DNA &rarr; mRNA &rarr; Protein.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Biological Molecules",
+      "Nutrition"
+    ],
+    "Question": {
+      "content": "A good quality dietary protein should have which characteristic?",
+      "type": "OBJ",
+      "options": [
+        "No amino acids",
+        "Limited amount of amino acids",
+        "All essential amino acids in sufficient amounts",
+        "Combination of oil and milk",
+        "Bones"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All essential amino acids in sufficient amounts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protein Quality</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Proteins are made of building blocks called <strong>Amino Acids</strong>. There are 20 types, but humans cannot make 9 of them. These 9 are called <strong>Essential Amino Acids</strong>.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    A \"High Quality\" or \"Complete\" protein is one that provides <strong>all</strong> of these essential building blocks that your body can't make itself.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> It must contain <strong>all essential amino acids</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Cell Biology",
+      "Transport Mechanisms"
+    ],
+    "Question": {
+      "content": "Osmosis is defined as what?",
+      "type": "OBJ",
+      "options": [
+        "Movement of materials from a region of high to a region of low concentration",
+        "Movement of material downhill",
+        "Movement of water from a region of high to that of low concentration through a partially permeable membrane",
+        "Any movement of materials involving expenditure of energy",
+        "Movement against an energy gradient"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Movement of water from a region of high to that of low concentration through a partially permeable membrane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Osmosis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Osmosis is a specific type of diffusion. To define it correctly, you need three key ingredients:\n    <ol>\n      <li><strong>Water Molecules:</strong> It applies specifically to water (solvent).</li>\n      <li><strong>High to Low:</strong> It moves from where there is lots of water (dilute solution) to where there is less water (concentrated solution).</li>\n      <li><strong>Membrane:</strong> It must cross a <em>partially permeable membrane</em>.</li>\n    </ol>\n  </div>\n  \n  \n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Movement of water... through a partially permeable membrane.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Cell Biology",
+      "Transport Mechanisms"
+    ],
+    "Question": {
+      "content": "Passive transport into cells require all these except which one?",
+      "type": "OBJ",
+      "options": [
+        "Energy from cells",
+        "Involves water and small materials",
+        "Partially permeable membrane",
+        "Very large molecules",
+        "Include osmosis, diffusion and facilitated osmosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Energy from cells"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Passive vs. Active Transport</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Passive Transport</strong> is like rolling a ball down a hill. It happens naturally and requires <strong>NO energy</strong> (ATP) from the cell.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Active Transport</strong> is like pushing a ball up a hill. It requires energy.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Passive transport does <strong>NOT</strong> require <strong>Energy from cells</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Biological Molecules",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Lipids have hydrophilic tails and hydrophobic heads. Is this statement true?",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Not always",
+        "Statement is true for proteins",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Structure of Lipids (Phospholipids)</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    This statement is the exact opposite of reality. In a phospholipid (which makes up cell membranes):\n    <ul>\n        <li><strong>The Head:</strong> Is <em>Hydrophilic</em> (Water-Loving). It faces the water.</li>\n        <li><strong>The Tails:</strong> Are <em>Hydrophobic</em> (Water-Fearing). They hide inside away from water.</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The statement is <strong>False</strong> because the heads are hydrophilic and tails are hydrophobic.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Cell Biology",
+      "Transport Mechanisms"
+    ],
+    "Question": {
+      "content": "Exosmosis in extreme case results in what?",
+      "type": "OBJ",
+      "options": [
+        "Endosmosis",
+        "Osmosis",
+        "Endocytosis",
+        "Plasmolysis",
+        "Plantasmolysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plasmolysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Exosmosis and Plasmolysis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Exosmosis</strong> means water is exiting (leaving) the cell.\n  </div>\n\n  \n\n  <div style='margin-bottom: 12px;'>\n    When a plant cell loses too much water, the cell membrane pulls away from the cell wall and the cell shrinks. This extreme shrinking is called <strong>Plasmolysis</strong>.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Plasmolysis.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "If purple flower color is dominant to white color and these are crossed, what proportion of the offspring will be purple in the F1 generation?",
+      "type": "OBJ",
+      "options": [
+        "3/4",
+        "1/2",
+        "None",
+        "20",
+        "All"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mendelian Cross (F1 Generation)</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Setup:</strong><br>\n    Let Purple (Dominant) = \\( P \\)<br>\n    Let White (Recessive) = \\( p \\)<br>\n    The parents are assumed to be pure breeders: \\( PP \\) (Purple) and \\( pp \\) (White).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Cross (Punnett Square):</strong>\n    \n    <br>\n    When you cross \\( PP \\times pp \\), every single offspring gets one \\( P \\) and one \\( p \\).\n    <br>\n    Result: 100% \\( Pp \\).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Since \\( P \\) is dominant, every offspring will look Purple.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> <strong>All</strong> (100%) of the offspring will be purple.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Taxonomy",
+      "Microbiology"
+    ],
+    "Question": {
+      "content": "Which of these is not an algal group?",
+      "type": "OBJ",
+      "options": [
+        "Mycota",
+        "Platyhelminthes",
+        "Escherichia",
+        "Magniferia indica",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying Algae</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    The question asks which is <strong>NOT</strong> an algal group. Let's look at the options:\n    <ul>\n        <li><strong>Mycota:</strong> This refers to Fungi. (Not algae).</li>\n        <li><strong>Platyhelminthes:</strong> These are Flatworms/Animals. (Not algae).</li>\n        <li><strong>Escherichia:</strong> This is a Bacteria. (Not algae).</li>\n        <li><strong>Magniferia:</strong> This is a Plant (Mango). (Not algae).</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Since <em>none</em> of them are algae, the correct choice is \"All of the above\" (meaning all of the options listed are examples of non-algal groups).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> All of the above.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Genetics",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Chromosomes are made up of genes which are in turn made up of what strands?",
+      "type": "OBJ",
+      "options": [
+        "RNA",
+        "Nucleus",
+        "Cytoplasm",
+        "DNA",
+        "Cartilage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Genetic Hierarchy</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Think of genetics like a library:\n    <ol>\n        <li><strong>Chromosome:</strong> The Book.</li>\n        <li><strong>Gene:</strong> A Sentence in the book.</li>\n        <li><strong>DNA:</strong> The Letters/Ink that make up the sentence.</li>\n    </ol>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Genes are made of strands of <strong>DNA</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Microbiology",
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "The vegetative bodies of fungi comprise of strands called hyphae which associate to form what?",
+      "type": "OBJ",
+      "options": [
+        "Filaments",
+        "Whatever",
+        "Mycelia",
+        "Spores",
+        "Sporangia"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mycelia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fungal Structure</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Fungi are like a network of threads:\n    <ul>\n        <li><strong>Hyphae:</strong> A single thread/filament.</li>\n        <li><strong>Mycelia (singular Mycelium):</strong> The entire mass or network of these threads tangled together.</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Hyphae associate to form <strong>Mycelia</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Cell Biology",
+      "Transport Mechanisms"
+    ],
+    "Question": {
+      "content": "Phagocytosis can be defined as what?",
+      "type": "OBJ",
+      "options": [
+        "Movement of materials into cells",
+        "Movement of materials into living organisms",
+        "Cell drinking",
+        "Cell eating",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cell eating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cellular Eating vs. Drinking</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Cells have ways to engulf large items. This is called Endocytosis, and it has two main types:\n    <ul>\n        <li><strong>Phagocytosis:</strong> Derived from Greek \"Phago\" (to eat). This is engulfing solid particles. Known as <strong>Cell Eating</strong>.</li>\n        <li><strong>Pinocytosis:</strong> This is engulfing fluids. Known as <strong>Cell Drinking</strong>.</li>\n    </ul>\n  </div>\n\n  \n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Phagocytosis is <strong>Cell eating</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Cell Biology",
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "The following are characteristics of prokaryotic cells except which one?",
+      "type": "OBJ",
+      "options": [
+        "Presence of membrane bounded organelles",
+        "Possession of ribosomes",
+        "Absence of membrane bounded nucleus",
+        "Absence of microtubules and microfilaments"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Presence of membrane bounded organelles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotes vs. Eukaryotes</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Prokaryotes</strong> (like Bacteria) are simple cells. Their defining feature is what they <em>lack</em>.\n    <ul>\n        <li>They <strong>DO NOT</strong> have a Nucleus.</li>\n        <li>They <strong>DO NOT</strong> have membrane-bound organelles (like mitochondria or chloroplasts).</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Since the question asks for the exception (what they do <em>not</em> have), the presence of organelles is the incorrect characteristic.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Prokaryotes do <strong>not</strong> have membrane-bounded organelles.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Microbiology",
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "Which of the following statements is not true?",
+      "type": "OBJ",
+      "options": [
+        "Archaea are found in extreme environments",
+        "The cell walls of eubacteria contain peptidoglycan",
+        "The concentration of peptidoglycan",
+        "Gram positive bacteria stain red or pink in the Gram stain procedure",
+        "Archaea contain methanogens"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gram positive bacteria stain red or pink in the Gram stain procedure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gram Staining Colors</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    In microbiology, the Gram stain test helps identify bacteria. You must memorize the colors:\n    <ul>\n        <li><strong>Gram Positive:</strong> Retain the violet dye. They look <strong>Purple/Blue</strong>.</li>\n        <li><strong>Gram Negative:</strong> Lose the violet and take the counter-stain. They look <strong>Pink/Red</strong>.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    The option claims Gram Positive stains red/pink. This is scientifically false.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> It is not true that Gram positive bacteria stain red/pink (they stain purple).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Cell Biology",
+      "Virology",
+      "Cell Theory"
+    ],
+    "Question": {
+      "content": "Which of the following statements is not true?",
+      "type": "OBJ",
+      "options": [
+        "The cell is the fundamental units of structure and function in a living organism",
+        "Viruses are unicellular organisms",
+        "Differentiation and specialization of cells has led to the diversity and complexity of different types of organisms",
+        "Plants and animals are multicellular organisms",
+        "Bacteria are unicellular organisms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Viruses are unicellular organisms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Are Viruses Alive?</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    This question checks your understanding of the <strong>Cell Theory</strong> and the nature of viruses. Let's analyze the statements:\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <ul>\n        <li><strong>(a), (c), (d), (e):</strong> These are all scientifically true statements about cells, bacteria, plants, and animals.</li>\n        <li><strong>(b) Viruses:</strong> Viruses are considered <strong>Acellular</strong> (not made of cells). They are just genetic material (DNA or RNA) wrapped in a protein coat. They cannot reproduce on their own and do not have cell organelles.</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> It is <strong>False</strong> to say viruses are unicellular organisms. They are acellular.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Cell Biology",
+      "Prokaryotes vs Eukaryotes"
+    ],
+    "Question": {
+      "content": "The following structures are present in eukaryotic cells except which one?",
+      "type": "OBJ",
+      "options": [
+        "Nuclear membrane",
+        "Mitochondria",
+        "Mesosomes",
+        "Chloroplast",
+        "Chromosomes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mesosomes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Eukaryotes vs. Prokaryotes</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    This question asks you to spot the \"imposter\" structure that belongs to bacteria (prokaryotes), not complex cells (eukaryotes).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <ul>\n        <li><strong>Eukaryotes</strong> have: Nucleus, Mitochondria, Chloroplasts, Chromosomes.</li>\n        <li><strong>Prokaryotes (Bacteria)</strong> have: <strong>Mesosomes</strong>. These are folded parts of their cell membrane that help with respiration (since they don't have mitochondria).</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> <strong>Mesosomes</strong> are found in bacteria, not eukaryotic cells.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Cell Biology",
+      "Prokaryotes"
+    ],
+    "Question": {
+      "content": "The following statements are correct for the cytoplasmic membrane of prokaryotic cells except which one?",
+      "type": "OBJ",
+      "options": [
+        "It consist of a bilayer of phospholipid sandwiching a protein layer",
+        "The enzymes responsible for glycolysis are situated in the cell membrane",
+        "It is thrown into folds called mesosmes",
+        "The enzymes responsible for Kreb's Cycle and the electron transport chain are located in the cell membrane",
+        "Enzymes responsible for the light reaction of photosynthesis are located in the cell membrane"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The enzymes responsible for glycolysis are situated in the cell membrane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Location of Cellular Processes</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    In bacteria (prokaryotes), the cell membrane takes on many jobs that organelles do in other cells (like respiration). However, one process happens in the \"soup\" of the cell, not the membrane.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong>Glycolysis</strong> (breaking down sugar) always occurs in the <strong>Cytoplasm</strong>, whether you are a bacteria or a human. It does not happen in the membrane.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The statement about <strong>Glycolysis enzymes</strong> being in the membrane is FALSE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Microbiology",
+      "Bacterial Structure"
+    ],
+    "Question": {
+      "content": "The functions of the pili (fimbriae) include all of the following but which one?",
+      "type": "OBJ",
+      "options": [
+        "Used for attachment by eukaryotic cells",
+        "Used for attachment by prokaryotic cells",
+        "Can facilitate pathogenicity in bacteria",
+        "Enables the formation of conjugation tubes in bacteria",
+        "Facilities exchange of plasmids between bacteria cells"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Used for attachment by eukaryotic cells"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pili and Fimbriae</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Pili</strong> are hair-like structures found on the outside of <strong>Bacteria (Prokaryotes)</strong>. They act like velcro to help bacteria stick to things or share DNA (conjugation).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Since Pili are a bacterial feature, they are <strong>NOT</strong> used by Eukaryotic cells (like your cells). Eukaryotes might use cilia or flagella, but not pili.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Pili are not used by <strong>Eukaryotic cells</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Microbiology",
+      "Bacterial Structure"
+    ],
+    "Question": {
+      "content": "Which statement is not true for the cell wall of eubacteria?",
+      "type": "OBJ",
+      "options": [
+        "Gives the cell shape",
+        "Provides a rigid structural support for cells",
+        "Protects the cells from harsh environments",
+        "Site for Gram reaction",
+        "Mycoplasma are eubacteria that do not possess cell walls"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protects the cells from harsh environments"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bacterial Cell Wall Functions</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Let's identify the function that is <em>incorrectly</em> attributed to the cell wall:\n    <ul>\n        <li><strong>Cell Wall:</strong> Provides shape, rigidity, and prevents the cell from bursting (osmotic lysis). It also holds the Gram stain dye.</li>\n        <li><strong>Capsule / Endospore:</strong> These are the structures that protect bacteria from \"harsh environments\" like extreme heat, drying out, or the immune system.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Therefore, protecting from harsh environments is the job of the capsule or spore, not the wall.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The cell wall does not primarily <strong>protect from harsh environments</strong> (that's the capsule's job).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Cell Biology",
+      "Organelles"
+    ],
+    "Question": {
+      "content": "Eukaryotic cells possess the following organelles except which one?",
+      "type": "OBJ",
+      "options": [
+        "Mitochondria",
+        "Plastids",
+        "Lysosomes",
+        "Nuclear body",
+        "Golgi body"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nuclear body"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Eukaryotic Nucleus vs. Prokaryotic Nucleoid</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Terminology is key here:\n    <ul>\n        <li><strong>Nucleus:</strong> The membrane-bound home of DNA in <strong>Eukaryotes</strong>.</li>\n        <li><strong>Nuclear Body (or Nucleoid):</strong> The region where DNA floats freely in <strong>Prokaryotes</strong> (Bacteria).</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Since the question asks about <em>Eukaryotic</em> cells, they do not have a \"Nuclear body\"; they have a proper Nucleus.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Eukaryotes do not have a <strong>Nuclear body</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Cell Biology",
+      "Organelles"
+    ],
+    "Question": {
+      "content": "The following statement are true for the endoplasmic reticulum (ER) except which one?",
+      "type": "OBJ",
+      "options": [
+        "A site for detoxification of toxins",
+        "A site for export of manufactured carbohydrates",
+        "Site for the translation stage of protein synthesis",
+        "Rough and smooth ER exist",
+        "Site for export of proteins"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A site for export of manufactured carbohydrates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Functions of the ER</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    The Endoplasmic Reticulum (ER) is a factory:\n    <ul>\n        <li><strong>Smooth ER:</strong> Detoxifies poisons and makes lipids.</li>\n        <li><strong>Rough ER:</strong> Has ribosomes (translation) and processes proteins for export.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    However, the <strong>Golgi Body</strong> is the organelle responsible for manufacturing certain complex carbohydrates and shipping them out (like cell wall materials in plants). This is not the primary job of the ER.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The ER is not the site for <strong>export of manufactured carbohydrates</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Cell Biology",
+      "Respiration"
+    ],
+    "Question": {
+      "content": "The following statements are true for mitochondria except which one?",
+      "type": "OBJ",
+      "options": [
+        "The Kreb's cycles enzymes are located in the mitochondria",
+        "The electron transport chain enzymes are located in the mitochondria",
+        "The enzymes for glycolysis are located in the mitochondria",
+        "Bacteria do not possess mitochondria",
+        "The mitochondria possess inner and outer membranes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The enzymes for glycolysis are located in the mitochondria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mitochondria vs. Cytoplasm</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Respiration has three main stages. You must know where each happens:\n    <ol>\n        <li><strong>Glycolysis:</strong> Happens in the <strong>Cytoplasm</strong>. (NOT Mitochondria).</li>\n        <li><strong>Krebs Cycle:</strong> Happens in the <strong>Mitochondria</strong> (Matrix).</li>\n        <li><strong>Electron Transport Chain:</strong> Happens in the <strong>Mitochondria</strong> (Inner Membrane).</li>\n    </ol>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Glycolysis enzymes are <strong>NOT</strong> in the mitochondria.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Cell Biology",
+      "Protein Synthesis"
+    ],
+    "Question": {
+      "content": "The following statements are true for ribosomes except which one?",
+      "type": "OBJ",
+      "options": [
+        "Structurally they are composed of two fragments",
+        "They are the sites for translation stage of protein synthesis",
+        "They are the stage for the transcription stage of protein synthesis",
+        "Some ribosomes are attached to the endoplasmic reticulum",
+        "Mitochondria and chloroplast possess ribosomes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They are the stage for the transcription stage of protein synthesis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ribosomes: Translation ONLY</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Protein synthesis has two steps:\n    <ul>\n        <li><strong>Transcription:</strong> DNA is copied to mRNA. This happens in the <strong>Nucleus</strong>.</li>\n        <li><strong>Translation:</strong> mRNA is read to make protein. This happens on the <strong>Ribosome</strong>.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Ribosomes are strictly for translation. They have nothing to do with transcription.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Ribosomes are <strong>NOT</strong> the site for transcription.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Cell Biology",
+      "Organelles"
+    ],
+    "Question": {
+      "content": "Enzymes responsible for hydrolysis in the cells are contained in which organelle?",
+      "type": "OBJ",
+      "options": [
+        "Peroxisomes",
+        "Lysosomes",
+        "Autosomes",
+        "Ribosomes",
+        "Chromosomes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lysosomes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Cell's Stomach</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Hydrolysis</strong> means breaking things down with water (digestion). The organelle responsible for this is the <strong>Lysosome</strong>.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Lysosomes contain powerful digestive enzymes. If the cell were a house, the lysosome would be the garbage disposal or recycling bin.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> <strong>Lysosomes</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Cell Biology",
+      "Cell Division"
+    ],
+    "Question": {
+      "content": "The following statements are true except which one?",
+      "type": "OBJ",
+      "options": [
+        "Centrioles",
+        "The spindle consists of an array of microtubules",
+        "The flagella and cilia of eukaryotes are composed of microtubules",
+        "The flagella of eukaryotic cells are composed of microtubules",
+        "Centrioles do not play roles in meiosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Centrioles do not play roles in meiosis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Role of Centrioles</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    This question asks for the false statement.\n    <ul>\n        <li><strong>Spindles & Flagella:</strong> Are indeed made of microtubules. (True).</li>\n        <li><strong>Centrioles:</strong> In animal cells, centrioles organize the spindle fibers during cell division (both Mitosis and Meiosis).</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Therefore, saying they \"do not play roles in meiosis\" is incorrect for animal cells.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> It is false that centrioles <strong>do not play roles in meiosis</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Cell Biology",
+      "Nucleus"
+    ],
+    "Question": {
+      "content": "The following statements are true of the nucleus of eukaryotic cells except which one?",
+      "type": "OBJ",
+      "options": [
+        "Are surrounded by nuclear membrane",
+        "Contain chromosomes",
+        "Contain a nucleus consisting of RNA",
+        "Contains DNA",
+        "Are not surrounded by a nuclear membrane"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Are not surrounded by a nuclear membrane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining the Eukaryotic Nucleus</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    The word \"Eukaryote\" literally means \"True Nucleus\". By definition, a true nucleus <strong>MUST</strong> be surrounded by a nuclear membrane (envelope).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    Therefore, the statement claiming it is <em>not</em> surrounded by a membrane is the opposite of the truth.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> It is false that they are <strong>not surrounded by a nuclear membrane</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Thermodynamics",
+      "Energy"
+    ],
+    "Question": {
+      "content": "Kinetic energy is defined as what?",
+      "type": "OBJ",
+      "options": [
+        "Ability to do work",
+        "Energy of motion",
+        "Stored up energy",
+        "Energy in a glucose molecule",
+        "Energy in a concentration gradient"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Energy of motion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kinetic vs. Potential Energy</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Energy comes in two main forms:\n    <ul>\n        <li><strong>Potential Energy:</strong> Stored energy (e.g., a ball at the top of a hill, or a glucose molecule).</li>\n        <li><strong>Kinetic Energy:</strong> The energy of movement (e.g., a ball rolling down a hill).</li>\n    </ul>\n  </div>\n\n  \n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Kinetic energy is the <strong>Energy of motion</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Biochemistry",
+      "Redox Reactions"
+    ],
+    "Question": {
+      "content": "Which of the following is not correct regarding oxidation and reduction?",
+      "type": "OBJ",
+      "options": [
+        "An atom or molecule that loses an electron is said to be oxidized",
+        "An atom or molecule that gains an electron is said to be reduced",
+        "The reduced form of a molecule has a higher level of energy that the oxidized form",
+        "The reduced form of a molecule has a lower level of energy than the oxidized form",
+        "Oxidation and reduction always takes place together"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The reduced form of a molecule has a lower level of energy than the oxidized form"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Redox and Energy Levels</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Think of electrons as packets of energy. \n    <ul>\n        <li><strong>Reduction (Gaining Electrons):</strong> If you gain an electron, you gain energy. So the reduced form has <strong>Higher</strong> energy.</li>\n        <li><strong>Oxidation (Losing Electrons):</strong> If you lose an electron, you lose energy.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    The statement claiming the reduced form has a <em>lower</em> energy level contradicts this principle.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> It is incorrect to say the reduced form has a <strong>lower level of energy</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Ecology",
+      "Energy Flow"
+    ],
+    "Question": {
+      "content": "Energy flows through the ecosystem in one direction from the sun through which path?",
+      "type": "OBJ",
+      "options": [
+        "Photosynthetic organisms to herbivores, carnivores and decomposers",
+        "Algae, herbivores, carnivores and decomposers",
+        "Green plants, herbivores, carnivores and heterotrophic bacteria",
+        "Photosynthetic bacteria, herbivores and carnivores",
+        "Photosynthetic plant, herbivore and carnivores"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Photosynthetic organisms to herbivores, carnivores and decomposers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Food Chains and Energy Flow</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    A complete energy flow model includes all levels:\n    <ol>\n        <li><strong>Producers:</strong> \"Photosynthetic organisms\" (This is the best term because it covers plants, algae, AND bacteria).</li>\n        <li><strong>Consumers:</strong> Herbivores and Carnivores.</li>\n        <li><strong>Recyclers:</strong> Decomposers.</li>\n    </ol>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    The first option is the best answer because it uses the most general correct term for producers and includes the vital decomposers at the end.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Sun &rarr; Photosynthetic organisms &rarr; Herbivores &rarr; Carnivores &rarr; Decomposers.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "All consumers are examples of",
+      "type": "OBJ",
+      "options": [
+        "autotrophic organisms",
+        "holozoic organisms",
+        "heterotrophic organisms",
+        "chemoautotrophic organisms",
+        "photoautotrophic organisms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "heterotrophic organisms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Trophic Levels</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    Consumers are organisms that cannot synthesize their own food from inorganic sources. They must ingest organic molecules prepared by other organisms.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Classification</strong><br>\n    Since they rely on external organic sources for nutrition, they are classified as <strong>heterotrophs</strong> (hetero = other, troph = feeder).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Consumers are heterotrophic organisms.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "Bioenergetics is the study of",
+      "type": "OBJ",
+      "options": [
+        "Energy transformations in a closed system",
+        "Energy conversion in a biochemical system",
+        "Energy conversion in a biological system",
+        "Energy transformation in an open system",
+        "Energy transformation in an isolated system"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Energy conversion in a biological system"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of Bioenergetics</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Concept</strong><br>\n    Bioenergetics is a field in biochemistry and cell biology that concerns energy flow through living systems. It specifically looks at how biological systems capture, transform, and use energy.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> It is the study of energy conversion in a biological system.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "Which of the following statements is not correct for the first law of thermodynamics?",
+      "type": "OBJ",
+      "options": [
+        "Energy cannot be created or destroyed it can only change from one form to another",
+        "Energy can change from potential energy to chemical energy",
+        "The total amount of energy in an open system is constant",
+        "The total amount of energy in the universe is a constant",
+        "There is exchange and matter in a closed system"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The total amount of energy in an open system is constant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>First Law of Thermodynamics</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Law</strong><br>\n    The First Law states that energy cannot be created or destroyed, only transformed. The total energy of the <em>universe</em> (or an isolated system) is constant.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Open Systems</strong><br>\n    Living organisms are <strong>open systems</strong>, meaning they exchange both energy and matter with their surroundings. Therefore, the total energy within an open system is <em>not</em> constant because energy is constantly flowing in (e.g., food/light) and out (e.g., heat/waste).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The statement that \"The total amount of energy in an open system is constant\" is incorrect.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "The following statements are correct for the second law of thermodynamics",
+      "type": "OBJ",
+      "options": [
+        "The entropy in the universe is decreasing",
+        "The entropy in the universe is increasing",
+        "Disorder is more likely to occur than order",
+        "Energy transformation proceed spontaneously to convert matter from a more ordered, less stable form to a less ordered but more stable form",
+        "Disorder is less likely to occur than order"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The entropy in the universe is increasing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Second Law of Thermodynamics</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Entropy</strong><br>\n    The Second Law states that every energy transfer or transformation increases the entropy (disorder) of the universe.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The entropy in the universe is increasing.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "The net effect, amount of energy actually available to break and subsequently form other chemical bonds is called",
+      "type": "OBJ",
+      "options": [
+        "Enthalpy",
+        "Entropy",
+        "Gibbs free energy",
+        "Exergonic energy",
+        "Endergonic energy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gibbs free energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gibbs Free Energy</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    Gibbs free energy (\\( G \\)) is the energy associated with a chemical reaction that can be used to do work (available energy). It represents the portion of a system's energy that can perform work when temperature and pressure are uniform.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Gibbs free energy.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "The enthalpy when the chemical reaction releases heat is",
+      "type": "OBJ",
+      "options": [
+        "\\(\\Delta H\\)",
+        "\\(-\\Delta H\\)",
+        "\\(-\\Delta S\\)",
+        "\\(\\Delta S\\)",
+        "\\(\\Delta G\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(-\\Delta H\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Enthalpy in Exothermic Reactions</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Exothermic Reactions</strong><br>\n    When a reaction releases heat, it is exothermic. In these reactions, the system loses heat to the surroundings.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sign Convention</strong><br>\n    A release of heat results in a decrease in the enthalpy of the system. Therefore, the change in enthalpy (\\( \\Delta H \\)) is negative.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \\(-\\Delta H\\)\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "When the products of a reaction are less complex and more disordered than the reactants, the reaction proceeds with a",
+      "type": "OBJ",
+      "options": [
+        "\\(-\\Delta S\\)",
+        "\\(\\Delta H\\)",
+        "\\(\\Delta G\\)",
+        "\\(\\Delta S\\)",
+        "\\(-\\Delta H\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(\\Delta S\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entropy Change</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Disorder and Entropy</strong><br>\n    Entropy (\\( S \\)) is a measure of disorder. When a system becomes <em>more</em> disordered (e.g., breaking complex molecules into simpler ones), entropy increases.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Positive Change</strong><br>\n    An increase in disorder means the change in entropy (\\( \\Delta S \\)) is positive.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \\(\\Delta S\\)\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "When the products of a reaction are more complex and less disordered than the reactants, the reaction proceeds with a",
+      "type": "OBJ",
+      "options": [
+        "\\(-\\Delta S\\)",
+        "\\(\\Delta H\\)",
+        "\\(\\Delta G\\)",
+        "\\(\\Delta S\\)",
+        "\\(-\\Delta H\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(-\\Delta S\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Decrease in Entropy</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Order and Complexity</strong><br>\n    When simple reactants form complex products (e.g., anabolic reactions), the system becomes more ordered. Increased order corresponds to a decrease in entropy.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Negative Change</strong><br>\n    A decrease in entropy is represented by a negative \\( \\Delta S \\).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \\(-\\Delta S\\)\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "In a spontaneous reaction",
+      "type": "OBJ",
+      "options": [
+        "\\(\\Delta G\\)",
+        "\\(\\Delta S\\)",
+        "\\(-\\Delta G\\)",
+        "\\(\\Delta H\\)",
+        "endergonic reaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(-\\Delta G\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Spontaneity and Gibbs Energy</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Spontaneous Reactions</strong><br>\n    For a reaction to occur spontaneously (without energy input), it must release free energy. This is an exergonic reaction.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sign of \\( \\Delta G \\)</strong><br>\n    A release of free energy means the Change in Gibbs Free Energy (\\( \\Delta G \\)) is negative.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \\(-\\Delta G\\)\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "The breakdown of glucose into pyruvic acid is an example of a",
+      "type": "OBJ",
+      "options": [
+        "anabolic reaction",
+        "catabolic reaction",
+        "endergonic reaction",
+        "heptatonic reaction",
+        "organic reaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "catabolic reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Metabolic Pathways</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Catabolism</strong><br>\n    Catabolic reactions involve the breakdown of complex molecules into simpler ones, usually releasing energy. Glycolysis (glucose to pyruvate) is a classic breakdown process.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> catabolic reaction\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Enzymology"
+    ],
+    "Question": {
+      "content": "The following statements are correct for enzymes except",
+      "type": "OBJ",
+      "options": [
+        "Enzymes are specific for the substrates they catalyze",
+        "The active site is located on the enzyme",
+        "The active site is located on the substrate",
+        "The enzyme can be reused",
+        "The enzyme lower the activation energy for the reaction to start"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The active site is located on the substrate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Enzyme Structure</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Active Site Location</strong><br>\n    The active site is a specific region on the <strong>enzyme</strong> molecule where the substrate binds. It is not located on the substrate itself.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The statement that \"The active site is located on the substrate\" is incorrect.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "When the change in free energy is positive the reaction is",
+      "type": "OBJ",
+      "options": [
+        "exergonic",
+        "spontaneous",
+        "endergonic",
+        "amphibolic",
+        "anaplerotic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "endergonic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Endergonic Reactions</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Positive \\( \\Delta G \\)</strong><br>\n    A positive change in free energy (\\( \\Delta G > 0 \\)) means the reaction requires an input of energy to proceed. It is non-spontaneous.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Terminology</strong><br>\n    Reactions that absorb energy are called <strong>endergonic</strong>.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> endergonic\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "The following statements is correct for glycolysis except",
+      "type": "OBJ",
+      "options": [
+        "2ATP molecules are used up",
+        "2NADH molecules are produced",
+        "4ATP molecules are produced",
+        "There is a net production of 2ATP molecules",
+        "2ATP molecules are produced"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2ATP molecules are produced"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Glycolysis Yield</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Investment vs Payoff</strong><br>\n    <ul>\n      <li><strong>Investment:</strong> 2 ATP are consumed to start the reaction.</li>\n      <li><strong>Payoff:</strong> 4 ATP are produced (gross yield).</li>\n      <li><strong>Net Yield:</strong> 4 Produced - 2 Used = 2 ATP Net.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Discrepancy</strong><br>\n    The statement \"4ATP molecules are produced\" refers to the gross yield, which is correct. The statement \"There is a net production of 2ATP molecules\" is also correct. However, stating simply that \"2ATP molecules are produced\" (implying gross yield) contradicts the fact that 4 are actually synthesized. In multiple choice questions of this type, the option that fails to distinguish between gross and net or contradicts the gross total is usually the intended exception.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> 2ATP molecules are produced (as the exception statement)\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Conjugated proteins are also known as",
+      "type": "OBJ",
+      "options": [
+        "Complex proteins",
+        "Holoproteins",
+        "Protamines",
+        "Histones",
+        "Quaternary proteins"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complex proteins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protein Classification</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Conjugated Proteins</strong><br>\n    These are proteins that contain a non-protein part (prosthetic group) attached to the polypeptide chain. Because they are a mix of protein and non-protein, they are often referred to as <strong>Complex proteins</strong> (or Heteroproteins).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Complex proteins\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Carbohydrates are saccharides and are grouped into",
+      "type": "OBJ",
+      "options": [
+        "3 groups",
+        "2 groups",
+        "5 groups",
+        "6 groups",
+        "7 groups"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3 groups"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classification of Carbohydrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Major Groups</strong><br>\n    Carbohydrates are classically divided into three main classes based on the number of sugar units:\n    <ol>\n      <li><strong>Monosaccharides:</strong> Simple sugars (e.g., Glucose).</li>\n      <li><strong>Oligosaccharides:</strong> Short chains, including Disaccharides (e.g., Sucrose).</li>\n      <li><strong>Polysaccharides:</strong> Long chains (e.g., Starch, Cellulose).</li>\n    </ol>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> 3 groups\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Amino acids are",
+      "type": "OBJ",
+      "options": [
+        "insoluble in water",
+        "only carboxy compounds",
+        "building blocks of proteins",
+        "none of the above",
+        "only amino groups"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "building blocks of proteins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Role of Amino Acids</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Function</strong><br>\n    Amino acids are the monomers that link together via peptide bonds to form polypeptide chains, which fold into functional proteins. Thus, they are the fundamental building blocks of proteins.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> building blocks of proteins\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Based on shape, proteins are classified into ______ and Fibrous",
+      "type": "OBJ",
+      "options": [
+        "Globular",
+        "Triangular",
+        "Hexagon",
+        "Enzymes",
+        "Fibrilla"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Globular"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protein Shapes</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Classification</strong><br>\n    Proteins are generally classified by their tertiary structure shape into two broad categories:\n    <ul>\n      <li><strong>Fibrous:</strong> Elongated, structural proteins (e.g., collagen).</li>\n      <li><strong>Globular:</strong> Spherical, functional proteins (e.g., enzymes, hemoglobin).</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Globular\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": [
+      "Cell Biology",
+      "Genetics"
+    ],
+    "Question": {
+      "content": "Nucleic acids are of two type",
+      "type": "OBJ",
+      "options": [
+        "DNA and BNA",
+        "BNA and RNA",
+        "RNA only",
+        "DNA and RNA",
+        "DNA and RDA"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA and RNA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Nucleic Acids</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Major Types</strong><br>\n    The two main classes of nucleic acids found in living organisms are Deoxyribonucleic Acid (DNA) and Ribonucleic Acid (RNA).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> DNA and RNA\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": [
+      "Cell Biology",
+      "Genetics"
+    ],
+    "Question": {
+      "content": "DNA is also known as",
+      "type": "OBJ",
+      "options": [
+        "Deoyribonucleic acid",
+        "Oxyribonucleic acid",
+        "Deoxyribonucleic acid",
+        "Oxynucleic acid",
+        "Denitronucleic acid"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Deoxyribonucleic acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA Full Name</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Acronym Definition</strong><br>\n    DNA stands for <strong>D</strong>eoxyribo<strong>N</strong>ucleic <strong>A</strong>cid. It is named after the deoxyribose sugar in its backbone.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Deoxyribonucleic acid\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "Attraction between molecules of different substances as seen of water molecule is known as",
+      "type": "OBJ",
+      "options": [
+        "Cohesion",
+        "Adhesion",
+        "Gumming",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adhesion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Water Properties</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Adhesion vs Cohesion</strong><br>\n    <ul>\n      <li><strong>Cohesion:</strong> Attraction between molecules of the <em>same</em> substance (e.g., water to water).</li>\n      <li><strong>Adhesion:</strong> Attraction between molecules of <em>different</em> substances (e.g., water to glass).</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Adhesion\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Osmosis is",
+      "type": "OBJ",
+      "options": [
+        "Active transport",
+        "Passive transport",
+        "Exocytosis",
+        "Phagocytosis",
+        "Picocytosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Passive transport"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Osmosis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n    Osmosis is the movement of water molecules from a region of higher water potential to lower water potential across a semi-permeable membrane. Since it is driven by a concentration gradient and does not require ATP, it is a form of <strong>Passive Transport</strong>.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Passive transport\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "The transportation of materials that involves ions and charged particles in the cell is called",
+      "type": "OBJ",
+      "options": [
+        "endocytosis and Exocytosis",
+        "Active Transport",
+        "Passive Transport",
+        "None of the above",
+        "Phagocytosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Active Transport"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ion Transport</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n    Charged particles (ions) cannot easily pass through the lipid bilayer. They often require specific pumps (like the Sodium-Potassium pump) to move against concentration gradients. This process requires energy (ATP) and is defined as <strong>Active Transport</strong>.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Active Transport\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "One of these is not a type of evolution",
+      "type": "OBJ",
+      "options": [
+        "Polymerization",
+        "Natural selection",
+        "Macro evolution",
+        "Micro evolution",
+        "Large scale evolution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polymerization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Evolution</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Valid Terms</strong><br>\n    Common terms in evolutionary biology include Micro-evolution, Macro-evolution (Large scale), and Natural Selection (mechanism). \n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Odd One Out</strong><br>\n    <strong>Polymerization</strong> is a chemical process where monomers join to form polymers. It is not a type of biological evolution.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Polymerization\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "The Neo Darwin theory of evolution",
+      "type": "OBJ",
+      "options": [
+        "Recognizes symbiosis",
+        "Recognizes natural selection",
+        "Fixed above",
+        "Recognizes the importance of mutation and variation",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recognizes the importance of mutation and variation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Neo-Darwinism</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Synthesis</strong><br>\n    Neo-Darwinism (the Modern Synthesis) combines Darwin's natural selection with genetics. Unlike Darwin's original theory, which couldn't explain the source of variation, Neo-Darwinism explicitly recognizes <strong>mutation</strong> and genetic <strong>variation</strong> as the raw material for evolution.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Recognizes the importance of mutation and variation\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "The modern man was first discovered in",
+      "type": "OBJ",
+      "options": [
+        "Asia",
+        "Australia",
+        "Africa",
+        "Europe",
+        "America"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Africa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Human Origins</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Out of Africa Theory</strong><br>\n    Fossil evidence and genetic studies strongly support that anatomically modern humans (<em>Homo sapiens</em>) first evolved in <strong>Africa</strong> before migrating to other continents.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Africa\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "One of these is not an evidence of evolution",
+      "type": "OBJ",
+      "options": [
+        "Gene variation",
+        "Fossil records",
+        "Embryological records",
+        "Cell division",
+        "Ribosomal RNA sequencing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cell division"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Evidence for Evolution</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Common Evidence</strong><br>\n    Evolution is supported by Fossils, Embryology, Comparative Anatomy, and Molecular biology (RNA sequencing). \n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Exception</strong><br>\n    <strong>Cell division</strong> is a fundamental biological process occurring in all living things, but it is not itself considered a line of \"evidence\" for the theory of evolution in the same way fossils or genetics are.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Cell division\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Prokaryotic cell can only divide through one of these",
+      "type": "OBJ",
+      "options": [
+        "Binary fission",
+        "Mitosis",
+        "Cytoplasmic streaming",
+        "None of the above",
+        "Meiosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Binary fission"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotic Division</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n    Prokaryotes (like bacteria) lack a nucleus and do not undergo Mitosis or Meiosis. They divide via a simpler process called <strong>Binary Fission</strong>.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Binary fission\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "The cell division that occurs in somatic cells is",
+      "type": "OBJ",
+      "options": [
+        "Binary fission",
+        "Interphase",
+        "Meiosis",
+        "Mitosis",
+        "Sporulation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitosis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Somatic Cell Division</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    Somatic cells are body cells (non-reproductive). They divide for growth and repair using <strong>Mitosis</strong>, which produces identical daughter cells.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Mitosis\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Meiosis is only seen",
+      "type": "OBJ",
+      "options": [
+        "Anaphase",
+        "Ureter",
+        "in the kidney",
+        "In the gonads",
+        "somatic cells"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "In the gonads"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Site of Meiosis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Reproductive Tissue</strong><br>\n    Meiosis is a reduction division used to produce gametes (sperm and egg). This process occurs exclusively in the reproductive organs, known as the <strong>gonads</strong> (testes and ovaries).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> In the gonads\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "The first phase of cell division is called?",
+      "type": "OBJ",
+      "options": [
+        "cell cycle",
+        "metaphase",
+        "telophase",
+        "prophase",
+        "anaphase"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "prophase"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Phases of Mitosis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sequence</strong><br>\n    The standard sequence of Mitosis is Prophase -> Metaphase -> Anaphase -> Telophase. Therefore, the first phase is <strong>Prophase</strong>.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> prophase\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": [
+      "Cell Biology",
+      "Genetics"
+    ],
+    "Question": {
+      "content": "The homologous pair of chromosomes are joined at",
+      "type": "OBJ",
+      "options": [
+        "centromere",
+        "chiasmata",
+        "nucleus",
+        "chromatids",
+        "chromatin"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "chiasmata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chromosome Pairing</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Homologous Pairs</strong><br>\n    During Prophase I of Meiosis, homologous chromosomes pair up (synapsis). The points where they physically cross over and remain attached are called <strong>chiasmata</strong>. (Note: Centromeres join sister chromatids, not homologous pairs).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> chiasmata\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "One of the following is a way of sexual reproduction in protozoa",
+      "type": "OBJ",
+      "options": [
+        "Transformation",
+        "Consummation",
+        "Transduction",
+        "Conjugation",
+        "Transfection"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conjugation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protozoan Reproduction</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n    While many protozoa reproduce asexually, some (like Paramecium) undergo a sexual process called <strong>Conjugation</strong> where two individuals exchange genetic material.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Conjugation\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "A mitosis could be any of the following except?",
+      "type": "OBJ",
+      "options": [
+        "Simple cell division",
+        "Direct cell division",
+        "Closed cell division",
+        "Mitosis",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Direct cell division"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Direct vs Indirect Division</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definitions</strong><br>\n    <ul>\n      <li><strong>Direct Cell Division:</strong> Also known as Amitosis, where the nucleus splits simply without forming chromosomes/spindles.</li>\n      <li><strong>Mitosis:</strong> Also known as <em>Indirect</em> cell division, involving complex phases and spindle formation.</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Conclusion</strong><br>\n    Since Mitosis is indirect, it is <em>not</em> \"Direct cell division\".\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Direct cell division\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "In mitosis chromosomes replicate into the diploid state",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "True when daughter cells are produced",
+        "This only happens in metaphase",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Timing of Replication</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Cell Cycle Phase</strong><br>\n    Chromosomes replicate during the <strong>S-phase of Interphase</strong>, which occurs <em>before</em> mitosis begins. They do not replicate \"in mitosis\"; they are merely separated during mitosis.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> False\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Karyokinesis is subdivided into ______ phases",
+      "type": "OBJ",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Karyokinesis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition</strong><br>\n    Karyokinesis is the division of the nucleus. It is classically divided into four main phases:\n    <ol>\n      <li>Prophase</li>\n      <li>Metaphase</li>\n      <li>Anaphase</li>\n      <li>Telophase</li>\n    </ol>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> 4\n  </div>\n</div>"
+    }
+  }
+]
