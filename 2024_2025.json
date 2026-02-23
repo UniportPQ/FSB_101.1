@@ -1,0 +1,1822 @@
+[{
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "General Biology I",
+    "code": "FSB 101.1",
+    "session": "2024/2025",
+    "topics": ["Vitamins", "Biochemistry", "Bioenergetics", "Plant Physiology", "Cell Biology", "Cellular Organelles", "Respiration", "Cell Division", "Meiosis", "Genetics", "Membrane Structure", "Cellular Transport", "Nutrition", "Diseases", "Health", "History of Biology", "Ecology", "Classification", "Evolution", "History of Science", "Animal Kingdom", "Origin of Life", "Organic Chemistry", "Carbohydrates", "Cellular Structure", "Enzymes", "Chemical Thermodynamics", "Human Physiology", "Taxonomy", "Biological Classification", "Physics", "Metabolism", "Prokaryotic Cells", "Microbiology"],
+    "time": "30"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Vitamins",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Which of the following are examples of vitamins?",
+      "type": "OBJ",
+      "options": [
+        "Vitamin J and Vitamin K",
+        "Thiamine and Riboflavin",
+        "Ethanoic acid and Vitamin C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thiamine and Riboflavin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Vitamins</h4>\n  <div style='margin-bottom: 12px;'>\n    Vitamins are organic compounds that our bodies need in small amounts to work properly and stay healthy. They are essential nutrients.\n    <ul>\n      <li><strong>Thiamine and Riboflavin:</strong> These are the scientific names for Vitamin B1 and Vitamin B2, respectively. So, they are definitely vitamins.</li>\n      <li><strong>Vitamin J and Vitamin K:</strong> Vitamin K is a real vitamin (important for blood clotting), but 'Vitamin J' is not a recognized vitamin in human nutrition. It's a made-up name.</li>\n      <li><strong>Ethanoic acid and Vitamin C:</strong> Vitamin C is a real vitamin (ascorbic acid), but Ethanoic acid is the chemical name for vinegar. It is not a vitamin.</li>\n    </ul>\n    Therefore, the only option where both substances are actual vitamins is Thiamine and Riboflavin.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Bioenergetics",
+      "Plant Physiology"
+    ],
+    "Question": {
+      "content": "What are the three essential requirements for the process of photosynthesis?",
+      "type": "OBJ",
+      "options": [
+        "water, carbohydrate and protein",
+        "carbon dioxide, water and sunlight",
+        "sunlight, protein, and gas",
+        "water, carbon dioxide and fat"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "carbon dioxide, water and sunlight"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Ingredients for Photosynthesis</h4>\n  <div style='margin-bottom: 12px;'>\n    Think of photosynthesis like baking a cake. You need specific ingredients to get the final product.\n    <ul>\n      <li><strong>Raw Materials (Ingredients):</strong> Carbon dioxide (\\( CO_2 \\)) from the air and Water (\\( H_2O \\)) from the soil.</li>\n      <li><strong>Energy Source (Oven):</strong> Sunlight, which is captured by the green pigment called chlorophyll in plants.</li>\n    </ul>\n    The plant uses these three things to produce its food (glucose, a carbohydrate) and releases oxygen as a byproduct. The products of photosynthesis (like carbohydrates) are not the requirements for it to happen.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Bioenergetics",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "The hydrolysis of ATP (Adenosine Triphosphate) produces what two products?",
+      "type": "OBJ",
+      "options": [
+        "ATP and ADP",
+        "phosphate group and ATP",
+        "ADP and phosphate group",
+        "energy and enzyme"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ADP and phosphate group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>ATP: The Energy Currency</h4>\n  <div style='margin-bottom: 12px;'>\n    ATP is like a fully charged battery for the cell. 'Hydrolysis' means splitting using water. When a cell needs energy, it breaks (hydrolyzes) ATP.\n    <p>Here's the chemical equation for that process:</p>\n    <p style='font-size: 1.1rem; background: var(--preset-bg-color); padding: 8px; border-radius: 4px; text-align: center;'>\\( ATP + H_2O \\longrightarrow ADP + P_i + \\text{Energy} \\)</p>\n    <ul>\n      <li><strong>ADP</strong> stands for Adenosine Diphosphate. It's like the 'spent' or 'partially charged' battery.</li>\n      <li><strong>Phosphate group (\\( P_i \\))</strong> is the third phosphate that gets removed.</li>\n      <li><strong>Energy</strong> is released to power cellular work (like muscle contraction, protein synthesis).</li>\n    </ul>\n    So, the direct products of ATP hydrolysis are ADP and a phosphate group.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Cell Biology",
+      "Cellular Organelles",
+      "Respiration"
+    ],
+    "Question": {
+      "content": "Which organelle is primarily responsible for cellular respiration in animal cells?",
+      "type": "OBJ",
+      "options": [
+        "ribosome",
+        "Golgi body",
+        "Mitochondrion",
+        "chloroplast"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitochondrion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Powerhouse of the Cell</h4>\n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Mitochondrion (plural: Mitochondria):</strong> This is the correct answer. It's often called the \"powerhouse of the cell\" because it's where cellular respiration takes place. This process breaks down glucose to produce energy (ATP) for the cell to use.</li>\n      <li><strong>Ribosome:</strong> These are the protein factories of the cell, responsible for making proteins.</li>\n      <li><strong>Golgi body:</strong> This is the \"post office\" of the cell, responsible for modifying, sorting, and packaging proteins.</li>\n      <li><strong>Chloroplast:</strong> This organelle is found in plant cells and is responsible for photosynthesis, not respiration. Animal cells do not have chloroplasts.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Cell Division",
+      "Meiosis",
+      "Genetics"
+    ],
+    "Question": {
+      "content": "Meiotic cell division is also known by what other name?",
+      "type": "OBJ",
+      "options": [
+        "duplication division",
+        "reduction division",
+        "multiplication division"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "reduction division"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why is Meiosis Called \"Reduction Division\"?</h4>\n  <div style='margin-bottom: 12px;'>\n    To understand this, we need to talk about chromosome numbers.\n    <ul>\n      <li><strong>Diploid (2n):</strong> Most of our body cells have two sets of chromosomes (one from each parent). This is the diploid number.</li>\n      <li><strong>Haploid (n):</strong> Sex cells (sperm and egg) need to have only one set of chromosomes so that when they combine during fertilization, the resulting offspring has the correct diploid number.</li>\n    </ul>\n    Meiosis is the special type of cell division that produces these sex cells. It takes a diploid cell (2n) and divides it twice to produce four haploid cells (n). Because it <strong>reduces</strong> the chromosome number by half, it's called \"reduction division.\" Mitosis, which produces identical body cells, is sometimes called \"duplication division.\"\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Cell Biology",
+      "Membrane Structure",
+      "Cellular Transport"
+    ],
+    "Question": {
+      "content": "Why do lipid bilayers act as an impermeable barrier to polar molecules?",
+      "type": "OBJ",
+      "options": [
+        "it's hydrophilic interior",
+        "It's internal structure",
+        "It's permeable layers",
+        "Its hydrophobic interior"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Its hydrophobic interior"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The \"Oil and Water\" Principle</h4>\n  <div style='margin-bottom: 12px;'>\n    The cell membrane is made of a double layer of lipids (fats) called a lipid bilayer.\n    <ul>\n      <li>The <strong>heads</strong> of these lipids are <strong>hydrophilic</strong> (water-loving) and face the watery inside and outside of the cell.</li>\n      <li>The <strong>tails</strong> of these lipids are <strong>hydrophobic</strong> (water-fearing/water-repelling) and face each other, creating the interior of the membrane.</li>\n    </ul>\n    Polar molecules (like water and sugar) are charged and love water. To get through the membrane, they would have to pass through the oily, hydrophobic interior. Since \"like dissolves like,\" the oily interior repels these polar molecules, making the membrane a barrier to them. This is why we say the membrane is selectively permeable.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Nutrition",
+      "Diseases",
+      "Health"
+    ],
+    "Question": {
+      "content": "What are the two main clinical forms of Protein-Energy Malnutrition (PEM)?",
+      "type": "OBJ",
+      "options": [
+        "Anaemia and Kwashiorkor",
+        "Anaemia and Marasmus",
+        "Kwashiorkor and Marasmus",
+        "Anaemia and Goitre"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kwashiorkor and Marasmus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Diseases of Malnutrition</h4>\n  <div style='margin-bottom: 12px;'>\n    Protein-Energy Malnutrition (PEM) happens when a person doesn't get enough protein and calories. It has two main, severe forms:\n    <ul>\n      <li><strong>Kwashiorkor:</strong> This is primarily a <strong>protein deficiency</strong>. Even if a person gets some calories from carbohydrates, the lack of protein leads to symptoms like a swollen belly (edema), fatty liver, and skin lesions.</li>\n      <li><strong>Marasmus:</strong> This is a deficiency in <strong>both protein and calories</strong> (total food intake). It leads to severe wasting (the person looks like \"skin and bones\"), stunted growth, and loss of fat and muscle.</li>\n    </ul>\n    Anaemia is a lack of healthy red blood cells, often from iron deficiency, and Goitre is an enlarged thyroid gland from iodine deficiency. These are different nutritional disorders.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Biochemistry",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "What is the direct result of the hydrolysis of a nucleotide molecule (specifically referring to ATP)?",
+      "type": "OBJ",
+      "options": [
+        "Creating a reaction that binds Pi to ADP",
+        "Removal of a phosphate group which releases energy",
+        "Storing of energy in the ATP molecules",
+        "Drives the reactions simultaneously"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Removal of a phosphate group which releases energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Breaking Down ATP for Energy</h4>\n  <div style='margin-bottom: 12px;'>\n    This question is essentially asking about ATP hydrolysis again, but in a slightly different way. Let's look at what each option describes:\n    <ul>\n      <li><strong>Creating a reaction that binds Pi to ADP:</strong> This describes the <strong>opposite</strong> process. Binding a phosphate to ADP to make ATP requires energy input (this is how energy is stored).</li>\n      <li><strong>Removal of a phosphate group which releases energy:</strong> This is correct. 'Hydrolysis' means to break with water, which removes a phosphate and releases the energy stored in that bond.</li>\n      <li><strong>Storing of energy in the ATP molecules:</strong> This is the purpose of making ATP, not the result of breaking it down (hydrolysis).</li>\n      <li><strong>Drives the reactions simultaneously:</strong> This is a vague description of what the released energy can do, not the direct result of the hydrolysis itself.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Cell Division",
+      "Meiosis",
+      "Genetics"
+    ],
+    "Question": {
+      "content": "During which stage of cell division does RNA synthesis stop, and the chromosomes undergo further condensation, thicken, and detach from the nuclear envelope?",
+      "type": "OBJ",
+      "options": [
+        "Cytokinesis",
+        "Diakinesis",
+        "Metakinesis",
+        "Prokinesis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diakinesis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Final Stage of Prophase I in Meiosis</h4>\n  <div style='margin-bottom: 12px;'>\n    This question describes a specific phase within the first prophase of meiosis.\n    <ul>\n      <li><strong>Diakinesis:</strong> This is the final stage of Prophase I in meiosis. During this stage, the chromosomes finish condensing and become very thick and visible. They completely detach from the nuclear envelope (which starts to break down), and all gene transcription (RNA synthesis) stops. This prepares the cell for the chromosomes to be moved around.</li>\n      <li><strong>Cytokinesis:</strong> This is the very last step of cell division, where the cytoplasm divides to form two separate daughter cells.</li>\n      <li><strong>Metakinesis:</strong> This is sometimes used to describe the transition from metaphase to anaphase, or the movement of chromosomes to the metaphase plate. It's not a standard, distinct phase like the others.</li>\n      <li><strong>Prokinesis:</strong> This is not a recognized stage in cell division.</li>\n    </ul>\n    So, the specific term for the stage described is Diakinesis.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Cell Biology",
+      "Cellular Transport"
+    ],
+    "Question": {
+      "content": "What happens to red blood cells when they are placed in a hypertonic medium (a solution with a higher solute concentration than inside the cell)?",
+      "type": "OBJ",
+      "options": [
+        "the red blood cells burst or rupture",
+        "the red blood cell shrinks and reduce in size",
+        "the red blood cell remains the same in it content and size",
+        "the water diffuses into and out of the cell at the same time"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the red blood cell shrinks and reduce in size"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Osmosis in Action: The Effect of a Hypertonic Solution</h4>\n  <div style='margin-bottom: 12px;'>\n    This is all about osmosis, which is the movement of water from an area of low solute concentration (high water concentration) to an area of high solute concentration (low water concentration) across a membrane.\n    <ul>\n      <li><strong>Hypertonic medium:</strong> \"Hyper\" means more. The solution outside the cell has MORE solutes and LESS water than the inside of the cell.</li>\n    </ul>\n    To balance things out, water will move from where it is more concentrated (inside the cell) to where it is less concentrated (outside the cell). As water leaves the red blood cell, it loses its volume and shrinks. This process is called <strong>crenation</strong>.\n    <p style='margin-top: 10px;'><i>(FYI: If it were a hypotonic solution (more water outside), water would rush in and the cell would burst. If it were isotonic (equal concentration), there would be no net movement.)</i></p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Genetics",
+      "History of Biology"
+    ],
+    "Question": {
+      "content": "What is another name for Mendelian genetics?",
+      "type": "OBJ",
+      "options": [
+        "Classical genetics",
+        "Molecular genetics",
+        "Population genetics",
+        "Quantitative genetics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Classical genetics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Foundation of Genetics</h4>\n  <div style='margin-bottom: 12px;'>\n    Genetics, the study of heredity, can be divided into different branches based on the approach and scale of study.\n    <ul>\n      <li><strong>Classical genetics (Mendelian genetics):</strong> This is the oldest branch, founded by Gregor Mendel in the 19th century. It deals with the principles of heredity and variation by observing the visible traits passed from parents to offspring, without knowledge of DNA or genes at the molecular level. It's based on the laws of segregation and independent assortment.</li>\n      <li><strong>Molecular genetics:</strong> This branch focuses on the structure and function of genes at a molecular level, studying DNA, RNA, and protein synthesis.</li>\n      <li><strong>Population genetics:</strong> This branch studies the distribution of genes and genetic variation within populations and how these change over time (evolution).</li>\n      <li><strong>Quantitative genetics:</strong> This branch deals with traits that are controlled by many genes (like height or weight) and how they are influenced by the environment.</li>\n    </ul>\n    Therefore, Mendelian genetics is specifically another term for Classical genetics.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is the term for a self-sustaining ecological system?",
+      "type": "OBJ",
+      "options": [
+        "habitat",
+        "niche",
+        "Ecosystem",
+        "population dynamics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ecosystem"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Levels of Ecological Organization</h4>\n  <div style='margin-bottom: 12px;'>\n    Let's break down these ecological terms:\n    <ul>\n      <li><strong>Habitat:</strong> This is the specific physical place where an organism lives (e.g., a pond, a forest). It's just the 'address'.</li>\n      <li><strong>Niche:</strong> This is the 'job' or role of an organism in its environment—how it survives, gets food, and interacts with other species.</li>\n      <li><strong>Ecosystem:</strong> This includes all the living organisms (biotic factors) in an area interacting with each other and with their non-living (abiotic) environment (like water, soil, sunlight). An ecosystem is considered <strong>self-sustaining</strong> because it has all the components needed for energy flow and nutrient cycling (producers, consumers, decomposers) to continue functioning without constant outside input.</li>\n      <li><strong>Population dynamics:</strong> This is the study of how and why populations of organisms change in size and structure over time.</li>\n    </ul>\n    Only an ecosystem has the full set of components to be self-sustaining.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Ecology",
+      "Classification"
+    ],
+    "Question": {
+      "content": "What are autotrophs also known as?",
+      "type": "OBJ",
+      "options": [
+        "tertiary producers",
+        "primary producers",
+        "decomposers",
+        "consumers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "primary producers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Who Makes Their Own Food?</h4>\n  <div style='margin-bottom: 12px;'>\n    Organisms are classified in a food chain based on how they get their energy.\n    <ul>\n      <li><strong>Autotrophs (Primary Producers):</strong> \"Auto\" means self, and \"troph\" means feeder. These organisms can produce their own food from inorganic substances using energy from sunlight (photosynthesis) or chemicals (chemosynthesis). Plants, algae, and some bacteria are autotrophs. They are called <strong>primary producers</strong> because they produce the energy that all other organisms (consumers) will eventually use. They form the first (primary) level of any food chain.</li>\n      <li><strong>Consumers:</strong> These organisms cannot make their own food and must eat other organisms for energy. They are also called heterotrophs.</li>\n      <li><strong>Decomposers:</strong> These organisms (like fungi and bacteria) break down dead organic matter and waste, recycling nutrients back into the ecosystem.</li>\n    </ul>\n    Tertiary producers is not a standard ecological term.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Genetics",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "What is a sudden change in a chromosome that can be passed on to offspring called?",
+      "type": "OBJ",
+      "options": [
+        "evolution",
+        "mendelism",
+        "biomes",
+        "mutation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mutation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Source of Genetic Variation</h4>\n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Mutation:</strong> This is the correct answer. A mutation is a permanent, sudden, and random change in the DNA sequence or chromosome structure. If this change occurs in the cells that produce eggs or sperm (germ cells), it can be passed down from parent to offspring, introducing new genetic variation.</li>\n      <li><strong>Evolution:</strong> This is the process of change in the inherited characteristics of a population over many generations. Mutations provide the raw material for evolution, but they are not the process itself.</li>\n      <li><strong>Mendelism:</strong> This refers to the principles of heredity discovered by Gregor Mendel.</li>\n      <li><strong>Biomes:</strong> These are large, naturally occurring communities of flora and fauna occupying a major habitat, like a desert or a rainforest. It has nothing to do with genetics.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "What is the term for the genetic make-up of an individual?",
+      "type": "OBJ",
+      "options": [
+        "hybrid",
+        "homozygous chromosomes",
+        "genotype",
+        "punnet square"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "genotype"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Genotype vs. Phenotype</h4>\n  <div style='margin-bottom: 12px;'>\n    These are two of the most important terms in genetics.\n    <ul>\n      <li><strong>Genotype:</strong> This is the <strong>genetic makeup</strong> of an organism. It refers to the specific combination of alleles (versions of a gene) that an individual possesses for a particular trait. For example, for a flower color gene, the genotype could be 'PP' (homozygous dominant) or 'Pp' (heterozygous). It's the internal code.</li>\n      <li><strong>Phenotype:</strong> This is the <strong>observable characteristic</strong> or physical expression of the genotype. For the examples above, the phenotype would be 'purple flowers'.</li>\n    </ul>\n    The other options: a <strong>hybrid</strong> is an offspring from two different varieties; <strong>homozygous</strong> describes a genotype with two identical alleles; and a <strong>Punnett square</strong> is a tool used to predict genotypes of offspring.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "What is the term for the observable characteristics of an individual?",
+      "type": "OBJ",
+      "options": [
+        "hetrozygous",
+        "homozygous",
+        "recessive",
+        "phenotype"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "phenotype"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What You See is the Phenotype</h4>\n  <div style='margin-bottom: 12px;'>\n    This question is the perfect partner to the previous one.\n    <ul>\n      <li><strong>Phenotype:</strong> This is the set of <strong>observable characteristics</strong> of an individual resulting from the interaction of its genotype with the environment. This includes things like eye color, height, flower color, or blood type. It's the physical expression of the genes.</li>\n    </ul>\n    Let's clarify the other terms:\n    <ul>\n      <li><strong>Heterozygous:</strong> Having two different alleles for a particular gene (e.g., 'Pp').</li>\n      <li><strong>Homozygous:</strong> Having two identical alleles for a particular gene (e.g., 'PP' or 'pp').</li>\n      <li><strong>Recessive:</strong> An allele whose effect is masked by a dominant allele. A recessive trait is only observed in the phenotype if the individual is homozygous recessive (e.g., 'pp').</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT considered a primary function of an ecosystem?",
+      "type": "OBJ",
+      "options": [
+        "gene variation",
+        "nutrient cycle",
+        "ecological production",
+        "energy transfer"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "gene variation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Ecosystems Work</h4>\n  <div style='margin-bottom: 12px;'>\n    Ecosystems are functional units that perform specific processes to sustain life. The main functions include:\n    <ul>\n      <li><strong>Energy Transfer (Flow):</strong> Energy from the sun flows through the ecosystem from producers to consumers to decomposers. This is a fundamental function.</li>\n      <li><strong>Nutrient Cycle (Biogeochemical Cycling):</strong> Nutrients like carbon, nitrogen, and phosphorus are cycled between the biotic (living) and abiotic (non-living) parts of the ecosystem. They are used, recycled, and reused.</li>\n      <li><strong>Ecological Production:</strong> This is the process by which producers (plants) create biomass (organic matter) through photosynthesis. This production is the foundation for all other life in the ecosystem.</li>\n    </ul>\n    <strong>Gene variation</strong> is a concept from <strong>population genetics and evolution</strong>. It refers to the diversity of genes within a species or population. While important for the long-term survival and adaptation of species, it is not considered a primary, universal function of an ecosystem in the same way energy flow and nutrient cycling are. Gene variation is a property of populations, not a function of the ecosystem as a whole.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Genetics",
+      "History of Biology"
+    ],
+    "Question": {
+      "content": "Who is known as the father of genetics?",
+      "type": "OBJ",
+      "options": [
+        "Charles Darwin",
+        "William Bateson",
+        "Charles Mendel",
+        "Gregor Mendel"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gregor Mendel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Pioneer of Heredity</h4>\n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Gregor Mendel (1822-1884):</strong> He was an Austrian scientist and Augustinian monk. In the 19th century, he conducted groundbreaking experiments on pea plants in his monastery's garden. Through careful observation and mathematical analysis, he discovered the fundamental laws of inheritance—how traits are passed from parents to offspring. His work laid the foundation for the entire field of genetics, which is why he is universally recognized as the \"father of genetics.\"</li>\n      <li><strong>Charles Darwin:</strong> Famous for his theory of evolution by natural selection.</li>\n      <li><strong>William Bateson:</strong> He was an early geneticist who coined the term \"genetics\" and popularized Mendel's work, but he didn't discover the principles himself.</li>\n      <li><strong>Charles Mendel:</strong> This is not a real person; it seems to be a mix-up of Charles Darwin and Gregor Mendel.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Genetics",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "What is the term for the transfer of alleles (genes) from one population (gene pool) to another?",
+      "type": "OBJ",
+      "options": [
+        "Gene pool",
+        "Gene glow",
+        "Gene flow",
+        "Genetic drift"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gene flow"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Moving Genes Around</h4>\n  <div style='margin-bottom: 12px;'>\n    This question is about the mechanisms that change the genetic makeup of populations.\n    <ul>\n      <li><strong>Gene flow (also called gene migration):</strong> This is the correct answer. It refers to the movement of alleles (different versions of a gene) from one population to another. This happens when individuals migrate between populations and breed, introducing new genes to the new population or removing genes from the old one. For example, if a bird from the mainland flies to an island and breeds with the birds there, it has caused gene flow.</li>\n      <li><strong>Gene pool:</strong> This is the total collection of all the genes and their different alleles present in a population at a given time. It's the source, not the process of transfer.</li>\n      <li><strong>Genetic drift:</strong> This is a change in the frequency of an allele in a population due to random chance events (like a natural disaster randomly killing individuals). It's not about transfer between populations.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Ecology",
+      "History of Science"
+    ],
+    "Question": {
+      "content": "Who defined the ecosystem as the basic functional unit in nature?",
+      "type": "OBJ",
+      "options": [
+        "Tansley",
+        "Darwin",
+        "Mendel",
+        "Elton"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tansley"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Origin of the Term 'Ecosystem'</h4>\n  <div style='margin-bottom: 12px;'>\n    It's important to know the key figures who shaped our understanding of biology.\n    <ul>\n      <li><strong>Arthur Tansley (1871-1955):</strong> He was a British ecologist who, in 1935, coined the term \"ecosystem.\" He proposed that to understand nature, we must consider not just the living organisms (the community) but also their physical environment (the habitat) as a single, interacting system. He defined it as the basic functional unit in nature.</li>\n      <li><strong>Charles Darwin:</strong> Known for evolution by natural selection.</li>\n      <li><strong>Gregor Mendel:</strong> Known as the father of genetics.</li>\n      <li><strong>Charles Elton:</strong> A pioneering ecologist known for his work on animal ecology, food chains, and niches, but he did not coin the term 'ecosystem'.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Ecology",
+      "Classification"
+    ],
+    "Question": {
+      "content": "What are organisms called that obtain their food from non-living organic matter?",
+      "type": "OBJ",
+      "options": [
+        "saprophytes",
+        "mutualism",
+        "decomposers",
+        "bacteria"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "saprophytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Recyclers and Decomposers</h4>\n  <div style='margin-bottom: 12px;'>\n    This question asks for the specific name for organisms with this feeding habit. Let's clarify the terms:\n    <ul>\n      <li><strong>Saprophytes (or Saprotrophs):</strong> This is the most accurate answer. \"Sapro-\" means rotten or decaying. These are organisms, primarily fungi and certain bacteria, that feed on dead or decaying organic matter. They secrete enzymes onto the food to digest it externally and then absorb the nutrients. They are a type of decomposer.</li>\n      <li><strong>Decomposers:</strong> This is a broader category that includes saprophytes. Decomposers are organisms that break down dead or decaying organisms. While saprophytes are decomposers, the term 'decomposer' can also include organisms that break down matter in other ways. The question specifically asks for organisms that obtain food \"from non-living organic matter,\" which is the direct definition of a saprophyte.</li>\n      <li><strong>Mutualism:</strong> This is a type of symbiotic relationship where both organisms benefit.</li>\n      <li><strong>Bacteria:</strong> This is a whole kingdom of organisms. Some bacteria are saprophytic, but many are not (e.g., parasitic or photosynthetic bacteria). So, it's not a specific answer for the feeding habit.</li>\n    </ul>\n    Therefore, 'saprophytes' is the most specific and correct term.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Animal Kingdom",
+      "Classification"
+    ],
+    "Question": {
+      "content": "What is an organism called that can live both on land and in water?",
+      "type": "OBJ",
+      "options": [
+        "aquatic",
+        "terrestrial",
+        "amphibian",
+        "aerial"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "amphibian"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Habitats of Organisms</h4>\n  <div style='margin-bottom: 12px;'>\n    These terms describe where an organism typically lives.\n    <ul>\n      <li><strong>Amphibian:</strong> This comes from Greek words meaning \"double life.\" It refers to vertebrates (like frogs, toads, and salamanders) that live part of their life in water (as larvae with gills) and part on land (as adults with lungs). They are the classic example of organisms living in both environments.</li>\n      <li><strong>Aquatic:</strong> Refers to organisms that live primarily or entirely in water (e.g., fish, whales).</li>\n      <li><strong>Terrestrial:</strong> Refers to organisms that live primarily or entirely on land (e.g., humans, lions).</li>\n      <li><strong>Aerial:</strong> Refers to organisms that can fly or spend most of their time in the air (e.g., birds, insects).</li>\n    </ul>\n    While an amphibian is a specific class of animals, the question is asking for the general descriptive term for an organism with that lifestyle.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "What is it called when a trait gives an organism higher fitness compared to other forms of that trait in a population?",
+      "type": "OBJ",
+      "options": [
+        "fitness",
+        "evolution",
+        "adaptive",
+        "acclimatation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "adaptive"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Advantage of Traits</h4>\n  <div style='margin-bottom: 12px;'>\n    This question is about the language of evolution.\n    <ul>\n      <li><strong>Adaptive trait (or adaptation):</strong> This is the correct answer. An adaptation is a heritable characteristic that helps an organism survive and reproduce better in its environment. If a trait confers \"higher fitness,\" it means it is an adaptive trait. Natural selection favors these traits, causing them to become more common in the population over time.</li>\n      <li><strong>Fitness:</strong> This is the measure of how successful an organism is at surviving and reproducing. It's the result, not the description of the trait itself. A trait can increase an organism's fitness, but the trait is called 'adaptive'.</li>\n      <li><strong>Evolution:</strong> This is the long-term process of change in populations, driven by mechanisms like natural selection acting on adaptive traits.</li>\n      <li><strong>Acclimatation (Acclimatization):</strong> This is a short-term, physiological adjustment an individual organism makes to cope with environmental changes (e.g., producing more red blood cells at high altitudes). It is not a heritable genetic change passed to offspring.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is the term for the non-living aspect of an ecosystem?",
+      "type": "OBJ",
+      "options": [
+        "biotic",
+        "abiotic",
+        "probiotic",
+        "living"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "abiotic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Two Sides of an Ecosystem</h4>\n  <div style='margin-bottom: 12px;'>\n    Every ecosystem is made up of two main components that interact with each other.\n    <ul>\n      <li><strong>Biotic components:</strong> These are all the <strong>living</strong> things in the ecosystem, such as plants, animals, fungi, and bacteria.</li>\n      <li><strong>Abiotic components:</strong> The prefix \"a-\" means \"without.\" These are all the <strong>non-living</strong> physical and chemical parts of the environment. Examples include sunlight, temperature, water, soil, air, minerals, and pH.</li>\n    </ul>\n    <strong>Probiotic</strong> refers to live bacteria and yeasts that are good for your health, especially your digestive system. It is not an ecological term for a non-living component.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "How can ecology be appropriately described?",
+      "type": "OBJ",
+      "options": [
+        "Synthetic science",
+        "Qualitative biological science",
+        "Applied biological science",
+        "Physical science"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synthetic science"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Nature of Ecology</h4>\n  <div style='margin-bottom: 12px;'>\n    Ecology is the scientific study of the interactions between organisms and their environment. To do this, it must draw from many different fields.\n    <ul>\n      <li><strong>Synthetic science:</strong> This is the best description. \"Synthesis\" means combining different ideas to form a connected whole. Ecology is synthetic because it brings together knowledge from various sciences—biology (zoology, botany, physiology), chemistry (biogeochemical cycles), physics (energy flow), geology (soil formation), and even mathematics and statistics (population modeling)—to understand the complex relationships in nature.</li>\n      <li><strong>Applied biological science:</strong> Ecology can be applied (e.g., in conservation), but it is also a fundamental, theoretical science. This description is too narrow.</li>\n      <li><strong>Qualitative biological science:</strong> Ecology uses both qualitative observations and quantitative data (measurements, statistics). It's not purely qualitative.</li>\n      <li><strong>Physical science:</strong> While it uses principles from physics, ecology is primarily a branch of biology.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a major characteristic of ecosystems?",
+      "type": "OBJ",
+      "options": [
+        "Unique structure and function",
+        "Levels of organization of organisms begins with aggregation of individuals",
+        "reservoir of variety of natural resources",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "none of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Features of Ecosystems</h4>\n  <div style='margin-bottom: 12px;'>\n    Let's check if each statement is a true characteristic of an ecosystem.\n    <ul>\n      <li><strong>Unique structure and function:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> Every ecosystem has a specific structure (e.g., the types and numbers of species, the physical organization) and performs specific functions (e.g., energy flow, nutrient cycling).</li>\n      <li><strong>Levels of organization of organisms begins with aggregation of individuals:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> This describes the biological hierarchy within an ecosystem. It starts with <strong>individuals</strong> of the same species aggregating to form a <strong>population</strong>. Different populations interact to form a <strong>community</strong>. The community plus its abiotic environment forms the <strong>ecosystem</strong>.</li>\n      <li><strong>reservoir of variety of natural resources:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> Ecosystems contain a vast array of natural resources, both biotic (e.g., timber, fish, medicinal plants) and abiotic (e.g., water, minerals, fossil fuels).</li>\n    </ul>\n    Since all three statements (a, b, and c) are true major characteristics of ecosystems, the correct answer is \"none of the above.\"\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is the name for the continuous and cyclic flow of nutrients between the biotic and abiotic components of an ecosystem?",
+      "type": "OBJ",
+      "options": [
+        "Nutrient cycle",
+        "Thermal cycle",
+        "biogeochemical cycle",
+        "geographical cycle"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "biogeochemical cycle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Path of Nutrients</h4>\n  <div style='margin-bottom: 12px;'>\n    This is the formal scientific term for this essential process.\n    <ul>\n      <li><strong>Biogeochemical cycle:</strong> This is the correct term. The name itself explains it perfectly:\n        <ul>\n          <li><strong>Bio-</strong> refers to the <strong>living (biotic)</strong> components (organisms).</li>\n          <li><strong>Geo-</strong> refers to the <strong>geological (abiotic)</strong> components (rocks, soil, water, air).</li>\n          <li><strong>Chemical</strong> refers to the <strong>chemical elements and compounds</strong> that are being cycled (like carbon, nitrogen, phosphorus, water).</li>\n        </ul>\n        So, a biogeochemical cycle is the pathway by which a chemical substance moves through both the biotic (biosphere) and abiotic (lithosphere, atmosphere, hydrosphere) compartments of Earth. Examples include the carbon cycle, nitrogen cycle, and water cycle.\n      </li>\n      <li><strong>Nutrient cycle:</strong> This is a more general term that essentially means the same thing, but 'biogeochemical cycle' is the more precise and formal term used in ecology to emphasize the interaction between the biological and geological parts.</li>\n    </ul>\n    A thermal cycle relates to heat, and a geographical cycle relates to landform changes.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is the ecological interaction called where one organism is harmed, but the other organism receives no cost or benefit?",
+      "type": "OBJ",
+      "options": [
+        "Competition",
+        "Amensalism",
+        "commensalism",
+        "mutualism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amensalism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Symbiotic Relationships</h4>\n  <div style='margin-bottom: 12px;'>\n    Ecologists classify interactions between species based on how each species is affected (+, -, or 0).\n    <ul>\n      <li><strong>Amensalism (0, -):</strong> This is the correct answer. It's a relationship where one organism is harmed or inhibited (negative effect), while the other organism is completely unaffected (neutral effect). A classic example is the black walnut tree, which releases a chemical from its roots that kills or inhibits the growth of nearby plants, giving itself an advantage, while the tree itself is not affected by the plants.</li>\n      <li><strong>Competition (-, -):</strong> Both organisms are harmed as they fight over the same limited resource (like food or territory).</li>\n      <li><strong>Commensalism (+, 0):</strong> One organism benefits, and the other is neither helped nor harmed. Example: barnacles attaching to a whale (barnacles get a ride, whale is unaffected).</li>\n      <li><strong>Mutualism (+, +):</strong> Both organisms benefit from the interaction. Example: bees and flowers.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Evolution",
+      "History of Science"
+    ],
+    "Question": {
+      "content": "Who authored the theory of natural selection, which explains the mechanism of evolution?",
+      "type": "OBJ",
+      "options": [
+        "Russell Wallace (1823 – 1913)",
+        "Futuyma",
+        "Charles Darwin (1809 – 1882)",
+        "George Curvieri (1769 – 1832)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Charles Darwin (1809 – 1882)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Architect of Evolutionary Theory</h4>\n  <div style='margin-bottom: 12px;'>\n    <ul>\n      <li><strong>Charles Darwin (1809 – 1882):</strong> He was the British naturalist who, along with Alfred Russel Wallace, jointly proposed the theory of evolution by natural selection. Darwin's book, \"On the Origin of Species,\" published in 1859, provided extensive evidence and detailed the mechanism, making him the primary figure associated with the theory. He is the correct answer.</li>\n      <li><strong>Russell Wallace (1823 – 1913):</strong> Alfred Russel Wallace independently conceived the theory of evolution by natural selection. His letter to Darwin prompted Darwin to publish his own work. While a co-discoverer, Darwin is more famously credited as the main author of the theory due to the depth and breadth of his evidence.</li>\n      <li><strong>Futuyma:</strong> Douglas Futuyma is a modern, prominent evolutionary biologist and author of influential textbooks, but he did not originate the theory.</li>\n      <li><strong>George Curvieri (1769 – 1832):</strong> This is likely a misspelling of Georges Cuvier, a French naturalist known for establishing extinction as a fact and for his work on comparative anatomy and paleontology. He was a proponent of catastrophism, not evolution by natural selection.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Origin of Life",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "During which geological period did both bryophytes (like mosses) and jawless fish first appear in the world?",
+      "type": "OBJ",
+      "options": [
+        "Ordovician period",
+        "Carboniferous period",
+        "Cambrian period",
+        "Cenozoic period"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ordovician period"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>A Timeline of Early Life</h4>\n  <div style='margin-bottom: 12px;'>\n    This question asks you to place two major evolutionary events on the geological timescale.\n    <ul>\n      <li><strong>Ordovician period (about 485 to 444 million years ago):</strong> This is the correct answer. The Ordovician is known for a significant diversification of life in the oceans. The first primitive plants (like bryophytes, which are non-vascular plants such as mosses and liverworts) began to colonize land. At the same time, the first jawless fish (agnathans), like ostracoderms, appeared and diversified in the seas.</li>\n      <li><strong>Cambrian period:</strong> Famous for the \"Cambrian Explosion,\" a rapid diversification of most major animal body plans, but these were mostly invertebrates. Jawless fish appeared later, and land plants had not yet evolved.</li>\n      <li><strong>Carboniferous period:</strong> This was the age of great coal-forming forests, with giant ferns and trees. Amphibians were dominant, and the first reptiles appeared. Both bryophytes and jawless fish were present but had evolved much earlier.</li>\n      <li><strong>Cenozoic era:</strong> This is the current era, the age of mammals and birds, following the extinction of the dinosaurs.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "What is the phenomenon called when traits do not strictly follow the dominant/recessive relationship as seen in Mendel's experiments?",
+      "type": "OBJ",
+      "options": [
+        "Multiple alleles",
+        "Co-dominant alleles",
+        "Complete dominance",
+        "Pleiotropy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Co-dominant alleles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Beyond Simple Dominance</h4>\n  <div style='margin-bottom: 12px;'>\n    Mendel's pea plants showed simple dominance, where one allele completely masked the other (e.g., purple completely dominant over white). However, there are several exceptions to this pattern.\n    <ul>\n      <li><strong>Co-dominant alleles (Codominance):</strong> This is a strong candidate. In codominance, both alleles in a heterozygote are fully expressed, and neither is dominant or recessive. The phenotype shows both traits simultaneously. A classic human example is the ABO blood group. A person with one A allele and one B allele has type AB blood, meaning both A and B antigens are expressed on their red blood cells.</li>\n      <li><strong>Multiple alleles:</strong> This refers to the existence of more than two alleles for a gene within a population (like the three alleles for blood type: I^A, I^B, and i). It's a situation, not a pattern of expression like codominance or incomplete dominance.</li>\n      <li><strong>Complete dominance:</strong> This is the Mendelian pattern itself, where one allele is completely dominant over the other. This is the opposite of what the question asks for.</li>\n      <li><strong>Pleiotropy:</strong> This occurs when one gene influences multiple, seemingly unrelated phenotypic traits (e.g., the gene for sickle cell anemia affects blood shape, resistance to malaria, and causes pain). It's not about the relationship between alleles.</li>\n    </ul>\n    While the question's wording is a bit broad, \"co-dominant alleles\" is the best fit as it's a direct exception to the dominant/recessive relationship, where both alleles are equally expressed.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Genetics",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "Which of the following statements is NOT typical of mutation?",
+      "type": "OBJ",
+      "options": [
+        "generate new variations that can give an individual a survival advantage",
+        "generates new form of genes called alleles",
+        "gives uniqueness to every individual",
+        "exerts no influence on the distribution and changes in the frequency of alleles of genes in a population"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "exerts no influence on the distribution and changes in the frequency of alleles of genes in a population"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Mutation</h4>\n  <div style='margin-bottom: 12px;'>\n    Mutation is a key force in evolution. Let's see which statement is false.\n    <ul>\n      <li><strong>generate new variations that can give an individual a survival advantage:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> This is the ultimate source of all new genetic variation. Most mutations are neutral or harmful, but some can be advantageous.</li>\n      <li><strong>generates new form of genes called alleles:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> A mutation changes the DNA sequence, creating a new version (allele) of a gene.</li>\n      <li><strong>gives uniqueness to every individual:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> The accumulation of many mutations over time, combined with sexual reproduction, contributes to the genetic uniqueness of every individual (except identical twins).</li>\n      <li><strong>exerts no influence on the distribution and changes in the frequency of alleles of genes in a population:</strong> <span style='color: var(--red);'>✗ FALSE.</span> This statement is incorrect. Mutation is one of the four main forces of evolution (along with natural selection, genetic drift, and gene flow) that directly <strong>does</strong> change allele frequencies in a population by introducing new alleles. Even if it's a slow force, it definitely exerts an influence.</li>\n    </ul>\n    Therefore, the statement that is NOT typical of mutation is that it exerts no influence on allele frequencies.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Biochemistry",
+      "Organic Chemistry"
+    ],
+    "Question": {
+      "content": "Ionic compounds are formed when electrons are transferred from one atom to another. Is this statement true or false?",
+      "type": "OBJ",
+      "options": [
+        "False",
+        "True",
+        "nearly true",
+        "integrate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Ionic Bonds Form</h4>\n  <div style='margin-bottom: 12px;'>\n    This is a fundamental concept in chemistry that explains how many compounds, like table salt (NaCl), are held together.\n    <ul>\n      <li><strong>Ionic bonding</strong> is a type of chemical bond that involves the complete <strong>transfer of valence electrons</strong> between atoms.</li>\n      <li>One atom (usually a metal) loses one or more electrons and becomes a positively charged ion (cation).</li>\n      <li>Another atom (usually a non-metal) gains those electrons and becomes a negatively charged ion (anion).</li>\n      <li>The resulting oppositely charged ions are then attracted to each other by a strong electrostatic force, forming the ionic compound.</li>\n    </ul>\n    <p>For example, in sodium chloride (NaCl):</p>\n    <p style='font-size: 1.1rem; background: var(--preset-bg-color); padding: 8px; border-radius: 4px; text-align: center;'>\\( Na \\longrightarrow Na^+ + e^- \\) (Sodium loses an electron)</p>\n    <p style='font-size: 1.1rem; background: var(--preset-bg-color); padding: 8px; border-radius: 4px; text-align: center;'>\\( Cl + e^- \\longrightarrow Cl^- \\) (Chlorine gains an electron)</p>\n    <p>The statement is accurate, so the answer is <strong>True</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Biochemistry",
+      "Carbohydrates"
+    ],
+    "Question": {
+      "content": "What is the primary energy storage molecule in most living organisms?",
+      "type": "OBJ",
+      "options": [
+        "Minerals",
+        "Fats",
+        "Carbohydrate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbohydrate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Quick vs. Long-Term Energy</h4>\n  <div style='margin-bottom: 12px;'>\n    This question asks for the <strong>primary</strong> energy storage molecule. Both carbohydrates and fats store energy, but they have different roles.\n    <ul>\n      <li><strong>Carbohydrates (specifically glycogen in animals and starch in plants):</strong> This is the correct answer for \"primary\" energy storage. Carbohydrates are the body's <strong>first and most readily available</strong> source of energy. They are easily broken down into glucose, which is used for quick energy. Glycogen is stored in the liver and muscles for short-term energy needs.</li>\n      <li><strong>Fats (lipids):</strong> Fats are used for <strong>long-term energy storage</strong>. They store more than twice as much energy per gram as carbohydrates, but they take longer to break down. They are the body's reserve fuel.</li>\n    </ul>\n    So, while fats store more energy overall, carbohydrates are the molecule that organisms primarily and most quickly turn to for energy. Minerals are not used for energy storage.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Biochemistry",
+      "Carbohydrates"
+    ],
+    "Question": {
+      "content": "What is another name for common table sugar?",
+      "type": "OBJ",
+      "options": [
+        "Maltose",
+        "Sucrose",
+        "Lactose",
+        "Galactose"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sucrose"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Sugars</h4>\n  <div style='margin-bottom: 12px;'>\n    These are all types of carbohydrates, specifically sugars, but they come from different sources.\n    <ul>\n      <li><strong>Sucrose:</strong> This is the chemical name for common white table sugar. It is a disaccharide, meaning it's made up of two simpler sugars: glucose and fructose. It is typically extracted from sugar cane or sugar beets.</li>\n      <li><strong>Maltose:</strong> Also known as malt sugar, it's found in germinating grains like barley. It's made of two glucose molecules.</li>\n      <li><strong>Lactose:</strong> Found in milk and dairy products, it's made of glucose and galactose.</li>\n      <li><strong>Galactose:</strong> This is a monosaccharide (a single sugar) that is less sweet than glucose and is a component of lactose.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Biochemistry",
+      "Organic Chemistry"
+    ],
+    "Question": {
+      "content": "What is the physical state of fatty acids as the number of bonds in them increases?",
+      "type": "OBJ",
+      "options": [
+        "Solid",
+        "Semi-solid",
+        "Liquid",
+        "Semi-liquid"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Liquid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Saturated vs. Unsaturated Fats</h4>\n  <div style='margin-bottom: 12px;'>\n    The number and type of bonds in a fatty acid chain determine its physical state at room temperature.\n    <ul>\n      <li><strong>Saturated fatty acids:</strong> These have <strong>no double bonds</strong> between carbon atoms (all single bonds). The chain is straight, allowing molecules to pack tightly together. This results in a <strong>solid</strong> state at room temperature (e.g., butter, lard).</li>\n      <li><strong>Unsaturated fatty acids:</strong> These have <strong>one or more double bonds</strong>. The double bonds create kinks or bends in the chain, preventing tight packing. This results in a <strong>liquid</strong> state at room temperature (e.g., olive oil, vegetable oil).</li>\n    </ul>\n    <p>Therefore, as the number of bonds (specifically double bonds) increases, the fatty acid becomes more unsaturated and tends towards a <strong>liquid</strong> condition.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "What is the term for the gradual changes that result in the modification of living things over time?",
+      "type": "OBJ",
+      "options": [
+        "Dehydration",
+        "Chemical reaction",
+        "Evolution",
+        "Genetics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evolution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Unifying Theory of Biology</h4>\n  <div style='margin-bottom: 12px;'>\n    This is a core definition in biology.\n    <ul>\n      <li><strong>Evolution:</strong> This is the correct answer. Evolution is defined as the change in the heritable characteristics of biological populations over successive generations. These are the \"gradual changes\" that lead to the \"modification of living things,\" resulting in the diversity of life we see today.</li>\n      <li><strong>Dehydration:</strong> This is a chemical process involving the loss of water.</li>\n      <li><strong>Chemical reaction:</strong> This is a process that involves rearrangement of atoms, but it's not specific to changes in living things over generations.</li>\n      <li><strong>Genetics:</strong> This is the study of genes, heredity, and variation. It provides the mechanism for evolution (through mutations and inheritance), but it is not the name for the process of gradual change itself.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Bioenergetics",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Photosynthesis is best described as what type of reaction?",
+      "type": "OBJ",
+      "options": [
+        "An atomic reaction",
+        "A catabolic reaction",
+        "An addition reaction",
+        "An anabolic reaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An anabolic reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building Up vs. Breaking Down</h4>\n  <div style='margin-bottom: 12px;'>\n    Metabolic reactions in organisms are broadly classified into two categories:\n    <ul>\n      <li><strong>Anabolic reactions (Anabolism):</strong> These are \"building up\" processes. They involve combining smaller, simpler molecules to build larger, more complex ones. This process <strong>requires energy</strong> input.</li>\n      <li><strong>Catabolic reactions (Catabolism):</strong> These are \"breaking down\" processes. They involve breaking down large, complex molecules into smaller, simpler ones. This process <strong>releases energy</strong>.</li>\n    </ul>\n    <p>Photosynthesis is the process where plants use energy from sunlight, carbon dioxide (\\( CO_2 \\)), and water (\\( H_2O \\)) to build large, complex molecules like glucose (\\( C_6H_{12}O_6 \\)).</p>\n    <p style='font-size: 1.1rem; background: var(--preset-bg-color); padding: 8px; border-radius: 4px; text-align: center;'>\\( 6CO_2 + 6H_2O + \\text{Light Energy} \\longrightarrow C_6H_{12}O_6 + 6O_2 \\)</p>\n    <p>Since it builds complex molecules from simple ones and requires energy, it is an <strong>anabolic reaction</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Cell Biology",
+      "Cellular Structure"
+    ],
+    "Question": {
+      "content": "Which of the following shows the correct hierarchical organization of structures in a living organism, from the smallest to the largest?",
+      "type": "OBJ",
+      "options": [
+        "Organ > Tissue > Atom > Molecule",
+        "Organ > Tissue > Molecule > Atom",
+        "Atom > Molecule > Tissue > Organ",
+        "Tissue > Molecule > Organ > Atom"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Atom > Molecule > Tissue > Organ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Levels of Biological Organization</h4>\n  <div style='margin-bottom: 12px;'>\n    Life is organized in a hierarchy, from the simplest, smallest units to the most complex. The order is:\n    <ol>\n      <li><strong>Atom:</strong> The basic unit of a chemical element (e.g., carbon, hydrogen, oxygen).</li>\n      <li><strong>Molecule:</strong> A group of atoms bonded together (e.g., water, DNA, protein).</li>\n      <li><strong>Organelle:</strong> A structure within a cell that performs a specific function (e.g., nucleus, mitochondria). This level was not in the options.</li>\n      <li><strong>Cell:</strong> The basic unit of life. This level was not in the options.</li>\n      <li><strong>Tissue:</strong> A group of similar cells that work together to perform a specific function (e.g., muscle tissue, nervous tissue).</li>\n      <li><strong>Organ:</strong> A structure made of different tissues working together to perform a specific function (e.g., heart, liver, brain).</li>\n    </ol>\n    <p>Following this hierarchy, the correct sequence from smallest to largest among the given options is <strong>Atom > Molecule > Tissue > Organ</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Cell Biology",
+      "Cellular Organelles",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "In a comparison between plant and animal cells, which of the following statements is NOT correct regarding the source of ATP?",
+      "type": "OBJ",
+      "options": [
+        "plant cells get most of their ATP from chloroplast",
+        "animal cells get most of their ATP from chloroplast"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "animal cells get most of their ATP from chloroplast"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Where is ATP Made?</h4>\n  <div style='margin-bottom: 12px;'>\n    This question tests the understanding of the functions of chloroplasts and mitochondria.\n    <ul>\n      <li><strong>Mitochondria:</strong> Found in both plant and animal cells. This is the site of <strong>cellular respiration</strong>, where glucose is broken down to produce ATP (energy) for the cell.</li>\n      <li><strong>Chloroplasts:</strong> Found only in plant cells (and some algae). This is the site of <strong>photosynthesis</strong>, where light energy is used to make glucose. While this process also produces some ATP, the primary role of chloroplasts is to build glucose.</li>\n    </ul>\n    <p>Plant cells get their ATP <strong>mainly from mitochondria</strong>, just like animal cells. The glucose made in chloroplasts is then broken down in mitochondria to release ATP for cellular work. Animal cells do not have chloroplasts, so the statement \"animal cells get most of their ATP from chloroplast\" is completely false. Therefore, this is the incorrect statement the question asks for.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Cell Biology",
+      "Cellular Transport"
+    ],
+    "Question": {
+      "content": "Which of the following statements is NOT true regarding factors that affect the rate of diffusion?",
+      "type": "OBJ",
+      "options": [
+        "rate of diffusion decreases rapidly with distance",
+        "rate of diffusion increases rapidly with distance",
+        "the greater the surface area through which the diffusion is taking place, the greater the rate of diffusion",
+        "high temperatures increase diffusion of large molecules while low temperature diffusion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "rate of diffusion increases rapidly with distance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Speeds Up or Slows Down Diffusion?</h4>\n  <div style='margin-bottom: 12px;'>\n    Diffusion is the net movement of particles from an area of high concentration to an area of low concentration. Several factors influence how fast this happens.\n    <ul>\n      <li><strong>Distance:</strong> The rate of diffusion is <strong>inversely related to distance</strong>. This means as distance increases, the rate of diffusion <strong>decreases rapidly</strong>. It takes much longer for a molecule to diffuse a long distance than a short one. This is why cells are small. So, the statement \"rate of diffusion decreases rapidly with distance\" is TRUE.</li>\n      <li><strong>Surface Area:</strong> A larger surface area allows more particles to cross at the same time, increasing the rate of diffusion. This is TRUE.</li>\n      <li><strong>Temperature:</strong> Higher temperatures give particles more kinetic energy, making them move faster and thus increasing the rate of diffusion. This is TRUE.</li>\n    </ul>\n    <p>The statement that says \"rate of diffusion increases rapidly with distance\" is FALSE. It's the opposite; it decreases with distance.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Biochemistry",
+      "Enzymes"
+    ],
+    "Question": {
+      "content": "Which of the following statements is NOT correct about enzymes?",
+      "type": "OBJ",
+      "options": [
+        "enzymes are organic catalysts that speed up chemical reactions",
+        "enzymes are specific for one particular reaction",
+        "enzymes of related reactions",
+        "enzymes form chemical bonds with the substrate",
+        "the substrate must match the shape of the active site, they will not function correctly if the substrate mismatches the active site"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "enzymes form chemical bonds with the substrate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Enzymes Work</h4>\n  <div style='margin-bottom: 12px;'>\n    Enzymes are biological catalysts. Let's evaluate each statement:\n    <ul>\n      <li><strong>enzymes are organic catalysts that speed up chemical reactions:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> This is the basic definition of an enzyme.</li>\n      <li><strong>enzymes are specific for one particular reaction (or a class of related reactions):</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> Enzymes are highly specific due to the unique shape of their active site.</li>\n      <li><strong>enzymes of related reactions:</strong> This option is poorly worded, but it seems to be an incomplete version of the point above.</li>\n      <li><strong>enzymes form chemical bonds with the substrate:</strong> <span style='color: var(--red);'>✗ FALSE.</span> This is the key incorrect statement. Enzymes do not form permanent chemical bonds with the substrate. They form a temporary <strong>enzyme-substrate complex</strong> through weak interactions (like hydrogen bonds or hydrophobic interactions). This temporary binding lowers the activation energy for the reaction. After the reaction, the product is released, and the enzyme is unchanged and ready to be used again.</li>\n      <li><strong>the substrate must match the shape of the active site, they will not function correctly if the substrate mismatches the active site:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> This describes the \"lock and key\" or \"induced fit\" models of enzyme specificity.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Cell Biology",
+      "Cellular Organelles",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "What are the two important organelles specialized for energy transformation in cells?",
+      "type": "OBJ",
+      "options": [
+        "mitochondria",
+        "Mitochondria and nucleus",
+        "chloroplasts and cytoplasm",
+        "chloroplast and mitochondrion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "chloroplast and mitochondrion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Energy-Converting Organelles</h4>\n  <div style='margin-bottom: 12px;'>\n    Cells need to transform energy from one form to another to do work. Two organelles are dedicated to this task.\n    <ul>\n      <li><strong>Mitochondrion (Mitochondria):</strong> Found in both plant and animal cells. It transforms the chemical energy in glucose into a usable form of energy called ATP through the process of cellular respiration. You can think of it as the cell's \"power plant.\"</li>\n      <li><strong>Chloroplast:</strong> Found only in plant cells (and algae). It transforms light energy from the sun into chemical energy stored in glucose through the process of photosynthesis. You can think of it as the cell's \"solar panel.\"</li>\n    </ul>\n    <p>Together, these two organelles are responsible for the major energy transformations that sustain life. The nucleus stores genetic information, and the cytoplasm is the site of many reactions but is not a specialized organelle for energy transformation.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "Nutrition",
+      "Diseases",
+      "Health"
+    ],
+    "Question": {
+      "content": "What is the major consequence of iodine deficiency in the diet?",
+      "type": "OBJ",
+      "options": [
+        "Pelagra",
+        "Ricket",
+        "S curvy",
+        "Goitre"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Goitre"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Matching Deficiencies to Diseases</h4>\n  <div style='margin-bottom: 12px;'>\n    Different vitamins and minerals are essential for health, and a lack of each causes a specific deficiency disease.\n    <ul>\n      <li><strong>Goitre:</strong> This is the correct answer. Iodine is a crucial mineral needed by the thyroid gland to make thyroid hormones, which regulate metabolism. When there is an iodine deficiency, the thyroid gland enlarges in a desperate attempt to capture more iodine from the blood, resulting in a swelling in the neck called a <strong>goitre</strong>.</li>\n      <li><strong>Pellagra:</strong> Caused by a deficiency of <strong>Niacin (Vitamin B3)</strong>. Its symptoms are often called the \"4 D's\": dermatitis, diarrhea, dementia, and death.</li>\n      <li><strong>Rickets:</strong> Caused by a deficiency of <strong>Vitamin D, calcium, or phosphate</strong>. It leads to soft, weak bones and skeletal deformities in children.</li>\n      <li><strong>Scurvy:</strong> Caused by a deficiency of <strong>Vitamin C (ascorbic acid)</strong>. It leads to symptoms like bleeding gums, weakness, and poor wound healing.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "Biochemistry",
+      "Bioenergetics",
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a thermodynamic quantity that describes energy changes in living systems?",
+      "type": "OBJ",
+      "options": [
+        "Activation energy",
+        "Gibbs free energy",
+        "Enthalpy",
+        "Entropy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Activation energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>State Functions vs. Reaction Barriers</h4>\n  <div style='margin-bottom: 12px;'>\n    Thermodynamics uses specific quantities to describe the energy and disorder of a system. Let's distinguish them from a concept in kinetics.\n    <ul>\n      <li><strong>Gibbs free energy (G):</strong> This is a thermodynamic quantity that predicts the direction of a chemical reaction and tells us how much useful work can be obtained from it. It's fundamental to understanding if a reaction is spontaneous.</li>\n      <li><strong>Enthalpy (H):</strong> This is a thermodynamic quantity that measures the total heat content of a system. It helps us understand if a reaction absorbs heat (endothermic) or releases heat (exothermic).</li>\n      <li><strong>Entropy (S):</strong> This is a thermodynamic quantity that measures the degree of disorder or randomness in a system. The second law of thermodynamics states that the total entropy of an isolated system can only increase over time.</li>\n      <li><strong>Activation energy (Ea):</strong> This is <strong>NOT</strong> a thermodynamic quantity that describes the state of a system. Instead, it's a concept from <strong>chemical kinetics</strong>. Activation energy is the minimum amount of energy required for a reaction to occur. It's the energy barrier that must be overcome for reactants to be converted into products. Enzymes work by lowering this activation energy.</li>\n    </ul>\n    <p>Gibbs free energy, Enthalpy, and Entropy describe the system itself and its changes. Activation energy describes the hurdle to get from one state to another.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": [
+      "Nutrition",
+      "Human Physiology"
+    ],
+    "Question": {
+      "content": "What is the essential function of the mineral iron in the human body?",
+      "type": "OBJ",
+      "options": [
+        "the formation of white blood cells and fight against foreign bodies in the blood",
+        "the red colouring of blood and for the transportation of oxygen to the tissues",
+        "formation of antigens and break down of glycogen in the tissues",
+        "formation of protein cells and transportation of proteins to the tissues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the red colouring of blood and for the transportation of oxygen to the tissues"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Iron: The Heart of Hemoglobin</h4>\n  <div style='margin-bottom: 12px;'>\n    Iron is a trace mineral, meaning we need it in very small amounts, but it is absolutely vital.\n    <ul>\n      <li><strong>Role in Oxygen Transport:</strong> Iron is a critical component of the protein <strong>hemoglobin</strong>, which is found in red blood cells. Hemoglobin binds to oxygen in the lungs and carries it through the bloodstream to all the tissues in the body. Iron is the actual atom that the oxygen molecule attaches to.</li>\n      <li><strong>Red Colouring:</strong> The interaction between iron and oxygen is what gives blood its characteristic red color.</li>\n    </ul>\n    <p>The other options describe functions of other components:</p>\n    <ul>\n      <li>White blood cells (leukocytes) fight infection.</li>\n      <li>Antigens are substances that trigger an immune response.</li>\n      <li>Proteins are made of amino acids, not directly by iron.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": [
+      "Biochemistry",
+      "Carbohydrates",
+      "Organic Chemistry"
+    ],
+    "Question": {
+      "content": "What atoms are molecules of carbohydrates and fats (lipids) primarily composed of?",
+      "type": "OBJ",
+      "options": [
+        "nitrogen, carbon and oxygen atoms",
+        "carbon, hydrogen and oxygen atoms",
+        "phosphorus, carbons and calcium atoms",
+        "oxygen, potassium and hydrogen atoms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "carbon, hydrogen and oxygen atoms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Basic Building Blocks</h4>\n  <div style='margin-bottom: 12px;'>\n    This question tests your knowledge of the elemental composition of major biomolecules.\n    <ul>\n      <li><strong>Carbohydrates:</strong> Their name gives a clue: \"Carbo-\" for carbon, and \"-hydrate\" for water. They are essentially composed of <strong>Carbon (C), Hydrogen (H), and Oxygen (O)</strong> atoms, usually in a ratio of 1:2:1 (e.g., glucose is \\( C_6H_{12}O_6 \\)).</li>\n      <li><strong>Fats (Lipids):</strong> Like carbohydrates, fats are also composed primarily of <strong>Carbon (C), Hydrogen (H), and Oxygen (O)</strong> atoms. However, they have a much higher proportion of C-H bonds and far fewer oxygen atoms compared to carbohydrates.</li>\n    </ul>\n    <p>While some complex lipids may contain other elements like phosphorus (in phospholipids), the fundamental and primary atoms for both carbohydrates and fats are carbon, hydrogen, and oxygen.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": [
+      "Cell Division"
+    ],
+    "Question": {
+      "content": "Which of the following statements does NOT accurately describe the process of mitosis?",
+      "type": "OBJ",
+      "options": [
+        "processes whereby the chromosomes replicate",
+        "becomes equally distributed both quantitatively and qualitatively between any 2 daughter nuclei",
+        "the daughter cells come to have the same number and type of chromosomes as are present in the parent cell",
+        "Mitosis can only take place in plant meristematic regions like root tip and stem tips"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitosis can only take place in plant meristematic regions like root tip and stem tips"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Where Does Mitosis Occur?</h4>\n  <div style='margin-bottom: 12px;'>\n    Mitosis is the type of cell division used for growth and repair. Let's find the false statement.\n    <ul>\n      <li><strong>processes whereby the chromosomes replicate:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> DNA replication (chromosome duplication) occurs in the S phase of interphase, which happens before mitosis begins.</li>\n      <li><strong>becomes equally distributed both quantitatively and qualitatively between any 2 daughter nuclei:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> This is the hallmark of mitosis. The sister chromatids are separated equally, ensuring each daughter cell gets an identical set of chromosomes.</li>\n      <li><strong>the daughter cells come to have the same number and type of chromosomes as are present in the parent cell:</strong> <span style='color: var(--greenBg);'>✓ TRUE.</span> This is the result of the equal distribution mentioned above.</li>\n      <li><strong>Mitosis can only take place in plant meristematic regions like root tip and stem tips:</strong> <span style='color: var(--red);'>✗ FALSE.</span> This is the incorrect statement. While it's true that mitosis occurs in plant meristems, it is <strong>not limited to plants</strong>. Mitosis occurs in all eukaryotic organisms (animals, plants, fungi) for growth and repair. In animals, it occurs in somatic (body) cells all over the organism, like in the skin, bone marrow, and lining of the gut.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is the term for the specific section or role within a habitat that supports the survival of a particular organism?",
+      "type": "OBJ",
+      "options": [
+        "ecology",
+        "niche",
+        "habitat",
+        "ecosystem"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "niche"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Address vs. Profession</h4>\n  <div style='margin-bottom: 12px;'>\n    This question distinguishes between an organism's location and its functional role.\n    <ul>\n      <li><strong>Niche:</strong> This is the correct answer. An ecological niche is more than just a place; it's the <strong>functional role and position of a species in its environment</strong>. It describes how an organism responds to the distribution of resources and competitors, and how it in turn alters those same factors. It includes everything that affects the species' survival—what it eats, where it lives, when it is active, and its relationships with other species. It's the organism's \"job\" or \"profession.\"</li>\n      <li><strong>Habitat:</strong> This is the physical place or type of environment where an organism lives. It's the organism's \"address.\"</li>\n      <li><strong>Ecology:</strong> This is the scientific study of the interactions between organisms and their environment.</li>\n      <li><strong>Ecosystem:</strong> This is the community of living organisms (biotic) interacting with their non-living (abiotic) environment.</li>\n    </ul>\n    <p>The question asks for the specific section that \"supports the survival,\" which implies the functional aspects, making \"niche\" the best answer.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": [
+      "Animal Kingdom",
+      "Classification"
+    ],
+    "Question": {
+      "content": "The presence of hair, mammary glands, and separate sexes are characteristics of which class of animals?",
+      "type": "OBJ",
+      "options": [
+        "crustacean",
+        "annelida",
+        "mammals",
+        "insect"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mammals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Features of Mammals</h4>\n  <div style='margin-bottom: 12px;'>\n    These are the key characteristics that define the class Mammalia.\n    <ul>\n      <li><strong>Hair:</strong> All mammals have hair at some stage of their life cycle. It provides insulation, camouflage, and sensory input.</li>\n      <li><strong>Mammary Glands:</strong> This is the defining feature that gives the class its name. Female mammals possess mammary glands that produce milk to nourish their young.</li>\n      <li><strong>Separate Sexes:</strong> Mammals have distinct male and female individuals (dioecious) and reproduce sexually.</li>\n    </ul>\n    <p>Crustaceans (e.g., crabs), annelids (e.g., earthworms), and insects (e.g., beetles) do not have hair or mammary glands.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": [
+      "Taxonomy",
+      "Classification"
+    ],
+    "Question": {
+      "content": "At which level of the obligatory taxonomic ranks can organisms successfully interbreed and produce fertile offspring?",
+      "type": "OBJ",
+      "options": [
+        "Species",
+        "kingdom",
+        "family",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Species"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Biological Species Concept</h4>\n  <div style='margin-bottom: 12px;'>\n    Taxonomy is the science of naming and classifying organisms. The obligatory ranks (from broadest to most specific) are: Domain, Kingdom, Phylum, Class, Order, Family, Genus, <strong>Species</strong>.\n    <ul>\n      <li><strong>Species:</strong> This is the most specific and fundamental rank. According to the Biological Species Concept, a species is often defined as a group of organisms that can naturally interbreed with one another and produce <strong>fertile offspring</strong>. Members of the same species share a close genetic makeup that allows for successful reproduction. For example, two different species of dogs can interbreed, but a dog and a cat cannot.</li>\n    </ul>\n    <p>Organisms from different families or kingdoms are far too genetically different to interbreed.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": [
+      "Biological Classification"
+    ],
+    "Question": {
+      "content": "Which of the following belongs to the kingdom Monera?",
+      "type": "OBJ",
+      "options": [
+        "mammals",
+        "fungi",
+        "bacteria",
+        "plants"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "bacteria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Five Kingdom Classification</h4>\n  <div style='margin-bottom: 12px;'>\n    In the five-kingdom system proposed by Robert Whittaker, organisms are grouped based on their cell structure and mode of nutrition.\n    <ul>\n      <li><strong>Kingdom Monera:</strong> This kingdom consists of all <strong>prokaryotic organisms</strong>—organisms whose cells lack a true nucleus and other membrane-bound organelles. The primary members of this kingdom are <strong>bacteria</strong> and archaea.</li>\n      <li><strong>Other Kingdoms:</strong>\n        <ul>\n          <li><strong>Kingdom Animalia (Mammals):</strong> Multicellular, eukaryotic, heterotrophic organisms.</li>\n          <li><strong>Kingdom Fungi:</strong> Eukaryotic, mostly multicellular organisms with cell walls made of chitin; they are decomposers (saprophytes).</li>\n          <li><strong>Kingdom Plantae (Plants):</strong> Multicellular, eukaryotic, autotrophic organisms that perform photosynthesis.</li>\n        </ul>\n      </li>\n    </ul>\n    <p>Therefore, bacteria are the classic example of organisms in the kingdom Monera.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Physics"
+    ],
+    "Question": {
+      "content": "Temperature and heat are the same thing. Is this statement true or false?",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "true with some exceptions",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Heat vs. Temperature</h4>\n  <div style='margin-bottom: 12px;'>\n    This is a common misconception. Heat and temperature are related but distinct concepts.\n    <ul>\n      <li><strong>Heat:</strong> It is a form of <strong>energy</strong>. It refers to the total kinetic and potential energy contained in the molecules of a substance. Heat is measured in Joules (J) or calories (cal).</li>\n      <li><strong>Temperature:</strong> It is a measure of the <strong>average kinetic energy</strong> of the molecules in a substance. It tells us how hot or cold something is. Temperature is measured in degrees Celsius (°C), Fahrenheit (°F), or Kelvin (K).</li>\n    </ul>\n    <p>A simple analogy: Imagine two cups of coffee. One is a small cup, and the other is a large mug. Both can have the same <strong>temperature</strong> (same average kinetic energy of their molecules). However, the large mug contains more coffee and therefore has more total thermal <strong>heat energy</strong>. So, they are not the same thing. The statement is <strong>False</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": [
+      "Taxonomy",
+      "Classification"
+    ],
+    "Question": {
+      "content": "For a proper taxonomic classification of organisms, must the obligatory ranks always be followed?",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "false",
+        "true with some exceptions",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "true with some exceptions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Rules of Taxonomy</h4>\n  <div style='margin-bottom: 12px;'>\n    In biological classification, the system is hierarchical and follows a set of obligatory ranks (Kingdom, Phylum, Class, Order, Family, Genus, Species).\n    <ul>\n      <li>For a classification to be considered scientifically valid and to show the proper lineage, it <strong>must generally include these main ranks</strong>. This ensures that organisms are placed in a consistent framework.</li>\n    </ul>\n    <p>However, taxonomists often use <strong>intermediate or subsidiary ranks</strong> to show more detailed relationships, especially in very diverse groups. Examples include:</p>\n    <ul>\n      <li><strong>Subfamily:</strong> A rank between Family and Genus.</li>\n      <li><strong>Tribe:</strong> A rank between Subfamily and Genus.</li>\n      <li><strong>Subspecies:</strong> A rank below Species.</li>\n    </ul>\n    <p>These are not \"obligatory\" for every classification, but they are used to refine it. So, while the main obligatory ranks must be followed, there are accepted exceptions where additional ranks are added for precision. Therefore, the best answer is <strong>\"true with some exceptions\"</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT considered evidence for evolution?",
+      "type": "OBJ",
+      "options": [
+        "fossil records",
+        "chromosome patterns",
+        "deference",
+        "the skeletal patterns"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "deference"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lines of Evidence for Evolution</h4>\n  <div style='margin-bottom: 12px;'>\n    Scientists use multiple lines of evidence to support the theory of evolution. Let's look at the valid ones first.\n    <ul>\n      <li><strong>Fossil records:</strong> <span style='color: var(--greenBg);'>✓ EVIDENCE.</span> Fossils show a timeline of life on Earth and the transition from ancestral to descendant forms.</li>\n      <li><strong>Chromosome patterns:</strong> <span style='color: var(--greenBg);'>✓ EVIDENCE.</span> Comparing the number, structure, and banding patterns of chromosomes in different species can reveal evolutionary relationships (comparative cytogenetics).</li>\n      <li><strong>Skeletal patterns (Comparative Anatomy):</strong> <span style='color: var(--greenBg);'>✓ EVIDENCE.</span> Homologous structures (like the forelimbs of mammals) have different functions but a similar underlying skeletal structure, indicating descent from a common ancestor.</li>\n      <li><strong>Deference:</strong> <span style='color: var(--red);'>✗ NOT EVIDENCE.</span> This word means humble respect or yielding to the opinion of another. It has nothing to do with biological evidence for evolution.</li>\n    </ul>\n    <p>The question likely has a typo, but \"deference\" is clearly not a scientific concept related to evolution.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": [
+      "Biochemistry",
+      "Bioenergetics",
+      "Metabolism"
+    ],
+    "Question": {
+      "content": "In the context of thermodynamics, what does metabolism primarily involve?",
+      "type": "OBJ",
+      "options": [
+        "Carries out spontaneous reactions",
+        "Generation of heat",
+        "Maintain balance",
+        "Transformation of energy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transformation of energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Metabolism and the Laws of Energy</h4>\n  <div style='margin-bottom: 12px;'>\n    Metabolism is the sum of all chemical reactions in an organism. From a thermodynamic perspective, its core function is managing energy.\n    <ul>\n      <li><strong>Transformation of energy:</strong> This is the most accurate and comprehensive answer. The first law of thermodynamics states that energy cannot be created or destroyed, only transformed. Metabolism is the set of pathways that carry out these transformations. For example, during cellular respiration, the chemical energy in glucose is transformed into the chemical energy in ATP. During photosynthesis, light energy is transformed into chemical energy in glucose.</li>\n      <li><strong>Carries out spontaneous reactions:</strong> Some metabolic reactions are spontaneous, but many (anabolic ones) require energy input. This is too narrow.</li>\n      <li><strong>Generation of heat:</strong> Some metabolic reactions release heat (exothermic), but this is a byproduct, not the primary definition. This relates more to the second law of thermodynamics (increased entropy).</li>\n      <li><strong>Maintain balance:</strong> Maintaining internal balance (homeostasis) is a result of metabolism, but not its thermodynamic definition.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": [
+      "Taxonomy",
+      "Classification"
+    ],
+    "Question": {
+      "content": "In the classification of organisms, what does a greater number of similarities indicate?",
+      "type": "OBJ",
+      "options": [
+        "the lesser the relationship",
+        "the closer the relationship",
+        "the more the differences",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the closer the relationship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Similarity and Relatedness</h4>\n  <div style='margin-bottom: 12px;'>\n    This is a fundamental principle of taxonomy and systematics.\n    <ul>\n      <li>The process of classification groups organisms based on shared characteristics (similarities).</li>\n      <li>The underlying assumption is that organisms which share a greater number of similarities are more closely related in an evolutionary sense. They likely share a more recent common ancestor than organisms with fewer similarities.</li>\n      <li>For example, a lion and a tiger share many more anatomical and genetic similarities than a lion and a fish. Therefore, we say lions and tigers have a closer evolutionary relationship.</li>\n    </ul>\n    <p>So, the more the similarities, <strong>the closer the relationship</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Physics"
+    ],
+    "Question": {
+      "content": "Energy can be created or destroyed. Is this statement true or false?",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "true with some exceptions",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The First Law of Thermodynamics</h4>\n  <div style='margin-bottom: 12px;'>\n    This question tests your knowledge of one of the most fundamental laws of physics.\n    <ul>\n      <li><strong>The First Law of Thermodynamics (Law of Conservation of Energy):</strong> This law states that <strong>energy cannot be created or destroyed in an isolated system</strong>. The total amount of energy in the universe remains constant.</li>\n      <li>Energy can, however, be <strong>transformed</strong> from one form to another (e.g., potential energy to kinetic energy, chemical energy to heat) or <strong>transferred</strong> from one object to another.</li>\n    </ul>\n    <p>Therefore, the statement \"Energy can be created or destroyed\" is completely <strong>False</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is described as a self-sustaining system?",
+      "type": "OBJ",
+      "options": [
+        "ecology",
+        "ecosystem",
+        "ecological niche",
+        "succession"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ecosystem"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Self-Sustaining Unit</h4>\n  <div style='margin-bottom: 12px;'>\n    This question was also asked earlier (Question 12), reinforcing the concept.\n    <ul>\n      <li><strong>Ecosystem:</strong> An ecosystem is defined as a community of living organisms (plants, animals, microbes) interacting with each other and with their non-living environment (air, water, mineral soil). It is considered a self-sustaining system because it contains all the necessary components for the cycling of nutrients and the flow of energy. Producers (plants) capture energy, consumers use it, and decomposers recycle nutrients back into the system, allowing it to function continuously with just an external energy source (usually the sun).</li>\n    </ul>\n    <p>Ecology is the study of these systems, a niche is the role of an organism, and succession is the process of change in an ecosystem over time. The ecosystem itself is the system.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": [
+      "Biological Classification",
+      "History of Biology"
+    ],
+    "Question": {
+      "content": "Who extended the two-kingdom concept of classification to the five-kingdom concept?",
+      "type": "OBJ",
+      "options": [
+        "Carl Linnaeus (1707 – 1778)",
+        "Griffith (1928)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "R.H. Whittaker"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Five-Kingdom System</h4>\n  <div style='margin-bottom: 12px;'>\n    The history of biological classification has seen several major changes.\n    <ul>\n      <li><strong>Two-Kingdom System:</strong> Originally proposed by <strong>Carl Linnaeus</strong> in the 18th century. It divided all life into two kingdoms: <strong>Plantae</strong> (plants) and <strong>Animalia</strong> (animals). This system had flaws, as it didn't properly place fungi, bacteria, and protozoa.</li>\n      <li><strong>Five-Kingdom System:</strong> In 1969, the American ecologist <strong>Robert H. Whittaker</strong> proposed a more accurate five-kingdom classification based on three criteria: cell structure (prokaryotic/eukaryotic), organization (unicellular/multicellular), and mode of nutrition (photosynthesis/absorption/ingestion). The five kingdoms are: <strong>Monera, Protista, Fungi, Plantae, and Animalia</strong>.</li>\n    </ul>\n    <p>Neither of the options provided (Linnaeus or Griffith) is correct. Linnaeus created the two-kingdom system, and Griffith is famous for his experiment on bacterial transformation. The correct answer, which should be added, is <strong>R.H. Whittaker</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "What is the term for a genotype in which there are two dominant alleles?",
+      "type": "OBJ",
+      "options": [
+        "phenotype",
+        "homozygous dominant",
+        "heterozygous dominant",
+        "recessive allele"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "homozygous dominant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Describing Genotypes</h4>\n  <div style='margin-bottom: 12px;'>\n    A genotype refers to the combination of alleles an individual has for a specific gene. Alleles can be dominant (expressed in the phenotype) or recessive (masked by a dominant allele).\n    <ul>\n      <li><strong>Homozygous dominant:</strong> This is the term for a genotype where an individual has inherited two <strong>identical dominant alleles</strong> for a particular gene. It is often represented by two capital letters (e.g., <strong>AA</strong>).</li>\n      <li><strong>Heterozygous dominant:</strong> This term is not typically used. The correct term for having one dominant and one recessive allele (e.g., <strong>Aa</strong>) is simply <strong>heterozygous</strong>.</li>\n      <li><strong>Phenotype:</strong> This is the observable physical characteristic, not the genetic makeup.</li>\n      <li><strong>Recessive allele:</strong> This is a type of allele, not a description of a genotype.</li>\n    </ul>\n    <p>Since the question specifies \"two dominant alleles,\" the correct term is <strong>homozygous dominant</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": [
+      "Biochemistry",
+      "Genetics"
+    ],
+    "Question": {
+      "content": "Which of the following nitrogenous bases is found only in RNA and not in DNA?",
+      "type": "OBJ",
+      "options": [
+        "Adenine",
+        "Uracil",
+        "Cytosine",
+        "Thymine"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uracil"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA vs. RNA: The Nitrogenous Bases</h4>\n  <div style='margin-bottom: 12px;'>\n    Both DNA and RNA are nucleic acids made up of nucleotides, which include a nitrogenous base. They share some bases but also have key differences.\n    <ul>\n      <li><strong>Bases in both DNA and RNA:</strong>\n        <ul>\n          <li><strong>Adenine (A)</strong></li>\n          <li><strong>Guanine (G)</strong></li>\n          <li><strong>Cytosine (C)</strong></li>\n        </ul>\n      </li>\n      <li><strong>Base unique to DNA:</strong>\n        <ul>\n          <li><strong>Thymine (T)</strong> - In DNA, adenine pairs with thymine.</li>\n        </ul>\n      </li>\n      <li><strong>Base unique to RNA:</strong>\n        <ul>\n          <li><strong>Uracil (U)</strong> - In RNA, adenine pairs with uracil. Uracil replaces thymine.</li>\n        </ul>\n      </li>\n    </ul>\n    <p>Therefore, the base present only in RNA is <strong>Uracil</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": [
+      "Nutrition",
+      "Diseases",
+      "Health"
+    ],
+    "Question": {
+      "content": "What is the name of the disease caused by a deficiency of protein in infants?",
+      "type": "OBJ",
+      "options": [
+        "Kwashiorkor",
+        "anaemia",
+        "heua ache",
+        "stunted growth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kwashiorkor"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protein Deficiency Diseases</h4>\n  <div style='margin-bottom: 12px;'>\n    This question revisits the topic of Protein-Energy Malnutrition (PEM).\n    <ul>\n      <li><strong>Kwashiorkor:</strong> This is the correct answer. It is a form of severe malnutrition caused primarily by a lack of protein in the diet, even if calorie intake is adequate. It is most common in children in developing countries after they are weaned from breast milk. Symptoms include swelling (edema) in the belly and legs, a swollen face, irritability, and an enlarged fatty liver.</li>\n      <li><strong>Anaemia:</strong> Caused by a deficiency of iron or certain vitamins, not primarily protein.</li>\n      <li><strong>Stunted growth:</strong> This can be a symptom of long-term malnutrition (including protein deficiency), but it is not the specific name of the acute disease like Kwashiorkor or Marasmus.</li>\n    </ul>\n    <p>The option \"heua ache\" appears to be a typo and is not a real medical condition.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "The cell is considered the ______ unit of all living organisms.",
+      "type": "OBJ",
+      "options": [
+        "secondary",
+        "tertiary",
+        "quadruple",
+        "basic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "basic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Fundamental Unit of Life</h4>\n  <div style='margin-bottom: 12px;'>\n    This is one of the most fundamental concepts in biology, known as the Cell Theory.\n    <ul>\n      <li>The Cell Theory states that:\n        <ol>\n          <li>All living organisms are composed of one or more cells.</li>\n          <li>The cell is the <strong>basic structural and functional unit</strong> of life.</li>\n          <li>All cells arise from pre-existing cells.</li>\n        </ol>\n      </li>\n    </ul>\n    <p>This means that the cell is the smallest thing that can be considered alive and carry out all the processes of life. Therefore, it is the <strong>basic</strong> unit.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": [
+      "Cell Biology",
+      "Cell Division",
+      "Prokaryotic Cells"
+    ],
+    "Question": {
+      "content": "How does cell division occur in prokaryotic cells (like bacteria)?",
+      "type": "OBJ",
+      "options": [
+        "meiosis",
+        "mitosis",
+        "quadruple division",
+        "binary fission"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "binary fission"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotic vs. Eukaryotic Division</h4>\n  <div style='margin-bottom: 12px;'>\n    The method of cell division differs significantly between prokaryotic and eukaryotic cells due to their structural differences.\n    <ul>\n      <li><strong>Binary Fission:</strong> This is the method of asexual reproduction and cell division used by <strong>prokaryotes</strong> (bacteria and archaea). It is a simpler and faster process. The single, circular DNA molecule replicates, and the cell grows in size. The cell membrane then pinches inward, dividing the cytoplasm and the two DNA molecules into two genetically identical daughter cells.</li>\n      <li><strong>Mitosis and Meiosis:</strong> These are complex forms of cell division that occur in <strong>eukaryotes</strong> (cells with a true nucleus). Mitosis is for growth and repair, and meiosis is for producing gametes (sex cells). Prokaryotes do not perform these.</li>\n    </ul>\n    <p>Therefore, cell division in prokaryotic cells is through <strong>binary fission</strong>.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": [
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Biological macromolecules are grouped into all of the following EXCEPT one. Which one is the exception?",
+      "type": "OBJ",
+      "options": [
+        "Vitamins",
+        "Carbohydrates",
+        "lipids",
+        "Proteins"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vitamins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Four Major Macromolecules</h4>\n  <div style='margin-bottom: 12px;'>\n    In biochemistry, there are four major classes of organic macromolecules that are essential for life. They are polymers built from smaller subunits.\n    <ul>\n      <li><strong>Carbohydrates:</strong> Made of monosaccharides (simple sugars). Functions: energy source and structure.</li>\n      <li><strong>Lipids:</strong> Made of fatty acids and glycerol. Functions: long-term energy storage, cell membranes, insulation.</li>\n      <li><strong>Proteins:</strong> Made of amino acids. Functions: enzymes, structure, transport, signaling.</li>\n      <li><strong>Nucleic Acids:</strong> Made of nucleotides (DNA and RNA). Functions: store and transmit genetic information. (This option wasn't listed).</li>\n    </ul>\n    <p><strong>Vitamins</strong> are also organic compounds and are essential nutrients, but they are <strong>not classified as macromolecules</strong>. Macromolecules are very large polymers, while vitamins are relatively small molecules that the body needs in tiny amounts to assist enzymes in various reactions.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": [
+      "Cell Biology",
+      "Cellular Transport"
+    ],
+    "Question": {
+      "content": "______ transport requires chemical energy (ATP) while ______ transport does not require chemical energy.",
+      "type": "OBJ",
+      "options": [
+        "facilitated and passive",
+        "active and facilitated",
+        "osmotic and diffusion",
+        "active and passive"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "active and passive"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Active vs. Passive Transport</h4>\n  <div style='margin-bottom: 12px;'>\n    Transport across cell membranes is broadly divided into two main categories based on energy requirement.\n    <ul>\n      <li><strong>Active Transport:</strong> This type of transport requires the cell to use chemical energy (usually in the form of ATP). It is used to move molecules against their concentration gradient (from an area of low concentration to high concentration).</li>\n      <li><strong>Passive Transport:</strong> This type of transport does NOT require any chemical energy from the cell. Molecules move naturally down their concentration gradient (from high to low concentration). Examples include simple diffusion, osmosis (diffusion of water), and facilitated diffusion (using channel or carrier proteins).</li>\n    </ul>\n    <p>Therefore, the correct pairing is <strong>active</strong> transport requires energy, and <strong>passive</strong> transport does not.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": [
+      "Cell Biology",
+      "Membrane Structure",
+      "Cellular Transport"
+    ],
+    "Question": {
+      "content": "What are two key factors that influence the transport of materials across the lipid bilayer?",
+      "type": "OBJ",
+      "options": [
+        "size and solubility in oil",
+        "integral protein and size",
+        "solubility and time"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "size and solubility in oil"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Crossing the Lipid Bilayer</h4>\n  <div style='margin-bottom: 12px;'>\n    The cell membrane's core is a hydrophobic (water-fearing) lipid bilayer. This structure acts as a barrier. A molecule's ability to cross this barrier by simple diffusion depends on its properties.\n    <ul>\n      <li><strong>Solubility in oil (Lipid Solubility):</strong> This is the most important factor. Since the interior of the bilayer is made of lipid tails, non-polar, hydrophobic molecules (like oxygen, carbon dioxide, and lipids themselves) can dissolve in and pass through the membrane easily. Polar or charged molecules (like ions, glucose) have low lipid solubility and cannot cross easily.</li>\n      <li><strong>Size:</strong> Generally, smaller molecules can diffuse more quickly than larger ones. Very small polar molecules like water can sometimes slip through, but larger ones cannot.</li>\n    </ul>\n    <p>Other factors like the concentration gradient and temperature also affect the rate, but the molecule's size and its solubility in the lipid core are the primary determinants of whether it can cross at all.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "______ are alternate forms of the same gene.",
+      "type": "OBJ",
+      "options": [
+        "Genes",
+        "DNA",
+        "Nucleus",
+        "Alleles"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alleles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Genes and Their Variants</h4>\n  <div style='margin-bottom: 12px;'>\n    This is a key definition in genetics.\n    <ul>\n      <li><strong>Gene:</strong> A gene is a specific sequence of DNA that codes for a particular trait or protein. It's the basic unit of heredity. For example, there is a gene for eye color.</li>\n      <li><strong>Alleles:</strong> These are the <strong>alternative versions or variants</strong> of a specific gene. For the eye color gene, one allele might code for blue eyes, and another allele might code for brown eyes. An individual inherits one allele from each parent.</li>\n    </ul>\n    <p>So, alleles are to genes what different models (e.g., sedan, SUV) are to a type of vehicle (e.g., car).</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": [
+      "Microbiology",
+      "Prokaryotic Cells"
+    ],
+    "Question": {
+      "content": "What is the term for a bacterial cell whose flagella cover its entire surface?",
+      "type": "OBJ",
+      "options": [
+        "Endofagellum",
+        "Peritrichous",
+        "Lophotrichous",
+        "Amphitrichous"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peritrichous"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Flagella Arrangement in Bacteria</h4>\n  <div style='margin-bottom: 12px;'>\n    The arrangement of flagella (whip-like appendages for movement) on a bacterial cell is an important characteristic for identification.\n    <ul>\n      <li><strong>Peritrichous:</strong> \"Peri-\" means around. This term describes flagella that are distributed all over the <strong>entire surface</strong> of the bacterial cell. Example: <i>E. coli</i>.</li>\n      <li><strong>Lophotrichous:</strong> A tuft or cluster of flagella at one or both ends of the cell.</li>\n      <li><strong>Amphitrichous:</strong> A single flagellum at each end of the cell.</li>\n      <li><strong>Monotrichous:</strong> A single flagellum at one end of the cell.</li>\n    </ul>\n    <p>Therefore, the correct term for flagella covering the entire cell is <strong>Peritrichous</strong>.</p>\n  </div>\n</div>"
+    }
+  }
+]
