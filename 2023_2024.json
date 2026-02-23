@@ -1,1 +1,1759 @@
-{}
+[{
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "General Biology I",
+    "code": "FSB 101.1",
+    "session": "2023/2024",
+    "topics": ["Biological Molecules", "Biochemistry", "Chemical Thermodynamics", "Energy", "Cell Biology", "Organelles", "Nutrition", "Chemical Bonding", "Transport Mechanisms", "Taxonomy", "Ecology", "Energy Flow", "Genetics", "Evolution", "Bioenergetics", "Prokaryotes", "Thermodynamics", "Cell Division", "Cell Theory", "Microbiology", "History of Biology", "Prokaryotes vs Eukaryotes", "Nucleus", "Plant Kingdom", "Bacterial Structure"],
+    "time": "30"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "What is the characteristic feature of the linear sequence of amino acids which make up the polypeptide chain?",
+      "type": "OBJ",
+      "options": [
+        "Secondary structure of proteins",
+        "Quaternary structure of proteins",
+        "Primary structure of proteins",
+        "Tertiary structure of proteins"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Primary structure of proteins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Protein Structure Levels</h4><p><strong>Step 1: Understand Protein Structure</strong><br>Proteins have four levels of organization: primary, secondary, tertiary, and quaternary.</p><p><strong>Step 2: Identify the Primary Structure</strong><br>The <strong style='color: var(--cAns);'>primary structure</strong> refers to the unique linear sequence of amino acids linked by peptide bonds. It is the simplest level and determines all higher levels of structure.</p><p><strong>Step 3: Distinguish from Other Levels</strong><br>• <strong>Secondary:</strong> Local folding into α-helices and β-sheets due to hydrogen bonding.<br>• <strong>Tertiary:</strong> 3D folding of a single polypeptide chain.<br>• <strong>Quaternary:</strong> Arrangement of multiple polypeptide subunits.</p><p style='color: var(--cAns); font-weight: bold;'>The linear sequence of amino acids defines the primary structure.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Energy"
+    ],
+    "Question": {
+      "content": "When ΔG is negative, what type of reaction is it?",
+      "type": "OBJ",
+      "options": [
+        "Exergonic",
+        "Not spontaneous",
+        "Absorbs energy",
+        "Does not release energy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Exergonic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Understanding ΔG (Gibbs Free Energy)</h4><p><strong>Step 1: What is ΔG?</strong><br>ΔG (Gibbs free energy change) tells us if a reaction is spontaneous.</p><p><strong>Step 2: The Rule of Signs</strong><br>• <strong style='color: var(--cAns);'>If ΔG is negative</strong>: The reaction releases energy and occurs spontaneously. This is called an <strong>exergonic</strong> reaction.<br>• If ΔG is positive: The reaction absorbs energy and is not spontaneous (endergonic).</p><p><strong>Step 3: Apply to the Question</strong><br>A negative ΔG means the products have less free energy than the reactants. The excess energy is released.</p><p style='color: var(--cAns); font-weight: bold;'>A negative ΔG signifies an exergonic, spontaneous reaction.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Cell Biology",
+      "Organelles"
+    ],
+    "Question": {
+      "content": "What is the common overall structure of the cell membrane and the internal membranes of animal and plant cells?",
+      "type": "OBJ",
+      "options": [
+        "Chemical membrane",
+        "Physical membrane",
+        "Biological membrane",
+        "Embryonic membrane"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biological membrane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Cell Membrane Structure</h4><p><strong>Step 1: Universal Structure</strong><br>All membranes surrounding cells and organelles (like the nucleus, mitochondria, ER) share a fundamental architecture.</p><p><strong>Step 2: The Fluid Mosaic Model</strong><br>This shared structure is called a <strong style='color: var(--cAns);'>biological membrane</strong> (or unit membrane). It consists of a phospholipid bilayer with embedded proteins, held together by non-covalent interactions.</p><p><strong>Step 3: Why the Other Options Are Wrong</strong><br>• <strong>Chemical/Physical/Embryonic membranes</strong>: These are not standard biological terms for this universal cellular structure.</p><p style='color: var(--cAns); font-weight: bold;'>The common structure is the biological membrane.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Nutrition"
+    ],
+    "Question": {
+      "content": "All of these are types of heterotrophic nutrition except which one?",
+      "type": "OBJ",
+      "options": [
+        "Parasitic",
+        "Saprophytic",
+        "Holozoic",
+        "Epiphytic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epiphytic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Modes of Nutrition</h4><p><strong>Step 1: Define Heterotrophic Nutrition</strong><br>Heterotrophs are organisms that cannot produce their own food and rely on complex organic substances from other sources.</p><p><strong>Step 2: Types of Heterotrophic Nutrition</strong><br>• <strong>Parasitic:</strong> Living on or in a host, obtaining nutrients at the host's expense.<br>• <strong>Saprophytic/Saprobic:</strong> Feeding on dead and decaying organic matter (e.g., fungi, bacteria).<br>• <strong>Holozoic:</strong> Ingesting and internally digesting food (e.g., animals).</p><p><strong>Step 3: Identify the Odd One Out</strong><br><strong style='color: var(--icAns);'>Epiphytic</strong> plants (like orchids) grow on other plants for support but perform photosynthesis to make their own food. They are <strong>autotrophic</strong>, not heterotrophic.</p><p style='color: var(--cAns); font-weight: bold;'>Epiphytic is a mode of growth, not a type of heterotrophic nutrition.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "What are the building blocks of all matter that cannot be decomposed into simpler matter?",
+      "type": "OBJ",
+      "options": [
+        "Electrons",
+        "Elements",
+        "Electrodes",
+        "Atoms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Elements"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Basic Chemistry</h4><p><strong>Step 1: Define the Terms</strong><br>• <strong>Atoms</strong> are the smallest unit of an element.<br>• <strong>Elements</strong> are pure substances consisting of only one type of atom.</p><p><strong>Step 2: The Key Phrase</strong><br>The question asks for the \"building blocks of all matter\" that \"cannot be decomposed into simpler matter.\" This is the definition of an <strong style='color: var(--cAns);'>element</strong>.</p><p><strong>Step 3: Clarify the Difference</strong><br>While atoms are the units, the <em>substance</em> itself is the element. You can't chemically break down an element (like oxygen or carbon) into anything simpler.</p><p style='color: var(--cAns); font-weight: bold;'>Elements are the fundamental chemical substances that cannot be broken down.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "What is the primary energy storage molecule in most living organisms?",
+      "type": "OBJ",
+      "options": [
+        "Proteins",
+        "Minerals",
+        "Nucleic acids",
+        "Carbohydrates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbohydrates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Biological Macromolecules and Energy</h4><p><strong>Step 1: The Role of Different Molecules</strong><br>• <strong>Proteins:</strong> Structure, enzymes, transport.<br>• <strong>Minerals:</strong> Inorganic ions for various functions.<br>• <strong>Nucleic acids (DNA/RNA):</strong> Storage and transmission of genetic information.<br>• <strong>Carbohydrates:</strong> Short-term energy storage (e.g., glycogen in animals, starch in plants) and structural roles.</p><p><strong>Step 2: Identify Primary Energy Storage</strong><br><strong style='color: var(--cAns);'>Carbohydrates</strong> are the most readily available and primary source of energy for cells. They are broken down to produce ATP.</p><p><strong>Note:</strong> While fats/lipids are also for energy storage, they are for long-term storage. The question specifically asks for the \"primary\" molecule, which is carbohydrates.</p><p style='color: var(--cAns); font-weight: bold;'>Carbohydrates are the main, immediate energy storage molecules.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Which two hormones are primarily responsible for regulating the supply of glucose in the body?",
+      "type": "OBJ",
+      "options": [
+        "Insulin and oxytocin",
+        "Glucagon and thyroxin",
+        "Adrenalin and insulin",
+        "Glucagon and insulin"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glucagon and insulin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Blood Glucose Regulation</h4><p><strong>Step 1: The Two Key Hormones</strong><br>Blood glucose levels are primarily controlled by two hormones secreted by the pancreas:</p><p><strong style='color: var(--cAns);'>• Insulin:</strong> Lowers blood glucose by promoting its uptake into cells and storage as glycogen.<br><strong style='color: var(--cAns);'>• Glucagon:</strong> Raises blood glucose by stimulating the liver to break down glycogen into glucose.</p><p><strong>Step 2: How They Work</strong><br>They work in a feedback loop (antagonistic hormones) to maintain homeostasis (balance).</p><p><strong>Step 3: Why Others Are Wrong</strong><br>• Oxytocin: Involved in childbirth and bonding.<br>• Thyroxin: Regulates metabolism.<br>• Adrenalin: Involved in the fight-or-flight response (can increase glucose, but not the primary regulator).</p><p style='color: var(--cAns); font-weight: bold;'>Glucagon and insulin are the two main hormones for glucose supply and regulation.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Cell Biology",
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "What is the basic unit of matter upon which the study of chemistry begins?",
+      "type": "OBJ",
+      "options": [
+        "Atom",
+        "Electron",
+        "Valence",
+        "Oxygen"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Atom"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Foundations of Chemistry</h4><p><strong>Step 1: Define the Atom</strong><br>An <strong style='color: var(--cAns);'>atom</strong> is the smallest unit of ordinary matter that retains the properties of an element. It consists of a nucleus (protons, neutrons) and electrons.</p><p><strong>Step 2: Starting Point for Chemistry</strong><br>Chemistry is the study of matter and its interactions. The fundamental level for chemical reactions and bonding begins with the atom. Atoms combine to form molecules and compounds.</p><p><strong>Step 3: Why Not the Others?</strong><br>• Electrons: Are subatomic particles.<br>• Valence: Refers to the combining power of an atom.<br>• Oxygen: Is a specific type of atom/element.</p><p style='color: var(--cAns); font-weight: bold;'>The atom is the basic unit from which chemistry starts.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Transport Mechanisms",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a possible pathway for the movement of water across the root region?",
+      "type": "OBJ",
+      "options": [
+        "Passage across membrane",
+        "Cytoplasmic pathway",
+        "Pathway through the cell wall and intercellular spaces",
+        "Biosynthetic pathway"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biosynthetic pathway"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Water Transport in Roots (Apoplast and Symplast)</h4><p><strong>Step 1: Pathways for Water</strong><br>Water moves through plant roots via three main routes:</p><p>• <strong>Transmembrane/Across membrane pathway:</strong> Water moves through cells by crossing cell membranes via aquaporins.<br>• <strong>Symplast/Cytoplasmic pathway:</strong> Water moves through the cytoplasm and plasmodesmata (connections between cells) without crossing membranes.<br>• <strong>Apoplast pathway:</strong> Water moves through the cell walls and intercellular spaces without entering the cells.</p><p><strong>Step 2: Identify the Incorrect Option</strong><br><strong style='color: var(--icAns);'>Biosynthetic pathway</strong> refers to the series of chemical reactions in which a cell builds complex molecules (anabolism). It is not a route for water transport.</p><p style='color: var(--cAns); font-weight: bold;'>Biosynthetic pathways are for making molecules, not moving water.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "The presence of hair, mammary glands, and separate sexes are characteristics of which class?",
+      "type": "OBJ",
+      "options": [
+        "Crustacean",
+        "Arachnida",
+        "Mammals",
+        "Insect"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mammals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Classifying Animals: Mammals</h4><p><strong>Step 1: Defining Features of Mammals</strong><br>The class <strong style='color: var(--cAns);'>Mammalia</strong> is defined by several unique characteristics:</p><p>• <strong>Hair:</strong> All mammals have hair at some stage of their life.<br>• <strong>Mammary glands:</strong> Females produce milk to nourish their young. This is the feature the class is named after.<br>• <strong>Separate sexes (Dioecious):</strong> Individuals are either male or female.</p><p><strong>Step 2: Why Not the Others?</strong><br>• <strong>Crustaceans (e.g., crabs), Arachnids (e.g., spiders), Insects:</strong> These are all arthropods. They have exoskeletons and jointed legs, but they do not have hair or mammary glands.</p><p style='color: var(--cAns); font-weight: bold;'>Hair and mammary glands are the defining features of mammals.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Ecology",
+      "Energy Flow"
+    ],
+    "Question": {
+      "content": "Which of the following correctly represents an example of energy flow through ecosystems?",
+      "type": "OBJ",
+      "options": [
+        "air → animal → plant → decomposer",
+        "plant → sun → animal → decomposer",
+        "sun → plant → animal → decomposer",
+        "decomposer → animal → plant → sand"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sun → plant → animal → decomposer"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Energy Flow in Ecosystems</h4><p><strong>Step 1: The Source of Energy</strong><br>Almost all energy in ecosystems originates from the <strong>sun</strong>.</p><p><strong>Step 2: Trophic Levels</strong><br>Energy flows in one direction through trophic levels:</p><p><strong style='color: var(--cAns);'>1. Producers (Plants/Autotrophs):</strong> Capture solar energy via photosynthesis.<br><strong style='color: var(--cAns);'>2. Consumers (Animals/Heterotrophs):</strong> Obtain energy by eating producers or other consumers.<br><strong style='color: var(--cAns);'>3. Decomposers:</strong> Break down dead organic matter from all levels, releasing nutrients and using the last of the energy.</p><p><strong>Step 3: The Correct Sequence</strong><br>The only correct, linear flow of energy is: <strong>Sun → Plant → Animal → Decomposer</strong>.</p><p style='color: var(--cAns); font-weight: bold;'>Energy flows from the sun to producers, then to consumers, and finally to decomposers.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "Which of these elements of an ecosystem is out of place?",
+      "type": "OBJ",
+      "options": [
+        "Catabolic",
+        "Producers",
+        "Consumer",
+        "Decomposer"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Catabolic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Components of an Ecosystem</h4><p><strong>Step 1: Biotic Components</strong><br>The living parts of an ecosystem are grouped into functional roles:</p><p>• <strong>Producers:</strong> Make their own food.<br>• <strong>Consumers:</strong> Eat other organisms.<br>• <strong>Decomposers:</strong> Break down dead matter.</p><p><strong>Step 2: Identify the Misfit</strong><br><strong style='color: var(--icAns);'>Catabolic</strong> is not an organism or a functional group in an ecosystem. <strong>Catabolism</strong> is a metabolic process—the set of chemical reactions that break down molecules to release energy. It happens inside organisms.</p><p><strong>Step 3: Conclusion</strong><br>Producers, consumers, and decomposers are all types of organisms. Catabolic is a process, making it the odd one out.</p><p style='color: var(--cAns); font-weight: bold;'>Catabolic is a metabolic process, not an ecosystem component.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Energy",
+      "Chemical Thermodynamics"
+    ],
+    "Question": {
+      "content": "In the context of free energy, what effect does heat energy have on atoms?",
+      "type": "OBJ",
+      "options": [
+        "Decreases atomic motion",
+        "Does not have effect on atomic molecules",
+        "Makes it easier for the atoms to pull apart",
+        "Makes it easier for the atoms to come together"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Makes it easier for the atoms to pull apart"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Heat, Motion, and Free Energy</h4><p><strong>Step 1: Heat is Kinetic Energy</strong><br>Heat energy is the kinetic energy of atoms and molecules. Adding heat increases their motion (vibrations, rotations, translations).</p><p><strong>Step 2: Effect on Bonds and Structure</strong><br>As atoms and molecules move faster and vibrate more vigorously, it becomes harder for them to stay bound together. The increased motion <strong style='color: var(--cAns);'>makes it easier for them to pull apart</strong> (e.g., melting, vaporization, bond breaking).</p><p><strong>Step 3: Relation to Free Energy</strong><br>This increased motion and disorder (entropy) is a key part of free energy. The system has more energy to do work, including the work of separating particles.</p><p style='color: var(--cAns); font-weight: bold;'>Heat increases atomic motion, making it easier for atoms to separate.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Cell Biology",
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "Cell membranes are assemblies of lipid and protein molecules, held together by what type of interactions?",
+      "type": "OBJ",
+      "options": [
+        "Covalent interaction",
+        "Non-covalent interactions",
+        "Ionic interactions only",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-covalent interactions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Membrane Structure and Bonding</h4><p><strong>Step 1: The Fluid Mosaic Model</strong><br>The cell membrane is a dynamic structure. Its integrity and fluidity depend on the types of bonds holding it together.</p><p><strong>Step 2: Types of Bonds in the Membrane</strong><br>• <strong>Covalent bonds</strong> are strong bonds within the lipid and protein molecules themselves (e.g., bonding atoms in a fatty acid chain).<br>• <strong style='color: var(--cAns);'>Non-covalent interactions</strong> are weaker forces that hold different molecules together. In the membrane, these include:<br>  - <strong>Hydrophobic interactions:</strong> The main force driving lipid tails together, away from water.<br>  - <strong>Van der Waals forces:</strong> Between lipid tails.<br>  - <strong>Hydrogen bonds and ionic interactions:</strong> Between lipid heads, proteins, and water.</p><p><strong>Step 3: Why They Are Important</strong><br>These non-covalent interactions are strong enough to maintain the barrier but weak enough to allow lipids and proteins to move within the membrane.</p><p style='color: var(--cAns); font-weight: bold;'>The membrane is held together by various non-covalent interactions.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "In which zone of a body of water does photosynthesis mainly occur?",
+      "type": "OBJ",
+      "options": [
+        "Photic zone",
+        "Aphotic zone",
+        "Euphotic zone",
+        "Disphotic zone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Euphotic zone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Light Zones in Aquatic Environments</h4><p><strong>Step 1: Light Penetration in Water</strong><br>Oceans and lakes are divided into zones based on how much sunlight penetrates.</p><p><strong>Step 2: The Zones</strong><br>• <strong>Euphotic zone:</strong> The upper layer where sunlight is strong enough for photosynthesis to occur. This is the \"well-lit\" zone.<br>• <strong>Disphotic zone (Twilight zone):</strong> Below the euphotic zone. Light is present but too dim for photosynthesis.<br>• <strong>Aphotic zone:</strong> The deep, dark zone where no sunlight penetrates. No photosynthesis occurs here.<br>• <strong>Photic zone:</strong> This is a broader term that includes both the euphotic and disphotic zones (the entire sunlit area).</p><p><strong>Step 3: Answering the Question</strong><br>The question asks where photosynthesis <em>mainly</em> occurs. This is specifically the <strong style='color: var(--cAns);'>euphotic zone</strong>, where light is abundant.</p><p style='color: var(--cAns); font-weight: bold;'>Photosynthesis primarily occurs in the well-lit euphotic zone.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Genetics",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "What is the macromolecule that is most important in allowing cells to replicate themselves?",
+      "type": "OBJ",
+      "options": [
+        "DNA",
+        "RNA",
+        "Lipids",
+        "Hydrogen bonds"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>The Molecule of Heredity</h4><p><strong>Step 1: What Does Cell Replication Require?</strong><br>For a cell to replicate (divide and create a new cell), it must pass on its genetic instructions to the daughter cells.</p><p><strong>Step 2: The Role of DNA</strong><br><strong style='color: var(--cAns);'>DNA (Deoxyribonucleic acid)</strong> is the molecule that stores the genetic blueprint for an organism. Its structure (the double helix) allows it to be accurately copied (replicated) so that each new cell gets a complete set of instructions.</p><p><strong>Step 3: Functions of the Others</strong><br>• <strong>RNA:</strong> Involved in protein synthesis, not replication.<br>• <strong>Lipids:</strong> Form membranes, store energy.<br>• <strong>Hydrogen bonds:</strong> Are interactions that hold DNA strands together, but are not a macromolecule.</p><p style='color: var(--cAns); font-weight: bold;'>DNA is the macromolecule that stores and transmits the genetic information needed for replication.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "What is the term for the gradual changes over time that result in modifications to living organisms?",
+      "type": "OBJ",
+      "options": [
+        "Dehydration",
+        "Chemical reaction",
+        "Evolution",
+        "Genetics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evolution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Defining Evolution</h4><p><strong>Step 1: The Concept of Change Over Time</strong><br>Life on Earth is not static. Species change across generations.</p><p><strong>Step 2: The Definition of Evolution</strong><br><strong style='color: var(--cAns);'>Evolution</strong> is the process by which species of living things change and develop over long periods of time through descent with modification. This results in new forms, structures, and species.</p><p><strong>Step 3: Why Not the Others?</strong><br>• <strong>Dehydration:</strong> Loss of water.<br>• <strong>Chemical reaction:</strong> A process that transforms substances.<br>• <strong>Genetics:</strong> The study of genes and heredity, which is the mechanism behind evolution, but not the name of the process itself.</p><p style='color: var(--cAns); font-weight: bold;'>The gradual modification of living things over time is called evolution.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "Which of the following is not a requirement for photosynthesis?",
+      "type": "OBJ",
+      "options": [
+        "Chlorophyll",
+        "Oxygen",
+        "Carbon dioxide",
+        "Sunlight"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oxygen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Requirements for Photosynthesis</h4><p><strong>Step 1: The Photosynthesis Equation</strong><br>The general equation for photosynthesis is:</p>\n\\[ 6CO_2 + 6H_2O + Light \\xrightarrow{Chlorophyll} C_6H_{12}O_6 + 6O_2 \\]\n\n<p><strong>Step 2: Identify the Reactants (Inputs)</strong><br>From the equation, the essential ingredients (reactants) are:</p><p>• <strong>Carbon dioxide (\\(CO_2\\))</strong><br>• <strong>Water (\\(H_2O\\))</strong><br>• <strong>Sunlight (Light energy)</strong><br>• <strong>Chlorophyll</strong> (the pigment that traps light energy)</p><p><strong>Step 3: Identify the Product (Output)</strong><br><strong style='color: var(--icAns);'>Oxygen (\\(O_2\\))</strong> is a byproduct that is <em>released</em>. It is not needed for the process to happen; it's a result of it.</p><p style='color: var(--cAns); font-weight: bold;'>Oxygen is a product of photosynthesis, not a requirement.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What are the key characteristics of the marine environment?",
+      "type": "OBJ",
+      "options": [
+        "High salinity",
+        "High density",
+        "Elevated water pressure",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Features of the Marine Environment</h4><p><strong>Step 1: Defining Marine vs. Freshwater</strong><br>The marine environment (oceans and seas) has distinct physical and chemical properties that set it apart from freshwater habitats.</p><p><strong>Step 2: The Characteristics</strong><br>• <strong>High salinity:</strong> High concentration of dissolved salts (approx. 3.5%).<br>• <strong>High density:</strong> Due to the dissolved salts, seawater is denser than freshwater.<br>• <strong>Elevated water pressure:</strong> Pressure increases significantly with depth, a major factor for marine life.</p><p><strong>Step 3: Conclusion</strong><br>All of the listed options are fundamental characteristics of the marine environment.</p><p style='color: var(--cAns); font-weight: bold;'>Marine environments are characterized by high salinity, high density, and elevated pressure.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Based on their functions, proteins can be grouped into various types. Name one such functional group.",
+      "type": "OBJ",
+      "options": [
+        "Enzymatic protein",
+        "Transport protein",
+        "Defense protein",
+        "All of the above are functional groups"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above are functional groups"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Functional Classification of Proteins</h4><p><strong>Step 1: Proteins are Versatile</strong><br>Proteins perform a vast array of functions in living organisms. They are often grouped based on what they do.</p><p><strong>Step 2: Examples of Functional Groups</strong><br>• <strong>Enzymatic proteins:</strong> Catalyze (speed up) biochemical reactions (e.g., amylase).<br>• <strong>Transport proteins:</strong> Carry substances throughout the body or across membranes (e.g., hemoglobin, ion channels).<br>• <strong>Defense proteins:</strong> Protect the body from foreign invaders (e.g., antibodies).<br>• <strong>Structural proteins:</strong> Provide support (e.g., collagen, keratin).<br>• <strong>Hormonal proteins:</strong> Signal and coordinate activities (e.g., insulin).</p><p><strong>Step 3: Answering the Question</strong><br>The question lists enzymatic, transport, and defense proteins. These are all valid, major functional groups of proteins.</p><p style='color: var(--cAns); font-weight: bold;'>Enzymatic, transport, and defense are all functional groups of proteins.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Based on their functions, proteins can be grouped into various types. Name one such functional group.",
+      "type": "OBJ",
+      "options": [
+        "Enzymatic protein",
+        "Transport protein",
+        "Defense protein",
+        "All of the above are functional groups"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above are functional groups"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Functional Classification of Proteins</h4><p><strong>Step 1: Proteins are Versatile</strong><br>Proteins perform a vast array of functions in living organisms. They are often grouped based on what they do.</p><p><strong>Step 2: Examples of Functional Groups</strong><br>• <strong>Enzymatic proteins:</strong> Catalyze (speed up) biochemical reactions (e.g., amylase).<br>• <strong>Transport proteins:</strong> Carry substances throughout the body or across membranes (e.g., hemoglobin, ion channels).<br>• <strong>Defense proteins:</strong> Protect the body from foreign invaders (e.g., antibodies).<br>• <strong>Structural proteins:</strong> Provide support (e.g., collagen, keratin).<br>• <strong>Hormonal proteins:</strong> Signal and coordinate activities (e.g., insulin).</p><p><strong>Step 3: Answering the Question</strong><br>The question lists enzymatic, transport, and defense proteins. These are all valid, major functional groups of proteins.</p><p style='color: var(--cAns); font-weight: bold;'>Enzymatic, transport, and defense are all functional groups of proteins.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "What is the genotype that normally results in the expression of a recessive allele in the phenotype?",
+      "type": "OBJ",
+      "options": [
+        "Heterozygous recessive",
+        "Homozygous dominant",
+        "Homozygous recessive",
+        "Homozygous dominant (duplicate)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Homozygous recessive"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Genotype and Phenotype Expression</h4><p><strong>Step 1: Understanding Alleles</strong><br>Alleles are different versions of a gene. A dominant allele (represented by a capital letter, e.g., 'A') masks the effect of a recessive allele (lowercase, e.g., 'a').</p><p><strong>Step 2: Genotype Combinations</strong><br>• <strong>Homozygous dominant (AA):</strong> Both alleles are dominant. The dominant trait is expressed.<br>• <strong>Heterozygous (Aa):</strong> One dominant and one recessive allele. The dominant trait is expressed because it masks the recessive one.<br>• <strong>Homozygous recessive (aa):</strong> Both alleles are recessive. With no dominant allele to mask it, the <strong style='color: var(--cAns);'>recessive trait is expressed</strong> in the phenotype.</p><p><strong>Step 3: Conclusion</strong><br>For a recessive allele to be visible in the organism's appearance (phenotype), the organism must have two copies of it—a homozygous recessive genotype.</p><p style='color: var(--cAns); font-weight: bold;'>A recessive allele is expressed only in the homozygous recessive genotype.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Taxonomy",
+      "Prokaryotes"
+    ],
+    "Question": {
+      "content": "Which of the following organisms belongs to the kingdom Monera?",
+      "type": "OBJ",
+      "options": [
+        "Mammals",
+        "Fungi",
+        "Bacteria",
+        "Plants"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bacteria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>The Five-Kingdom Classification</h4><p><strong>Step 1: Recall the Kingdoms</strong><br>The five-kingdom system (by Whittaker) includes: Monera, Protista, Fungi, Plantae, and Animalia.</p><p><strong>Step 2: Characteristics of Monera</strong><br>Kingdom Monera consists of <strong style='color: var(--cAns);'>prokaryotic organisms</strong>, which lack a true nucleus and membrane-bound organelles. They are unicellular. The primary examples are <strong>bacteria</strong>.</p><p><strong>Step 3: Placing the Options</strong><br>• <strong>Mammals:</strong> Animalia<br>• <strong>Fungi:</strong> Fungi<br>• <strong>Bacteria:</strong> Monera<br>• <strong>Plants:</strong> Plantae</p><p style='color: var(--cAns); font-weight: bold;'>Bacteria are the classic example of organisms in the kingdom Monera.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Taxonomy"
+    ],
+    "Question": {
+      "content": "Who extended the two-kingdom concept of classification of living organisms to five kingdoms?",
+      "type": "OBJ",
+      "options": [
+        "Carolus Linnaeus",
+        "Griffith",
+        "Robert Koch",
+        "R.H. Whittaker"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "R.H. Whittaker"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>History of Biological Classification</h4><p><strong>Step 1: The Two-Kingdom System</strong><br>Originally, Carolus Linnaeus classified life into two kingdoms: <strong>Plantae</strong> (plants) and <strong>Animalia</strong> (animals).</p><p><strong>Step 2: The Need for Expansion</strong><br>This system failed to place organisms like fungi, bacteria, and protists adequately.</p><p><strong>Step 3: The Five-Kingdom System</strong><br>In 1969, ecologist <strong style='color: var(--cAns);'>R.H. Whittaker</strong> proposed a five-kingdom system based on three criteria: cell structure (prokaryotic/eukaryotic), body organization (unicellular/multicellular), and mode of nutrition. The kingdoms are: Monera, Protista, Fungi, Plantae, and Animalia.</p><p><strong>Step 4: Why Others Are Wrong</strong><br>• <strong>Linnaeus:</strong> Proposed the two-kingdom system.<br>• <strong>Griffith:</strong> Known for the bacterial transformation experiment in genetics.<br>• <strong>Robert Koch:</strong> Known for germ theory and identifying bacteria.</p><p style='color: var(--cAns); font-weight: bold;'>R.H. Whittaker is credited with extending classification to five kingdoms.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "What are the chemical compounds that have biological significance, occur naturally in plants, and act as antioxidants and oxidizers in ethnomedicine called?",
+      "type": "OBJ",
+      "options": [
+        "Minerals",
+        "Fibers",
+        "Allelochemicals",
+        "Phytochemicals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phytochemicals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Plant-Derived Compounds</h4><p><strong>Step 1: Defining the Term</strong><br>The question describes bioactive compounds produced by plants.</p><p><strong>Step 2: Phytochemicals</strong><br><strong style='color: var(--cAns);'>Phytochemicals</strong> (from Greek 'phyton' meaning plant) are naturally occurring chemical compounds in plants. While not essential for basic survival (like vitamins), they have biological activity. Many act as antioxidants (protecting cells from damage) and are key components of traditional/ethnomedicine (e.g., flavonoids, alkaloids).</p><p><strong>Step 3: Distinguishing Other Terms</strong><br>• <strong>Minerals:</strong> Inorganic elements, not exclusively from plants.<br>• <strong>Fibers:</strong> A type of carbohydrate for structure/digestion.<br>• <strong>Allelochemicals:</strong> A type of phytochemical involved in plant-plant or plant-insect interactions (a subset, not the overall term).</p><p style='color: var(--cAns); font-weight: bold;'>Phytochemicals are the biologically active plant compounds used in medicine.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Transport Mechanisms",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "What is the process by which molecules spread from an area of high concentration to an area of low concentration?",
+      "type": "OBJ",
+      "options": [
+        "Osmosis",
+        "Hypertonic",
+        "Turgor pressure",
+        "Diffusion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diffusion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Passive Transport: Diffusion</h4><p><strong>Step 1: The Definition</strong><br><strong style='color: var(--cAns);'>Diffusion</strong> is the net passive movement of particles (atoms, ions, molecules) from a region of higher concentration to a region of lower concentration. This continues until equilibrium is reached.</p><p><strong>Step 2: Why It Happens</strong><br>It is driven by the kinetic energy of the particles. They are in constant, random motion, and over time, they spread out to fill the available space.</p><p><strong>Step 3: Distinguish from Other Terms</strong><br>• <strong>Osmosis:</strong> The specific diffusion of water across a selectively permeable membrane.<br>• <strong>Hypertonic:</strong> A term describing a solution with a higher solute concentration.<br>• <strong>Turgor pressure:</strong> The pressure exerted by fluid against a cell wall.</p><p style='color: var(--cAns); font-weight: bold;'>The movement of molecules from high to low concentration is diffusion.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is the term for the wide range of different organisms (species) in an area?",
+      "type": "OBJ",
+      "options": [
+        "Community population",
+        "Biodiversity",
+        "Richness",
+        "Abundance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biodiversity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Ecological Diversity</h4><p><strong>Step 1: Defining the Concept</strong><br>The \"wide range of different organisms\" refers to the variety of life.</p><p><strong>Step 2: Biodiversity</strong><br><strong style='color: var(--cAns);'>Biodiversity</strong> (short for biological diversity) is the term that encompasses the variety of all life on Earth at all levels, from genes to ecosystems. It includes the number of different species (species richness), their genetic variation, and the communities they form.</p><p><strong>Step 3: Related Terms</strong><br>• <strong>Richness:</strong> Refers specifically to the number of species (a component of biodiversity).<br>• <strong>Abundance:</strong> Refers to the number of individuals of a species.<br>• <strong>Community population:</strong> Describes the population of a community, not the variety.</p><p style='color: var(--cAns); font-weight: bold;'>Biodiversity is the term for the variety of different organisms.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Chemical Bonding"
+    ],
+    "Question": {
+      "content": "What type of bond is formed when a pair of electrons is shared between two elements?",
+      "type": "OBJ",
+      "options": [
+        "Covalent bond",
+        "Ionic bond",
+        "Adhesion",
+        "Cohesion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Covalent bond"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Chemical Bonds: Sharing Electrons</h4><p><strong>Step 1: Two Main Types of Bonds</strong><br>Atoms bond to become more stable. Two primary ways are:</p><p>• <strong>Ionic bond:</strong> One atom <em>transfers</em> one or more electrons to another atom. Results in ions (charged atoms) attracting each other.<br>• <strong style='color: var(--cAns);'>Covalent bond:</strong> Two atoms <em>share</em> one or more pairs of electrons. This is common in biological molecules (e.g., bonds in H₂O, DNA, proteins).</p><p><strong>Step 2: Other Terms</strong><br>• <strong>Adhesion:</strong> Attraction between different substances (e.g., water and glass).<br>• <strong>Cohesion:</strong> Attraction between like molecules (e.g., water-water).</p><p style='color: var(--cAns); font-weight: bold;'>The sharing of electron pairs forms a covalent bond.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Bioenergetics",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Photosynthesis is best described as what type of reaction?",
+      "type": "OBJ",
+      "options": [
+        "An atomic reaction",
+        "A catabolic reaction",
+        "An addition reaction",
+        "An anabolic reaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An anabolic reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Metabolism: Anabolism vs. Catabolism</h4><p><strong>Step 1: Defining Metabolic Processes</strong><br>• <strong>Catabolic reactions:</strong> Break down complex molecules into simpler ones, releasing energy (e.g., cellular respiration).<br>• <strong>Anabolic reactions:</strong> Build complex molecules from simpler ones, requiring an input of energy.</p><p><strong>Step 2: Applying to Photosynthesis</strong><br>The overall equation for photosynthesis is:</p>\n\\[ 6CO_2 + 6H_2O + Light \\xrightarrow{} C_6H_{12}O_6 + 6O_2 \\]\n<p>Simple, low-energy molecules (carbon dioxide and water) are built into a complex, high-energy molecule (glucose). This process requires energy from sunlight.</p><p><strong>Step 3: Conclusion</strong><br>Because photosynthesis involves building complex molecules from simpler ones using energy, it is a classic example of an <strong style='color: var(--cAns);'>anabolic reaction</strong>.</p><p style='color: var(--cAns); font-weight: bold;'>Photosynthesis is an anabolic, energy-storing process.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What are the special services that an ecosystem renders to organisms called?",
+      "type": "OBJ",
+      "options": [
+        "Ecosystem services",
+        "Ecosystem functions",
+        "Adaptation",
+        "Evolution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ecosystem services"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Benefits from Nature</h4><p><strong>Step 1: Defining the Term</strong><br>The benefits that humans and other organisms freely gain from the natural environment and properly-functioning ecosystems are collectively known as <strong style='color: var(--cAns);'>ecosystem services</strong>.</p><p><strong>Step 2: Categories of Ecosystem Services</strong><br>These are often divided into four types:<br>• <strong>Provisioning services:</strong> Products obtained directly (e.g., food, water, timber).<br>• <strong>Regulating services:</strong> Benefits from regulation of ecosystem processes (e.g., climate regulation, flood control, pollination).<br>• <strong>Supporting services:</strong> Services necessary for the production of all other services (e.g., nutrient cycling, soil formation).<br>• <strong>Cultural services:</strong> Non-material benefits (e.g., recreation, spiritual value).</p><p><strong>Step 3: Why Not the Others?</strong><br>• <strong>Adaptation/Evolution:</strong> Are processes, not services rendered by the ecosystem.</p><p style='color: var(--cAns); font-weight: bold;'>The benefits ecosystems provide are called ecosystem services.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "Which type of forest has the highest species diversity?",
+      "type": "OBJ",
+      "options": [
+        "Tropical rainforest",
+        "Temperate forest",
+        "Boreal forest (taiga)",
+        "Grassland"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tropical rainforest"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Global Biodiversity Patterns</h4><p><strong>Step 1: The Gradient of Diversity</strong><br>Species diversity is not evenly distributed. It generally decreases as you move away from the equator.</p><p><strong>Step 2: Characteristics of Biomes</strong><br>• <strong style='color: var(--cAns);'>Tropical rainforests:</strong> Located near the equator with stable, warm, and wet conditions year-round. These conditions support an immense variety of life. They are the most biodiverse terrestrial ecosystems.<br>• <strong>Temperate forests:</strong> Have moderate diversity, with distinct seasons.<br>• <strong>Boreal forests (taiga):</strong> Found in cold, northern regions, have very low species diversity.<br>• <strong>Grasslands:</strong> Dominated by grasses, with lower diversity than forests.</p><p><strong>Step 3: Conclusion</strong><br>Tropical rainforests are known for having the highest species diversity on Earth.</p><p style='color: var(--cAns); font-weight: bold;'>Tropical rainforests have the highest species diversity.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Transport Mechanisms",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "What type of transport specifically binds to a solute and transfers it across the lipid bilayer?",
+      "type": "OBJ",
+      "options": [
+        "Active transport",
+        "Carrier transport",
+        "Passive transport",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carrier transport"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Membrane Transport Proteins</h4><p><strong>Step 1: Types of Transport Across Membrane</strong><br>Molecules can cross the membrane via simple diffusion or with the help of transport proteins.</p><p><strong>Step 2: Carrier Proteins vs. Channel Proteins</strong><br>• <strong>Channel proteins:</strong> Form hydrophilic pores for specific molecules to pass through (e.g., ion channels). They do not bind the solute tightly.<br>• <strong style='color: var(--cAns);'>Carrier proteins (or transporters):</strong> Bind specifically to a solute on one side of the membrane. They then undergo a conformational change to release the solute on the other side. This \"bind and transfer\" action is their defining feature.</p><p><strong>Step 3: Clarifying the Options</strong><br>• <strong>Active/Passive transport:</strong> These are categories describing whether energy is used. Both can use carrier proteins. The question asks for the <em>mechanism</em> that specifically binds, which is carrier transport.</p><p style='color: var(--cAns); font-weight: bold;'>Carrier proteins bind and transfer solutes across the membrane.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "Which of the following is an exception to Mendelian simple inheritance?",
+      "type": "OBJ",
+      "options": [
+        "Dominant allele",
+        "Homozygous genotype",
+        "Sex-linked genes",
+        "Recessive allele"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sex-linked genes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Non-Mendelian Inheritance</h4><p><strong>Step 1: Mendelian Inheritance</strong><br>Mendel's laws describe inheritance patterns of single genes with dominant and recessive alleles, located on autosomes (non-sex chromosomes).</p><p><strong>Step 2: Exceptions to the Rules</strong><br>Many traits do not follow these simple patterns. These are called non-Mendelian inheritance. Examples include:</p><p>• <strong>Incomplete dominance</strong> (blending of traits)<br>• <strong>Codominance</strong> (both traits expressed)<br>• <strong>Polygenic inheritance</strong> (traits controlled by multiple genes)<br>• <strong style='color: var(--cAns);'>Sex-linked genes:</strong> Genes located on sex chromosomes (X or Y) show inheritance patterns that differ between males and females, unlike Mendel's principles which assumed genes were on autosomes.</p><p><strong>Step 3: Why Others Are Not Exceptions</strong><br>Dominant/recessive alleles and homozygous genotypes are central to Mendelian inheritance, not exceptions.</p><p style='color: var(--cAns); font-weight: bold;'>Sex-linked genes are a classic exception to Mendelian inheritance.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Energy",
+      "Thermodynamics"
+    ],
+    "Question": {
+      "content": "As energy flows through an ecosystem, what happens to the amount of energy available to do work?",
+      "type": "OBJ",
+      "options": [
+        "Increases",
+        "Doubles",
+        "Decreases",
+        "Triples"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Decreases"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Energy Flow and the 10% Rule</h4><p><strong>Step 1: Energy Flow is One-Way</strong><br>Energy enters ecosystems as sunlight, is converted to chemical energy by producers, and then passes to consumers.</p><p><strong>Step 2: The Second Law of Thermodynamics</strong><br>At each transfer (trophic level), a large fraction of energy is lost to the environment as heat (due to respiration, movement, etc.). This heat is a less usable form of energy.</p><p><strong>Step 3: The Result</strong><br>This means the amount of usable energy available to do work <strong style='color: var(--cAns);'>decreases</strong> at each successive trophic level. Typically, only about 10% of the energy is passed on to the next level.</p><p style='color: var(--cAns); font-weight: bold;'>Available energy decreases as it flows through an ecosystem.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is the term for the range of environmental conditions within which a species can grow and reproduce?",
+      "type": "OBJ",
+      "options": [
+        "Tolerance range",
+        "Habitat",
+        "Niche",
+        "Heterotrophs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tolerance range"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Ecological Tolerance</h4><p><strong>Step 1: Shelford's Law of Tolerance</strong><br>This ecological principle states that the distribution of a species will be controlled by the environmental factor for which the organism has the narrowest range of tolerance.</p><p><strong>Step 2: Defining the Range</strong><br>Every species has a minimum, optimum, and maximum level for each environmental factor (like temperature, pH, salinity). The entire span from the minimum to the maximum that allows the species to survive and function is its <strong style='color: var(--cAns);'>tolerance range</strong>.</p><p><strong>Step 3: Distinguish from Other Terms</strong><br>• <strong>Habitat:</strong> The physical place where an organism lives.<br>• <strong>Niche:</strong> The organism's role and its use of resources in the ecosystem (includes tolerance range as a component).</p><p style='color: var(--cAns); font-weight: bold;'>The range of conditions a species can tolerate is its tolerance range.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Thermodynamics",
+      "Energy"
+    ],
+    "Question": {
+      "content": "According to the Second Law of Thermodynamics, what is the trend of disorder (entropy) in the universe?",
+      "type": "OBJ",
+      "options": [
+        "Stable",
+        "Reducing",
+        "Increasing",
+        "Decreasing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increasing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>The Second Law of Thermodynamics</h4><p><strong>Step 1: Defining Entropy</strong><br>Entropy is a measure of disorder or randomness in a system.</p><p><strong>Step 2: The Second Law</strong><br>The Second Law of Thermodynamics states that the total entropy of an isolated system can never decrease over time. In other words, natural processes tend to move toward a state of greater disorder.</p><p><strong>Step 3: Applying to the Universe</strong><br>The universe is considered an isolated system. Therefore, its overall entropy is <strong style='color: var(--cAns);'>constantly increasing</strong>. Energy transformations (like in ecosystems) are never 100% efficient and always increase the entropy of the universe.</p><p style='color: var(--cAns); font-weight: bold;'>The Second Law states that the entropy (disorder) of the universe is increasing.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Cell Division",
+      "Genetics"
+    ],
+    "Question": {
+      "content": "What type of cell division involves chromosomes replicating and being equally distributed into two daughter nuclei?",
+      "type": "OBJ",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Cytokinesis",
+        "Amitosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitosis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Types of Cell Division</h4><p><strong>Step 1: Purpose of Division</strong><br>Cells divide for growth, repair, and reproduction. The key is how the genetic material is handled.</p><p><strong>Step 2: Mitosis</strong><br><strong style='color: var(--cAns);'>Mitosis</strong> is a type of cell division that results in two daughter cells, each having the same number and kind of chromosomes as the parent nucleus. The description \"chromosomes replicate and become equally distributed both quantitatively and qualitatively\" perfectly describes mitosis. It's used for growth and asexual reproduction.</p><p><strong>Step 3: Distinguishing Other Processes</strong><br>• <strong>Meiosis:</strong> Reduces chromosome number by half (for sexual reproduction).<br>• <strong>Cytokinesis:</strong> The division of the cytoplasm, which follows both mitosis and meiosis.<br>• <strong>Amitosis:</strong> Direct cell division without spindle formation (rare in higher organisms).</p><p style='color: var(--cAns); font-weight: bold;'>Mitosis produces two genetically identical daughter nuclei.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Genetics"
+    ],
+    "Question": {
+      "content": "Which of the following is an exception to Mendelian simple inheritance?",
+      "type": "OBJ",
+      "options": [
+        "Phenotype",
+        "Genotype",
+        "Incomplete dominance",
+        "Dominant allele"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Incomplete dominance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Non-Mendelian Inheritance</h4><p><strong>Step 1: Reviewing Mendelian Patterns</strong><br>Mendelian inheritance typically involves clear dominant/recessive relationships where the heterozygote (Aa) shows the dominant trait.</p><p><strong>Step 2: Incomplete Dominance as an Exception</strong><br><strong style='color: var(--cAns);'>Incomplete dominance</strong> is a pattern where neither allele is completely dominant. The heterozygote shows an intermediate, blended phenotype. For example, crossing a red flower (RR) with a white flower (rr) results in pink flowers (Rr). This does not follow Mendel's principle of complete dominance.</p><p><strong>Step 3: Why Others Are Not Exceptions</strong><br>Phenotype, genotype, and dominant alleles are fundamental concepts in Mendelian genetics, not exceptions.</p><p style='color: var(--cAns); font-weight: bold;'>Incomplete dominance is a clear exception to Mendelian inheritance.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "What are the building blocks (monomers) of proteins?",
+      "type": "OBJ",
+      "options": [
+        "Peptides",
+        "Elements",
+        "Amino acids",
+        "Polypeptides"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amino acids"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Protein Structure: Monomers and Polymers</h4><p><strong>Step 1: Monomers and Polymers</strong><br>Large biological molecules (macromolecules) are built by linking together smaller units called monomers.</p><p><strong>Step 2: Amino Acids: The Monomers of Proteins</strong><br><strong style='color: var(--cAns);'>Amino acids</strong> are the organic monomers that join together to form proteins. There are 20 common amino acids, each with a central carbon, an amino group, a carboxyl group, and a variable R-group.</p><p><strong>Step 3: Linking the Terms</strong><br>• When amino acids join, they form <strong>peptides</strong> and <strong>polypeptide chains</strong>. A functional protein is made of one or more polypeptides.</p><p style='color: var(--cAns); font-weight: bold;'>Amino acids are the building blocks of proteins.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "An increase in the number of bonds (saturation) in fatty acids results in what physical state?",
+      "type": "OBJ",
+      "options": [
+        "Liquid",
+        "Solid",
+        "Semi-solid",
+        "Semi-liquid"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Solid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Saturated and Unsaturated Fats</h4><p><strong>Step 1: Fatty Acid Structure</strong><br>Fatty acids are hydrocarbon chains. They can have single bonds or double bonds between carbon atoms.</p><p><strong>Step 2: Saturation and Physical State</strong><br>• <strong>Saturated fatty acids:</strong> Have no double bonds (all single bonds). The straight chains can pack tightly together. This results in a <strong style='color: var(--cAns);'>solid</strong> state at room temperature (e.g., butter).<br>• <strong>Unsaturated fatty acids:</strong> Have one or more double bonds, which create kinks in the chain. These kinks prevent tight packing, resulting in a <strong>liquid</strong> state at room temperature (e.g., oils).</p><p><strong>Step 3: Answering the Question</strong><br>An \"increase in bonds\" in this context means an increase in single bonds (more saturation). More saturation = more solid.</p><p style='color: var(--cAns); font-weight: bold;'>More saturated fatty acids tend to be solid.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Evolution"
+    ],
+    "Question": {
+      "content": "Which of the following is not considered evidence for evolution?",
+      "type": "OBJ",
+      "options": [
+        "Special creation",
+        "Anatomical records (homologous structures)",
+        "Fossil records",
+        "Genetic (gene) variations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Special creation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Evidence Supporting Evolution</h4><p><strong>Step 1: Lines of Evidence for Evolution</strong><br>Scientists use multiple lines of evidence to support the theory of evolution:</p><p>• <strong>Fossil records:</strong> Show a timeline of life and transitional forms.<br>• <strong>Anatomical records (homologous structures):</strong> Similar structures in different species suggest a common ancestor (e.g., the bone structure in a human arm, whale flipper, and bat wing).<br>• <strong>Genetic (gene) variations and molecular biology:</strong> Comparing DNA sequences shows how closely related species are.</p><p><strong>Step 2: What is Not Evidence</strong><br><strong style='color: var(--icAns);'>Special creation</strong> is the belief that life and species were created by a divine being in their present forms. This is a religious/philosophical concept, not a scientific explanation supported by empirical evidence.</p><p style='color: var(--cAns); font-weight: bold;'>Special creation is not scientific evidence for evolution.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Ecology"
+    ],
+    "Question": {
+      "content": "What is the term for the place where a living thing usually lives, eats, and breeds?",
+      "type": "OBJ",
+      "options": [
+        "House",
+        "Habitat",
+        "City",
+        "Town"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Habitat"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Ecological Niche vs. Habitat</h4><p><strong>Step 1: Defining Habitat</strong><br>In ecology, a <strong style='color: var(--cAns);'>habitat</strong> is the natural home or environment of an organism. It is the physical place where an organism lives, finds food, shelter, and mates for reproduction. For example, the habitat of a fish is water, and the habitat of a lion is the grassland.</p><p><strong>Step 2: Distinguish from Other Terms</strong><br>• <strong>House/City/Town:</strong> These are human-made structures or settlements, not ecological terms for an organism's natural environment.</p><p style='color: var(--cAns); font-weight: bold;'>The natural living place of an organism is its habitat.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Biological Molecules",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Fats are an example of which class of lipid compounds?",
+      "type": "OBJ",
+      "options": [
+        "Simple lipids",
+        "Compound lipids",
+        "Derived lipids",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Simple lipids"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Classification of Lipids</h4><p><strong>Step 1: Lipid Classes</strong><br>Lipids are broadly classified into three main groups:</p><p>• <strong style='color: var(--cAns);'>Simple lipids:</strong> Esters of fatty acids with various alcohols. This includes <strong>fats and oils</strong> (esters with glycerol, called triglycerides) and waxes.<br>• <strong>Compound lipids:</strong> Esters of fatty acids containing additional groups like phosphate (phospholipids) or carbohydrates (glycolipids).<br>• <strong>Derived lipids:</strong> Substances derived from simple and compound lipids by hydrolysis (e.g., steroids, fatty acids themselves).</p><p><strong>Step 2: Placing Fats</strong><br>Fats (and oils) are triglycerides—esters of glycerol and three fatty acids. They contain no additional groups like phosphate. Therefore, they fall under the category of <strong>simple lipids</strong>.</p><p style='color: var(--cAns); font-weight: bold;'>Fats are classified as simple lipids (specifically, triglycerides).</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Genetics"],
+    "Question": {
+      "content": "What is the term for a genotype in which there are two dominant alleles?",
+      "type": "OBJ",
+      "options": [
+        "Phenotype",
+        "Homozygous dominant",
+        "Heterozygous dominant",
+        "Recessive allele"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Homozygous dominant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Understanding Genotypes</h4><p><strong>Step 1: Define Genotype</strong><br>A genotype is the genetic makeup of an organism, describing the combination of alleles (gene variants) they possess for a specific trait.</p><p><strong>Step 2: Analyze the Options</strong><br></p><ul><li><b>Phenotype:</b> This refers to the physical expression of a trait, not the genetic combination itself.</li><li><b>Homozygous dominant:</b> This is the correct term. 'Homo-' means 'same', and 'zygous' refers to the alleles. So, it describes a genotype with two identical dominant alleles (e.g., 'AA').</li><li><b>Heterozygous dominant:</b> This is incorrect. 'Hetero-' means 'different', so this describes a genotype with one dominant and one recessive allele (e.g., 'Aa'), not two dominant alleles.</li><li><b>Recessive allele:</b> This refers to a single type of allele, not a genotype.</li></ul><p><strong>Conclusion:</strong><br>A genotype with two dominant alleles is, by definition, homozygous dominant.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Cell Theory", "Microbiology", "History of Biology"],
+    "Question": {
+      "content": "The study of cells started after the invention of the microscope. By whom was this microscope invented?",
+      "type": "OBJ",
+      "options": [
+        "Van Leeuwenhoek (1674)",
+        "Robert Hooke (1665)",
+        "Robert Hooke (1660)",
+        "Theodor Schwann (1839)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Robert Hooke (1665)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>The Discovery of the Cell</h4><p><strong>Step 1: Identify the key figures</strong><br>While several scientists improved microscopy, the discovery of the cell is credited to a specific event.</p><p><strong>Step 2: Match the scientist and year</strong><br></p><ul><li><b>Robert Hooke (1665):</b> Using a self-made compound microscope, he examined a thin slice of cork. He observed small, box-like compartments which he named 'cells' because they reminded him of the small rooms (cells) in a monastery. This marks the official discovery of cells.</li><li><b>Van Leeuwenhoek (1674):</b> He was a contemporary of Hooke but is known for his superior single-lens microscopes. He was the first to observe living, moving organisms, which he called 'animalcules' (bacteria and protozoa).</li><li><b>Theodor Schwann (1839):</b> Along with Matthias Schleiden, he is credited with proposing the Cell Theory, which states that all living things are composed of cells. This was almost 200 years after Hooke's discovery.</li></ul><p><strong>Conclusion:</strong><br>Cell study began with the observation and naming of cells, which was done by Robert Hooke in 1665.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Evolution"],
+    "Question": {
+      "content": "Which of these does not show evidence of Evolution?",
+      "type": "OBJ",
+      "options": [
+        "Anatomical records",
+        "Fossil records",
+        "Embryological records",
+        "Natural sensitivity records"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Natural sensitivity records"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Evidence for Evolution</h4><p><strong>Step 1: Recall the main lines of evidence for evolution.</strong><br>Scientists use several types of evidence to support the theory of evolution, showing how species have changed over time.</p><p><strong>Step 2: Evaluate each option.</strong><br></p><ul><li><b>Anatomical records:</b> This includes homologous structures (similar bones in different animals, like the arm of a human and the wing of a bat) that suggest a common ancestor. This IS evidence.</li><li><b>Fossil records:</b> Fossils show the history of life on Earth and the progression of forms over millions of years, including transitional forms (like Archaeopteryx linking dinosaurs and birds). This IS strong evidence.</li><li><b>Embryological records:</b> The study of embryos reveals that many different species (like fish, chickens, and humans) show similar developmental stages (e.g., having pharyngeal pouches or a tail), indicating shared ancestry. This IS evidence.</li><li><b>Natural sensitivity records:</b> This is not a recognized scientific term. 'Natural sensitivity' might refer to an organism's awareness of its environment, which is a behavioral/physiological trait, but it does not provide a record of evolutionary history.</li></ul><p><strong>Conclusion:</strong><br>Unlike anatomical, fossil, and embryological records, 'natural sensitivity records' is not a valid category of evidence for evolution.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Chemical Thermodynamics", "Thermodynamics", "Energy"],
+    "Question": {
+      "content": "The Second Law of thermodynamics notes that disorder is ______ than order in the universe.",
+      "type": "OBJ",
+      "options": [
+        "Less likely",
+        "More likely",
+        "Lower",
+        "Reduce"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "More likely"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>The Second Law of Thermodynamics</h4><p><strong>Step 1: Define the key concept.</strong><br>The Second Law of Thermodynamics is often summarized by the concept of entropy, which is a measure of disorder or randomness in a system.</p><p><strong>Step 2: State the law.</strong><br>The law states that the total entropy of an isolated system can only increase over time or remain constant in ideal cases (when a process is reversible). In other words, natural processes tend to move toward a state of greater disorder.</p><p><strong>Step 3: Apply to the question.</strong><br>The question asks if disorder is more or less likely than order. According to the Second Law, the universe as a whole is constantly moving towards higher entropy (more disorder). Therefore, disorder is a more likely state than perfect order.</p><p style='color: var(--cAns); font-weight: bold;'>In simple terms: Things tend to get messy, not neat.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": ["Cell Division", "Genetics"],
+    "Question": {
+      "content": "What is the type of cell division which involves the reduction of the chromosome number by half called?",
+      "type": "OBJ",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Cytokinesis",
+        "Amitosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Meiosis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Types of Cell Division</h4><p><strong>Step 1: Understand the purpose of different cell divisions.</strong><br>Cells divide for different reasons: growth/repair and reproduction.</p><p><strong>Step 2: Analyze each option.</strong><br></p><ul><li><b>Mitosis:</b> This is used for growth and repair. It produces two daughter cells that are genetically identical to the parent cell. The chromosome number stays the same (e.g., a human cell with 46 chromosomes produces two cells, each with 46 chromosomes). This is NOT a reduction division.</li><li><b>Meiosis:</b> This is used to produce gametes (sex cells: sperm and egg). It involves two rounds of division and results in four daughter cells, each with half the number of chromosomes of the parent cell (e.g., a human cell with 46 chromosomes produces gametes with 23 chromosomes). This IS a reduction division.</li><li><b>Cytokinesis:</b> This is the physical process of cell division where the cytoplasm splits, forming two separate cells. It occurs at the end of both mitosis and meiosis, but it is not the division of the nucleus.</li><li><b>Amitosis:</b> This is a direct type of cell division, primarily seen in some single-celled organisms, where the nucleus simply pinches into two without the complex steps of mitosis.</li></ul><p><strong>Conclusion:</strong><br>The cell division that halves the chromosome number is meiosis.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": ["Prokaryotes vs Eukaryotes", "Prokaryotes", "Cell Biology", "Organelles"],
+    "Question": {
+      "content": "The cytoskeleton of microtubules and actin filaments is present in prokaryotic cells.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Prokaryotic vs. Eukaryotic Cells</h4><p><strong>Step 1: Recall the difference in cell complexity.</strong><br>Prokaryotic cells (bacteria and archaea) are simpler and smaller than eukaryotic cells (plants, animals, fungi). A key difference is the presence of membrane-bound organelles.</p><p><strong>Step 2: Define the cytoskeleton.</strong><br>The cytoskeleton is a network of protein filaments (like microtubules and actin filaments) that provides structure, enables movement, and facilitates transport within a cell. It is a complex feature of eukaryotic cells.</p><p><strong>Step 3: Check for the cytoskeleton in prokaryotes.</strong><br>For a long time, it was thought prokaryotes lacked a cytoskeleton entirely. While modern research has found some prokaryotic proteins that are similar and perform some structural roles, they are not the same as the complex, organized microtubules and actin filaments found in eukaryotes. Therefore, the statement as given is generally considered false, especially for an introductory biology context. Prokaryotes do not have a cytoskeleton of microtubules and actin filaments.</p><p><strong>Conclusion:</strong><br>The cytoskeleton made of microtubules and actin filaments is a characteristic of eukaryotic cells, not prokaryotic cells.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": ["Chemical Bonding", "Biochemistry", "Biological Molecules"],
+    "Question": {
+      "content": "What type of bond is formed when a pair of electrons is shared between two atoms?",
+      "type": "OBJ",
+      "options": [
+        "Covalent bond",
+        "Ionic bond",
+        "Adhesion",
+        "Cohesion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Covalent bond"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Types of Chemical Bonds</h4><p><strong>Step 1: Define the primary way atoms interact.</strong><br>Atoms form bonds with each other to become more stable. The two main types are covalent and ionic bonds.</p><p><strong>Step 2: Explain the key difference.</strong><br></p><ul><li><b>Covalent bond:</b> This bond is formed when atoms share one or more pairs of electrons. This is common between nonmetal atoms. For example, in a water molecule (H<sub>2</sub>O), each hydrogen atom shares a pair of electrons with the oxygen atom.</li><li><b>Ionic bond:</b> This bond is formed when one atom donates an electron to another atom. This creates positively and negatively charged ions, which then attract each other. There is no sharing, only transfer.</li><li><b>Adhesion:</b> This is an attraction between different types of molecules (e.g., water sticking to glass). It's not a chemical bond.</li><li><b>Cohesion:</b> This is an attraction between molecules of the same substance (e.g., water sticking to itself). It's not a chemical bond.</li></ul><p><strong>Conclusion:</strong><br>The sharing of a pair of electrons between two atoms is the defining characteristic of a covalent bond.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": ["Ecology", "Energy Flow"],
+    "Question": {
+      "content": "What is described as a self-sustaining system?",
+      "type": "OBJ",
+      "options": [
+        "Ecology",
+        "Ecosystem",
+        "Ecological niche",
+        "Succession"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ecosystem"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Levels of Ecological Organization</h4><p><strong>Step 1: Define the terms.</strong><br></p><ul><li><b>Ecology:</b> This is the scientific study of interactions among organisms and their environment. It's a discipline, not a system itself.</li><li><b>Ecosystem:</b> This is a community of living organisms (plants, animals, microbes) interacting with each other and with their non-living environment (air, water, soil).</li><li><b>Ecological niche:</b> This is the role and position a species has in its environment, including what it eats, how it behaves, and how it interacts with other species.</li><li><b>Succession:</b> This is the process of change in the species structure of an ecological community over time.</li></ul><p><strong>Step 2: Determine what 'self-sustaining' means.</strong><br>A self-sustaining system in ecology is one that can maintain itself through internal cycling of nutrients and energy flow. It does not rely on constant input from outside.</p><p><strong>Step 3: Apply to the options.</strong><br>An ecosystem, through the interactions of its biotic and abiotic components, can cycle nutrients (like water, carbon, nitrogen) and capture energy (from the sun) to support life. While not perfectly closed, it has a high degree of self-sustainability compared to the other options. Ecology is the study, a niche is just a role, and succession is a process of change.</p><p><strong>Conclusion:</strong><br>The term that best describes a self-sustaining system is an ecosystem.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": ["Taxonomy"],
+    "Question": {
+      "content": "What is the system of naming organisms by two words called?",
+      "type": "OBJ",
+      "options": [
+        "Taxonomy",
+        "Taxa",
+        "Binomial taxa",
+        "Binomial nomenclature"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Binomial nomenclature"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>The System of Naming Organisms</h4><p><strong>Step 1: Understand the term.</strong><br>The practice of naming organisms using two words is a formal system. 'Bi-' means two, and 'nomial/nomen' means name.</p><p><strong>Step 2: Define the options.</strong><br></p><ul><li><b>Taxonomy:</b> This is the broader science of classifying organisms into groups (taxa) based on similarities and differences. Naming is a part of it, but it's not the name for the two-word naming system itself.</li><li><b>Taxa:</b> This is the plural of taxon, which is a group or category at any level in a classification system (e.g., the genus Homo is a taxon, the species Homo sapiens is a taxon).</li><li><b>Binomial taxa:</b> This is not a standard term.</li><li><b>Binomial nomenclature:</b> This is the correct, formal term. It was popularized by Carl Linnaeus. The two words are the genus name (capitalized) and the specific epithet (species name, lowercase), e.g., <i>Homo sapiens</i> for humans.</li></ul><p><strong>Conclusion:</strong><br>The two-word naming system is correctly called binomial nomenclature.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": ["Ecology"],
+    "Question": {
+      "content": "What is another name for the Boreal Forest?",
+      "type": "OBJ",
+      "options": [
+        "Evergreen",
+        "Taiga",
+        "Estuarine",
+        "Mangrove"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Taiga"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Major Biomes</h4><p><strong>Step 1: Locate the Boreal Forest.</strong><br>The Boreal Forest, also known as the snow forest, is a biome characterized by coniferous forests. It is located in the high northern latitudes, just south of the Arctic tundra, spanning across Russia, Canada, Scandinavia, and Alaska.</p><p><strong>Step 2: Match the name.</strong><br></p><ul><li><b>Taiga:</b> This is the Russian word for the Boreal Forest and is used interchangeably to describe this specific biome.</li><li><b>Evergreen:</b> This is a type of tree (like pine or spruce) that keeps its leaves all year. While the taiga is dominated by evergreens, 'evergreen' itself is not another name for the forest.</li><li><b>Estuarine:</b> This refers to a coastal ecosystem where freshwater from rivers mixes with saltwater from the ocean. It's a completely different type of environment.</li><li><b>Mangrove:</b> This is a type of shrub or tree that grows in coastal saline or brackish water, typically in tropical or subtropical regions. It's a very different biome.</li></ul><p><strong>Conclusion:</strong><br>The Boreal Forest is also called the taiga.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": ["Cell Biology", "Biological Molecules", "Transport Mechanisms", "Organelles"],
+    "Question": {
+      "content": "What provides the basic structure of the membrane and serves as a relatively impermeable barrier to the flow of most water-soluble molecules?",
+      "type": "OBJ",
+      "options": [
+        "Lipid bilayer",
+        "Cell wall",
+        "Cytoplasm",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lipid bilayer"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Structure of the Cell Membrane</h4><p><strong>Step 1: Recall the Fluid Mosaic Model.</strong><br>The cell membrane is primarily composed of a double layer of phospholipids, known as the lipid bilayer. Proteins are embedded within or attached to this bilayer.</p><p><strong>Step 2: Understand the function of each part.</strong><br></p><ul><li><b>Lipid bilayer:</b> The phospholipids have hydrophilic (water-loving) heads and hydrophobic (water-fearing) tails. This structure creates a stable barrier. The hydrophobic interior prevents water-soluble (hydrophilic) molecules, like ions, glucose, and most polar molecules, from simply diffusing through. This makes it the membrane's fundamental structural and barrier component.</li><li><b>Cell wall:</b> Found in plants, fungi, and bacteria, the cell wall provides structural support and protection, but it is not selectively permeable in the same way as the cell membrane and is not a barrier to water-soluble molecules.</li><li><b>Cytoplasm:</b> This is the jelly-like substance inside the cell, containing organelles and cytosol. It is not a structural barrier.</li></ul><p><strong>Conclusion:</strong><br>The lipid bilayer provides the basic structure of the membrane and is the key barrier to water-soluble molecules.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": ["Genetics", "History of Biology"],
+    "Question": {
+      "content": "Who is regarded as the father of genetics?",
+      "type": "OBJ",
+      "options": [
+        "Robert Hooke",
+        "Rudolf Virchow",
+        "Robert Brown",
+        "Gregor Mendel"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gregor Mendel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Pioneers of Biology</h4><p><strong>Step 1: Recall the contributions of each scientist.</strong><br></p><ul><li><b>Robert Hooke:</b> Discovered and named 'cells' in 1665.</li><li><b>Rudolf Virchow:</b> A German physician who is famous for his contribution to cell theory: 'Omnis cellula e cellula' (all cells arise from pre-existing cells).</li><li><b>Robert Brown:</b> A Scottish botanist who is best known for his discovery of the cell nucleus in 1831.</li><li><b>Gregor Mendel:</b> An Austrian monk who, in the 19th century, conducted groundbreaking experiments on pea plants. Through careful observation and mathematical analysis, he discovered the fundamental laws of inheritance. His work laid the foundation for the modern science of genetics.</li></ul><p><strong>Conclusion:</strong><br>Because of his foundational work on how traits are passed from parents to offspring, Gregor Mendel is universally recognized as the father of genetics.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": ["Cell Theory", "Cell Biology"],
+    "Question": {
+      "content": "What level of organization is the cell, according to the cell theory?",
+      "type": "OBJ",
+      "options": [
+        "Secondary",
+        "Tertiary",
+        "Quadruple",
+        "Basic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Basic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>The Cell Theory</h4><p><strong>Step 1: State the key principles of cell theory.</strong><br>The universally accepted parts of cell theory are:</p><ol><li>All living organisms are composed of one or more cells.</li><li>The cell is the basic unit of structure and organization in organisms.</li><li>All cells arise from pre-existing cells.</li></ol><p><strong>Step 2: Apply to the question.</strong><br>The question directly asks for the level of organization the cell is. According to point two of the theory, the cell is the <b>basic</b> unit. This means it is the smallest unit that can carry out all the processes of life. Tissues, organs, and organ systems are all made up of cells.</p><p><strong>Conclusion:</strong><br>The cell is the fundamental, or basic, unit of all living organisms.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": ["Ecology"],
+    "Question": {
+      "content": "What is the term for the interaction between organisms or species, in which the fitness of one is lowered by the presence of another?",
+      "type": "OBJ",
+      "options": [
+        "Amensalism",
+        "Competition",
+        "Commensalism",
+        "Parasitism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Types of Species Interactions</h4><p><strong>Step 1: Define the general scenario.</strong><br>The question describes an interaction with a negative effect on at least one of the participants.</p><p><strong>Step 2: Analyze each interaction type.</strong><br></p><ul><li><b>Amensalism:</b> This is an interaction where one organism is harmed, and the other is unaffected (0, -). Example: A large animal trampling a small plant. The question says 'fitness of one is lowered,' which fits the harmed organism, but the other could be unaffected or helped. This is a specific form.</li><li><b>Competition:</b> This is an interaction where both organisms or species are harmed by the presence of the other because they are vying for the same limited resource (e.g., food, water, territory). This is a (-, -) interaction. The phrase 'fitness of one is lowered by the presence of another' perfectly captures competition, as the presence of a competitor directly reduces access to resources.</li><li><b>Commensalism:</b> This is an interaction where one organism benefits, and the other is neither helped nor harmed (+, 0). Example: Barnacles attaching to a whale. This doesn't involve lowering fitness.</li><li><b>Parasitism:</b> This is an interaction where one organism (the parasite) benefits, and the other (the host) is harmed (+, -). The host's fitness is lowered, but the parasite's fitness is increased, which is not the scenario in the question (it doesn't specify the other species benefits).</li></ul><p><strong>Conclusion:</strong><br>The broadest and most accurate term for an interaction where one organism's fitness is lowered simply by the presence of another (who is also likely being harmed) is competition.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": ["Prokaryotes", "Prokaryotes vs Eukaryotes", "Microbiology"],
+    "Question": {
+      "content": "Which of the following is an example of a prokaryotic organism?",
+      "type": "OBJ",
+      "options": [
+        "Archaeans",
+        "Protozoa",
+        "Algae",
+        "Fungi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Archaeans"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Prokaryotic vs. Eukaryotic Organisms</h4><p><strong>Step 1: Recall the definition of a prokaryote.</strong><br>Prokaryotes are single-celled organisms that lack a membrane-bound nucleus and other membrane-bound organelles. Their DNA floats freely in the cytoplasm.</p><p><strong>Step 2: Classify each organism.</strong><br></p><ul><li><b>Archaeans:</b> These are prokaryotes. They are single-celled microorganisms that look similar to bacteria but have a different evolutionary history and biochemistry. They are a classic example of prokaryotes.</li><li><b>Protozoa:</b> These are single-celled eukaryotes. They have a nucleus and other organelles. They are more complex than bacteria.</li><li><b>Algae:</b> These are a large and diverse group of organisms. Most algae are eukaryotic, possessing membrane-bound organelles, though some blue-green algae (cyanobacteria) are prokaryotic. In a standard biology context, 'algae' refers to the eukaryotic types.</li><li><b>Fungi:</b> These are eukaryotic organisms. They can be single-celled (like yeast) or multicellular (like mushrooms) and all have membrane-bound nuclei and organelles.</li></ul><p><strong>Conclusion:</strong><br>Among the options, archaeans are the clearest and most consistent example of a prokaryote.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": ["Transport Mechanisms", "Cell Biology"],
+    "Question": {
+      "content": "What is the movement of water molecules from an area of high concentration to an area of low concentration through a partially permeable membrane called?",
+      "type": "OBJ",
+      "options": [
+        "Osmosis",
+        "Hypertonic",
+        "Turgor pressure",
+        "Diffusion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Osmosis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Types of Passive Transport</h4><p><strong>Step 1: Define the key elements of the question.</strong><br>The description includes three key parts: movement of water, along a concentration gradient (high to low), and through a partially permeable membrane.</p><p><strong>Step 2: Analyze each option.</strong><br></p><ul><li><b>Osmosis:</b> This is the precise scientific term for the net movement of water molecules across a partially permeable membrane from a region of higher water potential (or lower solute concentration) to a region of lower water potential (or higher solute concentration). It matches the description perfectly.</li><li><b>Hypertonic:</b> This is not a process. It is an adjective describing a solution that has a higher solute concentration compared to another solution. If a cell is in a hypertonic solution, water will leave the cell via osmosis.</li><li><b>Turgor pressure:</b> This is the pressure exerted by the fluid inside a plant cell against the cell wall. It is a result of water entering the cell by osmosis, not the movement process itself.</li><li><b>Diffusion:</b> This is the movement of any particle (not just water) from an area of high concentration to an area of low concentration. Osmosis is a special case of diffusion that specifically refers to water moving across a membrane.</li></ul><p><strong>Conclusion:</strong><br>The specific movement described in the question is osmosis.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": ["Ecology"],
+    "Question": {
+      "content": "A population is a group of potentially ______ and ______ individuals of the same species living in the same place and time.",
+      "type": "OBJ",
+      "options": [
+        "Interbreeding and interacting",
+        "Young and interacting",
+        "Viable and interacting",
+        "Viable and young"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interbreeding and interacting"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Defining a Population in Ecology</h4><p><strong>Step 1: Recall the definition of a population.</strong><br>In ecology, a population is not just any group of the same species. It is a group of individuals that live in the same area and, most importantly, can and do interbreed with each other.</p><p><strong>Step 2: Evaluate the options.</strong><br></p><ul><li><b>Interbreeding and interacting:</b> This is correct. 'Interbreeding' means they can reproduce with each other, which is the defining characteristic of a population. 'Interacting' acknowledges that they live together and influence each other.</li><li><b>Young and interacting:</b> A population includes individuals of all ages, not just the young.</li><li><b>Viable and interacting:</b> 'Viable' usually means capable of surviving or working successfully. While individuals in a population must be viable, this term is not part of the core definition of a population.</li><li><b>Viable and young:</b> This is incorrect for the reasons stated above.</li></ul><p><strong>Conclusion:</strong><br>The key to a population is that its members are of the same species, living in the same area, and are capable of interbreeding with one another. Therefore, 'interbreeding and interacting' is the best fit.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": ["Ecology"],
+    "Question": {
+      "content": "What is the area of total darkness in the marine habitat called?",
+      "type": "OBJ",
+      "options": [
+        "Photic zone",
+        "Aphotic zone",
+        "Euphotic zone",
+        "Disphotic zone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aphotic zone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Zones of the Marine Habitat</h4><p><strong>Step 1: Understand how light penetrates water.</strong><br>Sunlight does not penetrate water indefinitely. As you go deeper, light intensity decreases. The ocean is divided into vertical zones based on how much light penetrates.</p><p><strong>Step 2: Define each zone.</strong><br></p><ul><li><b>Photic zone (or Euphotic zone):</b> This is the upper layer of water where there is enough sunlight for photosynthesis to occur. 'Eu-' means true, so the euphotic zone is the 'true light' zone.</li><li><b>Disphotic zone (or Twilight zone):</b> This is the layer below the photic zone. There is some light, but it is too dim for photosynthesis. It's a zone of diminishing light.</li><li><b>Aphotic zone:</b> This is the zone of perpetual darkness that begins below the disphotic zone. 'A-' means without, so the aphotic zone is the 'without light' zone. No sunlight reaches here.</li></ul><p><strong>Conclusion:</strong><br>The area of total darkness is the aphotic zone.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": ["Evolution", "Genetics"],
+    "Question": {
+      "content": "What is a sudden change that occurs on the chromosome that results in evolution called?",
+      "type": "OBJ",
+      "options": [
+        "Mutation",
+        "Chiasma",
+        "Niche",
+        "Glitch"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mutation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Sources of Genetic Variation</h4><p><strong>Step 1: Define the cause of genetic change.</strong><br>For evolution to occur, there must be genetic variation within a population. One of the primary sources of this new variation is a change in the DNA sequence itself.</p><p><strong>Step 2: Analyze the options.</strong><br></p><ul><li><b>Mutation:</b> This is a change in the nucleotide sequence of an organism's DNA. This change can be as small as a single base pair (point mutation) or as large as a change in a whole chromosome segment (chromosomal mutation). This directly fits the description of a 'sudden change on the chromosome' that can introduce new traits for evolution to act upon.</li><li><b>Chiasma:</b> This is the point where two homologous non-sister chromatids exchange genetic material during meiosis (crossing over). It results in recombination, not a sudden new change. It shuffles existing genes.</li><li><b>Niche:</b> This is the role of a species in its environment. It is not a type of genetic change.</li><li><b>Glitch:</b> This is an informal term for a malfunction and is not a scientific term in biology.</li></ul><p><strong>Conclusion:</strong><br>A sudden, heritable change in the DNA or chromosomes is called a mutation.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": ["Nutrition", "Biological Molecules"],
+    "Question": {
+      "content": "Which of these is not a macronutrient?",
+      "type": "OBJ",
+      "options": [
+        "Fibre",
+        "Carbohydrate",
+        "Protein",
+        "Lipids"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fibre"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Classes of Nutrients</h4><p><strong>Step 1: Define macronutrients.</strong><br>Macronutrients are nutrients that the body needs in large amounts to provide energy and support structure and function. They are measured in grams.</p><p><strong>Step 2: Classify the options.</strong><br></p><ul><li><b>Fibre:</b> Fibre is a type of carbohydrate, but it is not digested by the human body. It is considered essential for gut health but is not a source of energy or a 'building block' nutrient in the same way the others are. It is often classified as a dietary component rather than a primary macronutrient.</li><li><b>Carbohydrate:</b> This is a primary macronutrient, the body's main source of energy.</li><li><b>Protein:</b> This is a primary macronutrient, essential for building and repairing tissues.</li><li><b>Lipids (Fats):</b> This is a primary macronutrient, essential for energy storage, hormone production, and cell structure.</li></ul><p><strong>Conclusion:</strong><br>Carbohydrates, proteins, and lipids are the three main macronutrients. While important, fibre is not considered one of these core macronutrients.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": ["Microbiology", "Prokaryotes"],
+    "Question": {
+      "content": "What condition does 'Halophilic' refer to for growth?",
+      "type": "OBJ",
+      "options": [
+        "Fresh water",
+        "Stream water",
+        "Grassland",
+        "High saline"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High saline"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Microbial Growth Conditions</h4><p><strong>Step 1: Break down the word.</strong><br>The term 'halophilic' comes from Greek: 'halo-' meaning 'salt' and '-philic' meaning 'loving'.</p><p><strong>Step 2: Apply the meaning.</strong><br>Therefore, a halophilic organism is one that 'loves salt' and requires high concentrations of salt (sodium chloride) for optimal growth. These organisms are found in environments like salt lakes (e.g., the Great Salt Lake), salt evaporation ponds, and highly salted foods.</p><p><strong>Step 3: Match with the options.</strong><br>'High saline' is the term that means having a high concentration of salt.</p><p><strong>Conclusion:</strong><br>Halophilic conditions are those with high salinity (high salt concentration).</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": ["Biological Molecules", "Biochemistry", "Nucleus"],
+    "Question": {
+      "content": "The structure of a nucleic acid where the interaction between the bases is found is known as what structure?",
+      "type": "OBJ",
+      "options": [
+        "Primary structure",
+        "Tertiary structure",
+        "Quaternary structure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tertiary structure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Levels of Protein and Nucleic Acid Structure</h4><p><strong>Step 1: Relate to protein structure (easier analogy).</strong><br>Like proteins, nucleic acids (DNA and RNA) have different levels of structural complexity. The 'interaction between bases' is a key part of their 3D shape.</p><p><strong>Step 2: Define the levels for nucleic acids.</strong><br></p><ul><li><b>Primary structure:</b> This is the linear sequence of nucleotides (the order of A, T, C, G) in the polynucleotide chain. It's like the letters in a sentence.</li><li><b>Secondary structure:</b> This refers to local, regular folding patterns within the chain, stabilized by hydrogen bonding between nearby bases. The classic example is the DNA double helix or the hairpin loops in RNA.</li><li><b>Tertiary structure:</b> This is the overall three-dimensional folding of a single polynucleotide chain. It involves long-range interactions, including base pairing between distant parts of the molecule, leading to a more complex shape (like the L-shape of tRNA). The question asks about the structure where 'interaction between the bases' is found. While base interactions are present in secondary structure, the <i>tertiary</i> structure specifically involves interactions between bases that are far apart in the primary sequence, creating the overall functional 3D form.</li><li><b>Quaternary structure:</b> This involves the interaction of multiple separate polynucleotide chains (or subunits) to form a functional complex. For example, a ribosome has many RNA and protein molecules.</li></ul><p><strong>Conclusion:</strong><br>The overall 3D structure formed by long-range interactions between bases is the tertiary structure.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": ["Genetics"],
+    "Question": {
+      "content": "What are the alternate forms of the same gene called?",
+      "type": "OBJ",
+      "options": [
+        "Genes",
+        "DNA",
+        "Nucleus",
+        "Alleles"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alleles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Basic Genetics Vocabulary</h4><p><strong>Step 1: Define a gene.</strong><br>A gene is a specific sequence of DNA that codes for a particular trait, like eye color.</p><p><strong>Step 2: Define the alternate forms.</strong><br>For many traits, a gene can exist in more than one version. For example, the gene for eye color might have a version for brown eyes and a version for blue eyes. These different versions of the same gene are called <b>alleles</b>. They are located at the same position (locus) on homologous chromosomes.</p><p><strong>Step 3: Check other options.</strong><br></p><ul><li><b>Genes:</b> This is the general term for the unit of heredity, not the specific variant.</li><li><b>DNA:</b> This is the molecule that makes up genes, not the variant itself.</li><li><b>Nucleus:</b> This is the organelle that contains the DNA.</li></ul><p><strong>Conclusion:</strong><br>Alternate forms of the same gene are called alleles.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": ["Ecology"],
+    "Question": {
+      "content": "What is the term for the section of the habitat that supports the survival of a specific organism?",
+      "type": "OBJ",
+      "options": [
+        "Ecology",
+        "Niche",
+        "Habitat",
+        "Ecosystem"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Niche"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Habitat vs. Niche</h4><p><strong>Step 1: Distinguish between habitat and niche.</strong><br>These two terms are often confused but have distinct meanings in ecology.</p><p><strong>Step 2: Define each term.</strong><br></p><ul><li><b>Habitat:</b> This is the physical place or environment where an organism lives. It's the organism's 'address'. For example, the habitat of a lion is the savanna grassland.</li><li><b>Niche:</b> This is the functional role and position of an organism in its environment. It includes all the conditions, resources, and interactions it needs to survive. It's the organism's 'profession'. This includes what it eats, when it hunts, where it finds shelter, how it reproduces, and its relationships with other species. The question asks for the section that 'supports the survival' by providing a specific role and set of conditions, which is the niche.</li><li><b>Ecology:</b> The study of these interactions.</li><li><b>Ecosystem:</b> The community plus its physical environment.</li></ul><p><strong>Conclusion:</strong><br>While an organism lives in a habitat, its survival depends on its specific niche within that habitat. The niche is the 'section' or role that provides for its specific needs.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": ["Taxonomy", "Plant Kingdom"],
+    "Question": {
+      "content": "Which of the following is not a parameter used for the classification of the kingdom Plantae?",
+      "type": "OBJ",
+      "options": [
+        "The presence of flowers",
+        "The absence of vascular tissue",
+        "The absence of seeds",
+        "The presence of vascular tissue"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The presence of flowers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Classification of the Plant Kingdom</h4><p><strong>Step 1: Understand how plants are classified.</strong><br>The kingdom Plantae is broadly classified into major groups based on key evolutionary features. These features help us organize plants from simple to complex.</p><p><strong>Step 2: Identify the main classification parameters.</strong><br>The primary parameters used to classify plants include:</p><ul><li><b>The presence or absence of vascular tissue (xylem and phloem):</b> This separates non-vascular plants (like mosses) from vascular plants (like ferns, gymnosperms, and angiosperms).</li><li><b>The presence or absence of seeds:</b> This separates seedless plants (like ferns) from seed plants (gymnosperms and angiosperms).</li><li><b>The presence or absence of flowers and fruits:</b> This separates gymnosperms (naked seeds, no flowers) from angiosperms (seeds enclosed in fruits, have flowers).</li></ul><p><strong>Step 3: Analyze the options.</strong><br></p><ul><li><b>The absence of vascular tissue:</b> This IS a parameter (used to classify Bryophytes).</li><li><b>The absence of seeds:</b> This IS a parameter (used to classify Pteridophytes).</li><li><b>The presence of vascular tissue:</b> This IS a parameter (used to classify Tracheophyta - all vascular plants).</li><li><b>The presence of flowers:</b> This IS a parameter, but it is a <i>specific</i> parameter used only to distinguish the highest group, the angiosperms (flowering plants), from gymnosperms (non-flowering seed plants). It is not a parameter used to classify the entire kingdom, as it doesn't apply to mosses, ferns, or gymnosperms. The question asks for what is <i>not</i> a classification parameter for the whole kingdom.</li></ul><p><strong>Conclusion:</strong><br>While the presence of flowers is a feature of one major plant group, it is not a broad parameter used to classify the entire kingdom Plantae. The other options (presence/absence of vascular tissue and seeds) are fundamental classification criteria for the whole kingdom.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": ["Chemical Thermodynamics", "Thermodynamics", "Energy"],
+    "Question": {
+      "content": "Which of the following is a key element of the First Law of Thermodynamics?",
+      "type": "OBJ",
+      "options": [
+        "Energy can be destroyed",
+        "Energy cannot change from one form to another",
+        "The total amount of energy in the universe decreases with time",
+        "Energy cannot be created or destroyed"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Energy cannot be created or destroyed"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>The First Law of Thermodynamics</h4><p><strong>Step 1: Recall the laws of thermodynamics.</strong><br>The laws of thermodynamics govern energy. The question asks about a 'key element', and the provided options relate to the First Law.</p><p><strong>Step 2: State the First Law of Thermodynamics.</strong><br>The First Law of Thermodynamics, also known as the Law of Conservation of Energy, states that energy cannot be created or destroyed in an isolated system. It can only be transformed from one form to another (e.g., chemical energy to heat energy) or transferred from one system to another.</p><p><strong>Step 3: Evaluate each option against this law.</strong><br></p><ul><li><b>Energy can be destroyed:</b> This directly contradicts the First Law. (Incorrect)</li><li><b>Energy cannot change from one form to another:</b> This is false. Energy constantly changes form, which is a key part of the First Law. (Incorrect)</li><li><b>The total amount of energy in the universe decreases with time:</b> This describes a universe running out of energy, which is not true according to the First Law. The total energy is constant. The Second Law deals with the <i>quality</i> or usability of energy (entropy increasing), not the total amount decreasing. (Incorrect)</li><li><b>Energy cannot be created or destroyed:</b> This is the precise and correct statement of the First Law of Thermodynamics.</li></ul><p><strong>Conclusion:</strong><br>The key element described is that energy cannot be created or destroyed.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": ["Cell Division", "Cell Biology"],
+    "Question": {
+      "content": "Which of the following is not one of the basic ways through which cell division occurs?",
+      "type": "OBJ",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Cytokinesis",
+        "Amitosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cytokinesis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Processes of Cell Division</h4><p><strong>Step 1: Distinguish between nuclear division and cytoplasmic division.</strong><br>Cell division involves two main processes: the division of the nucleus (karyokinesis) and the division of the cytoplasm (cytokinesis). The question asks for the 'basic ways' cell division occurs, meaning the primary types of nuclear division.</p><p><strong>Step 2: Classify each option.</strong><br></p><ul><li><b>Mitosis:</b> This is a fundamental type of nuclear division that results in two genetically identical daughter nuclei. It's the basis for growth and repair in eukaryotes. (This IS a basic way cell division occurs).</li><li><b>Meiosis:</b> This is a fundamental type of nuclear division that results in four genetically different daughter nuclei, each with half the chromosome number. It's the basis for sexual reproduction. (This IS a basic way cell division occurs).</li><li><b>Cytokinesis:</b> This is the process of dividing the cytoplasm and organelles to form two separate daughter cells. It is a crucial <i>part</i> of cell division, but it is not a <i>type</i> of cell division in the same way that mitosis and meiosis are. It is the final step that follows both mitosis and meiosis.</li><li><b>Amitosis:</b> This is a simpler, direct form of cell division where the nucleus simply constricts and divides without forming visible chromosomes or a spindle. It is observed in some single-celled organisms and certain cells in complex organisms, and is considered a basic, though less common, type of division. (This IS a basic way cell division occurs).</li></ul><p><strong>Conclusion:</strong><br>Mitosis, meiosis, and amitosis are types of cell/nuclear division. Cytokinesis is the subsequent process of cytoplasmic division, not a 'way' of cell division itself.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": ["Microbiology", "Bacterial Structure", "Prokaryotes"],
+    "Question": {
+      "content": "The existence of flagella in amphitrichous form means what?",
+      "type": "OBJ",
+      "options": [
+        "Possession of one flagellum",
+        "Flagella covers the entire cell",
+        "Flagella occur at two ends of the cell",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Flagella occur at two ends of the cell"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Arrangement of Bacterial Flagella</h4><p><strong>Step 1: Understand flagella arrangements.</strong><br>Bacteria can have flagella (whip-like structures for movement) arranged in different patterns. These patterns have specific names based on Greek roots.</p><p><strong>Step 2: Define the term 'amphitrichous'.</strong><br>The term 'amphitrichous' comes from Greek: 'amphi-' meaning 'on both sides' or 'around', and 'trichous' meaning 'hair'. In bacteriology, it specifically refers to having a single flagellum or a tuft of flagella at <b>both ends</b> of the bacterial cell.</p><p><strong>Step 3: Distinguish from other arrangements.</strong><br></p><ul><li><b>Monotrichous:</b> Possession of a single flagellum (at one end).</li><li><b>Lophotrichous:</b> A tuft of flagella at one end of the cell.</li><li><b>Amphitrichous:</b> A single flagellum or a tuft at both ends of the cell.</li><li><b>Peritrichous:</b> Flagella covering the entire surface of the cell.</li></ul><p><strong>Conclusion:</strong><br>Therefore, an amphitrichous arrangement of flagella means they occur at both ends of the cell.</p></div>"
+    }
+  }
+]
