@@ -1538,29 +1538,31 @@
     }
   },
   {
-    "type": "Question",
-    "name": "Question 60",
-    "topic": [
-      "Biological Classification",
-      "History of Biology"
-    ],
-    "Question": {
-      "content": "Who extended the two-kingdom concept of classification to the five-kingdom concept?",
-      "type": "OBJ",
-      "options": [
-        "Carl Linnaeus (1707 – 1778)",
-        "Griffith (1928)"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "R.H. Whittaker"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Five-Kingdom System</h4>\n  <div style='margin-bottom: 12px;'>\n    The history of biological classification has seen several major changes.\n    <ul>\n      <li><strong>Two-Kingdom System:</strong> Originally proposed by <strong>Carl Linnaeus</strong> in the 18th century. It divided all life into two kingdoms: <strong>Plantae</strong> (plants) and <strong>Animalia</strong> (animals). This system had flaws, as it didn't properly place fungi, bacteria, and protozoa.</li>\n      <li><strong>Five-Kingdom System:</strong> In 1969, the American ecologist <strong>Robert H. Whittaker</strong> proposed a more accurate five-kingdom classification based on three criteria: cell structure (prokaryotic/eukaryotic), organization (unicellular/multicellular), and mode of nutrition (photosynthesis/absorption/ingestion). The five kingdoms are: <strong>Monera, Protista, Fungi, Plantae, and Animalia</strong>.</li>\n    </ul>\n    <p>Neither of the options provided (Linnaeus or Griffith) is correct. Linnaeus created the two-kingdom system, and Griffith is famous for his experiment on bacterial transformation. The correct answer, which should be added, is <strong>R.H. Whittaker</strong>.</p>\n  </div>\n</div>"
-    }
+  "type": "Question",
+  "name": "Question 60",
+  "topic": [
+    "Biological Classification",
+    "History of Biology"
+  ],
+  "Question": {
+    "content": "Who extended the two-kingdom concept of classification to the five-kingdom concept?",
+    "type": "OBJ",
+    "options": [
+      "Carl Linnaeus (1707 – 1778)",
+      "Griffith (1928)",
+      "R.H. Whittaker (1969)",
+      "Ernst Haeckel (1866)"
+    ]
   },
+  "Answer": {
+    "type": "string",
+    "content": "R.H. Whittaker (1969)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Five-Kingdom System</h4>\n  <div style='margin-bottom: 12px;'>\n    The history of biological classification has seen several major changes.\n    <ul>\n      <li><strong>Two-Kingdom System:</strong> Originally proposed by <strong>Carl Linnaeus</strong> in the 18th century. It divided all life into two kingdoms: <strong>Plantae</strong> (plants) and <strong>Animalia</strong> (animals). This system had flaws, as it didn't properly place fungi, bacteria, and protozoa.</li>\n      <li><strong>Five-Kingdom System:</strong> In 1969, the American ecologist <strong>Robert H. Whittaker</strong> proposed a more accurate five-kingdom classification based on three criteria: cell structure (prokaryotic/eukaryotic), organization (unicellular/multicellular), and mode of nutrition (photosynthesis/absorption/ingestion). The five kingdoms are: <strong>Monera, Protista, Fungi, Plantae, and Animalia</strong>.</li>\n    </ul>\n    <p>Neither of the options provided (Linnaeus or Griffith) is correct. Linnaeus created the two-kingdom system, and Griffith is famous for his experiment on bacterial transformation. The correct answer, which should be added, is <strong>R.H. Whittaker</strong>.</p>\n  </div>\n</div>"
+  }
+},
   {
     "type": "Question",
     "name": "Question 61",
