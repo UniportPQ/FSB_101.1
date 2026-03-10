@@ -1596,28 +1596,34 @@
       "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Microbial Growth Conditions</h4><p><strong>Step 1: Break down the word.</strong><br>The term 'halophilic' comes from Greek: 'halo-' meaning 'salt' and '-philic' meaning 'loving'.</p><p><strong>Step 2: Apply the meaning.</strong><br>Therefore, a halophilic organism is one that 'loves salt' and requires high concentrations of salt (sodium chloride) for optimal growth. These organisms are found in environments like salt lakes (e.g., the Great Salt Lake), salt evaporation ponds, and highly salted foods.</p><p><strong>Step 3: Match with the options.</strong><br>'High saline' is the term that means having a high concentration of salt.</p><p><strong>Conclusion:</strong><br>Halophilic conditions are those with high salinity (high salt concentration).</p></div>"
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 64",
-    "topic": ["Biological Molecules", "Biochemistry", "Nucleus"],
-    "Question": {
-      "content": "The structure of a nucleic acid where the interaction between the bases is found is known as what structure?",
-      "type": "OBJ",
-      "options": [
-        "Primary structure",
-        "Tertiary structure",
-        "Quaternary structure"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Tertiary structure"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Levels of Protein and Nucleic Acid Structure</h4><p><strong>Step 1: Relate to protein structure (easier analogy).</strong><br>Like proteins, nucleic acids (DNA and RNA) have different levels of structural complexity. The 'interaction between bases' is a key part of their 3D shape.</p><p><strong>Step 2: Define the levels for nucleic acids.</strong><br></p><ul><li><b>Primary structure:</b> This is the linear sequence of nucleotides (the order of A, T, C, G) in the polynucleotide chain. It's like the letters in a sentence.</li><li><b>Secondary structure:</b> This refers to local, regular folding patterns within the chain, stabilized by hydrogen bonding between nearby bases. The classic example is the DNA double helix or the hairpin loops in RNA.</li><li><b>Tertiary structure:</b> This is the overall three-dimensional folding of a single polynucleotide chain. It involves long-range interactions, including base pairing between distant parts of the molecule, leading to a more complex shape (like the L-shape of tRNA). The question asks about the structure where 'interaction between the bases' is found. While base interactions are present in secondary structure, the <i>tertiary</i> structure specifically involves interactions between bases that are far apart in the primary sequence, creating the overall functional 3D form.</li><li><b>Quaternary structure:</b> This involves the interaction of multiple separate polynucleotide chains (or subunits) to form a functional complex. For example, a ribosome has many RNA and protein molecules.</li></ul><p><strong>Conclusion:</strong><br>The overall 3D structure formed by long-range interactions between bases is the tertiary structure.</p></div>"
-    }
+  
+  
+{
+  "type": "Question",
+  "name": "Question 64",
+  "topic": ["Biological Molecules", "Biochemistry", "Nucleus"],
+  "Question": {
+    "content": "The structure of a nucleic acid where the interaction between the bases is found is known as what structure?",
+    "type": "OBJ",
+    "options": [
+      "Primary structure",
+      "Secondary structure",
+      "Tertiary structure",
+      "Quaternary structure"
+    ]
   },
+  "Answer": {
+    "type": "string",
+    "content": "Secondary structure"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px;'><h4 style='color: var(--strongColor); margin-top: 0;'>Levels of Nucleic Acid Structure</h4><p><strong>Step 1: Understand what 'interaction between bases' means.</strong><br>In nucleic acids, bases interact with each other through <b>hydrogen bonding</b> between complementary base pairs (A with T/U, and G with C) and <b>base stacking</b> interactions. These interactions define the secondary structure of the molecule.</p><p><strong>Step 2: Define each level of nucleic acid structure.</strong></p><ul><li><b>Primary structure:</b> The linear sequence of nucleotides joined by covalent phosphodiester bonds (the specific order of A, T/U, C, G). There are no base–base interactions at this level.</li><li><b>Secondary structure:</b> The local, regular 3D folding of the nucleic acid chain stabilized by <b>hydrogen bonding between complementary bases</b>. Classic examples include the <b>double helix of DNA</b> (where A pairs with T and G pairs with C across two strands) and <b>hairpin loops and stem-loops in RNA</b>. This is the level where base interactions are defined.</li><li><b>Tertiary structure:</b> The overall 3D folding of the entire molecule, involving long-range interactions between different regions of the already-folded secondary structure. An example is the L-shaped fold of tRNA.</li><li><b>Quaternary structure:</b> The assembly of multiple separate nucleic acid or protein subunits into a larger functional complex, such as a ribosome.</li></ul><p><strong>Conclusion:</strong><br>The <b>secondary structure</b> is the level of nucleic acid organization where base–base interactions (hydrogen bonding between complementary bases) occur, giving rise to iconic structures like the DNA double helix and RNA stem-loops.</p></div>"
+  }
+},
+  
+  
+  
   {
     "type": "Question",
     "name": "Question 65",
