@@ -1,0 +1,598 @@
+[
+    {
+   "type": "pageInfo",
+   "kind": "OBJ",
+   "course_title": "General Biology I",
+   "code": "FSB 101.1",
+   "session": "Hard",
+   "topics":   [
+  "Cell Biology",
+  "Biological Molecules",
+  "Chemical Thermodynamics",
+  "Genetics",
+  "Nutrition",
+  "Transport Mechanisms",
+  "Taxonomy",
+  "Microbiology",
+  "Virology",
+  "Cell Theory",
+  "Prokaryotes vs Eukaryotes",
+  "Prokaryotes",
+  "Bacterial Structure",
+  "Organelles",
+  "Respiration",
+  "Protein Synthesis",
+  "Cell Division",
+  "Nucleus",
+  "Thermodynamics",
+  "Energy",
+  "Biochemistry",
+  "Redox Reactions",
+  "Ecology",
+  "Energy Flow",
+  "Bioenergetics",
+  "Enzymology",
+  "Chemical Bonding",
+  "Evolution"
+],
+
+   "time": "30"
+ },
+
+  
+   {
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+ },
+
+  {
+    "type": "heading",
+    "heading": "ADVANCED BIOLOGY MOCK EXAM",
+    "Subheading": "Section 1: Molecular & Cellular Biology (Hard)"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Biological Molecules", "Biochemistry", "Chemical Thermodynamics"],
+    "Question": {
+      "content": "The synthesis of a polypeptide from individual amino acids is both a dehydration reaction and an endergonic process. Which of the following directly couples this reaction to a favorable energy source to make it thermodynamically feasible?",
+      "type": "OBJ",
+      "options": ["The hydrolysis of ATP to ADP and Pi", "The oxidation of NADH to NAD+", "The formation of a phosphodiester bond", "The reduction of molecular oxygen"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy Coupling in Protein Synthesis</h4>\n<p><strong>Answer: The hydrolysis of ATP to ADP and Pi</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Reasoning:</strong><br>\n1. <strong>Endergonic Reaction:</strong> Forming peptide bonds between amino acids requires energy input (it is not spontaneous).<br>\n2. <strong>Exergonic Reaction:</strong> Hydrolysis of ATP (ATP + H2O → ADP + Pi) releases a significant amount of free energy.<br>\n3. <strong>Coupling:</strong> In cells, these two reactions are coupled. The energy released from ATP hydrolysis is used to drive the endergonic formation of the peptide bond.<br>\n4. The other options (oxidation of NADH, reduction of oxygen) are involved in energy production (cellular respiration) but do not directly power the ribosome during translation.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The hydrolysis of ATP to ADP and Pi"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Biochemistry", "Enzymes", "Chemical Thermodynamics"],
+    "Question": {
+      "content": "An enzyme dramatically increases the rate of a biochemical reaction. Which of the following best describes the enzyme's effect on the reaction's Gibbs free energy (ΔG) and activation energy (Ea)?",
+      "type": "OBJ",
+      "options": ["Decreases both ΔG and Ea", "Decreases Ea but does not change ΔG", "Decreases ΔG but does not change Ea", "Increases Ea but decreases ΔG"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Enzymes Work</h4>\n<p><strong>Answer: Decreases Ea but does not change ΔG</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Detailed Explanation:</strong><br>\n• <strong>ΔG (Free Energy Change):</strong> This is a thermodynamic property determined solely by the energy of the products minus the energy of the reactants. Enzymes do not alter this; they cannot make an endergonic reaction exergonic.<br>\n• <strong>Ea (Activation Energy):</strong> This is the kinetic barrier that must be overcome for the reaction to proceed. Enzymes lower Ea by stabilizing the transition state, providing an alternative reaction pathway.<br>\n• <strong>Net Effect:</strong> By lowering Ea, enzymes speed up the rate at which equilibrium is reached, but they do not change the position of the equilibrium (ΔG).</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Decreases Ea but does not change ΔG"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Cell Biology", "Organelles", "Transport Mechanisms"],
+    "Question": {
+      "content": "A newly synthesized protein destined for secretion from a pancreatic cell travels through a specific endomembrane pathway. What is the correct sequence of organelles this protein will encounter from synthesis to exocytosis?",
+      "type": "OBJ",
+      "options": ["Nucleus → Golgi apparatus → Rough ER → Vesicle", "Rough ER → Golgi apparatus → Lysosome → Vesicle", "Rough ER → Golgi apparatus → Secretory vesicle → Plasma membrane", "Smooth ER → Golgi apparatus → Secretory vesicle → Plasma membrane"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Secretory Pathway</h4>\n<p><strong>Answer: Rough ER → Golgi apparatus → Secretory vesicle → Plasma membrane</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Journey:</strong><br>\n1. <strong>Synthesis (Rough ER):</strong> Ribosomes on the Rough ER synthesize the protein, depositing it into the ER lumen for initial folding.<br>\n2. <strong>Transport Vesicle:</strong> The protein is packaged into a vesicle that buds off the ER and travels to the Golgi.<br>\n3. <strong>Processing (Golgi Apparatus):</strong> The protein moves through the Golgi cisternae (cis to trans face) where it is modified (e.g., glycosylation).<br>\n4. <strong>Sorting & Secretion (Secretory Vesicle):</strong> At the trans-Golgi network, it is packaged into a secretory vesicle, which fuses with the plasma membrane for exocytosis.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rough ER → Golgi apparatus → Secretory vesicle → Plasma membrane"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Cell Biology", "Transport Mechanisms", "Bioenergetics"],
+    "Question": {
+      "content": "A neuron maintains a resting membrane potential of approximately -70 mV. Which of the following mechanisms is the primary and direct contributor to this negative interior charge?",
+      "type": "OBJ",
+      "options": ["The diffusion of K+ out of the cell down its concentration gradient", "The active transport of Na+ into the cell by the Na+/K+ ATPase", "The diffusion of Na+ into the cell down its electrochemical gradient", "The active transport of Cl- into the cell against its gradient"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Resting Membrane Potential</h4>\n<p><strong>Answer: The diffusion of K+ out of the cell down its concentration gradient</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Logic:</strong><br>\n1. <strong>Ion Distribution:</strong> At rest, cells have high intracellular K+ and high extracellular Na+.<br>\n2. <strong>Permeability:</strong> The membrane at rest is much more permeable to K+ than to Na+ due to 'leak' channels.<br>\n3. <strong>Primary Driver:</strong> K+ diffuses out of the cell down its concentration gradient.<br>\n4. <strong>Charge Separation:</strong> The loss of positive K+ ions leaves behind negative charges (proteins, organic phosphates), making the inside of the cell negative relative to the outside.<br>\n5. The Na+/K+ ATPase maintains the gradients but is electrogenic (3 Na+ out, 2 K+ in), contributing only about -5mV directly.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The diffusion of K+ out of the cell down its concentration gradient"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Genetics", "Cell Division", "Nucleus"],
+    "Question": {
+      "content": "During which phase of the cell cycle are sister chromatids first held together by cohesin proteins after DNA replication, and in which phase are these cohesin complexes cleaved to allow for chromosome segregation?",
+      "type": "OBJ",
+      "options": ["Cohesin establishes in G1; cleaved in Anaphase", "Cohesin establishes in S phase; cleaved in Anaphase", "Cohesin establishes in G2; cleaved in Telophase", "Cohesin establishes in Prophase; cleaved in Metaphase"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chromosome Cohesion and Separation</h4>\n<p><strong>Answer: Cohesin establishes in S phase; cleaved in Anaphase</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Detailed Timeline:</strong><br>\n1. <strong>S Phase (Synthesis):</strong> DNA is replicated, creating two identical sister chromatids. As replication occurs, cohesin protein complexes are loaded to glue the two copies together along their lengths.<br>\n2. <strong>G2 and M Phase:</strong> Cohesin ensures proper alignment and attachment to spindle fibers.<br>\n3. <strong>Anaphase Onset:</strong> The protease 'separase' is activated. It cleaves the cohesin complexes, especially at the centromere.<br>\n4. <strong>Result:</strong> Sister chromatids become individual chromosomes and are pulled to opposite poles of the cell.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cohesin establishes in S phase; cleaved in Anaphase"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Genetics", "Evolution", "Bioenergetics"],
+    "Question": {
+      "content": "The endosymbiotic theory proposes that mitochondria and chloroplasts originated from free-living prokaryotes. Which of the following pieces of evidence is considered the strongest direct support for this theory?",
+      "type": "OBJ",
+      "options": ["They are both surrounded by a single membrane.", "They contain their own circular DNA that is distinct from nuclear DNA.", "They are found in all eukaryotic cells.", "They are synthesized by the rough endoplasmic reticulum."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Evidence for Endosymbiosis</h4>\n<p><strong>Answer: They contain their own circular DNA that is distinct from nuclear DNA.</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Evaluating the Evidence:</strong><br>\n• <strong>Circular DNA:</strong> Mitochondrial and chloroplast DNA is circular and lacks histones, resembling bacterial (prokaryotic) chromosomes. This is a powerful indicator of a prokaryotic ancestor.<br>\n• <strong>Double Membrane:</strong> They have two membranes, which aligns with the engulfing event (the inner membrane is the prokaryote's, the outer is from the engulfing vesicle).<br>\n• <strong>Ribosomes:</strong> Their ribosomes are more similar in size (70S) to bacterial ribosomes than to eukaryotic (80S) ribosomes.<br>\n• <strong>Binary Fission:</strong> They replicate independently of the cell cycle via a process similar to bacterial binary fission.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They contain their own circular DNA that is distinct from nuclear DNA."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Biological Molecules", "Biochemistry", "Proteins"],
+    "Question": {
+      "content": "A patient has a genetic disorder that prevents the proper folding of proteins destined for the plasma membrane. Which organelle is most likely to be directly dysfunctional in this patient?",
+      "type": "OBJ",
+      "options": ["Nucleus", "Rough Endoplasmic Reticulum", "Smooth Endoplasmic Reticulum", "Peroxisome"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protein Folding and Quality Control</h4>\n<p><strong>Answer: Rough Endoplasmic Reticulum</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step:</strong><br>\n1. <strong>Site of Synthesis for Membrane Proteins:</strong> Ribosomes on the Rough ER synthesize membrane and secreted proteins directly into the ER lumen.<br>\n2. <strong>Folding and Chaperones:</strong> The ER contains a unique environment and specialized proteins called 'chaperones' (e.g., BiP) that assist in proper folding and disulfide bond formation.<br>\n3. <strong>Quality Control:</strong> The ER has a 'quality control' system that prevents misfolded proteins from advancing to the Golgi. Misfolded proteins are retained and targeted for degradation (ERAD).<br>\n4. <strong>Dysfunction:</strong> If this folding machinery is defective, plasma membrane proteins would misfold and never reach their destination.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rough Endoplasmic Reticulum"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Genetics", "Evolution", "History of Biology"],
+    "Question": {
+      "content": "While both contributed to our understanding of heredity, how did Gregor Mendel's approach in the 1860s fundamentally differ from Charles Darwin's approach in 'On the Origin of Species' (1859) regarding the mechanism of inheritance?",
+      "type": "OBJ",
+      "options": ["Mendel studied populations, while Darwin studied individuals.", "Mendel proposed a particulate (discrete) model of inheritance, while Darwin proposed a blending model (pangenesis).", "Mendel believed in inheritance of acquired characteristics, while Darwin did not.", "Mendel worked with animals, while Darwin worked with plants."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mendel vs. Darwin on Inheritance</h4>\n<p><strong>Answer: Mendel proposed a particulate (discrete) model of inheritance, while Darwin proposed a blending model (pangenesis).</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Key Conceptual Difference:</strong><br>\n• <strong>Darwin's Pangenesis (Blending):</strong> Darwin proposed that traits from both parents blend together in the offspring, like mixing paint. A major problem for Darwin was that this would cause variation to disappear over generations.<br>\n• <strong>Mendel's Particulate Inheritance:</strong> Mendel's experiments with pea plants showed that traits are determined by discrete 'factors' (genes) that are inherited as units. They do not blend; they remain distinct (e.g., purple vs. white flower) and can reappear in later generations.<br>\n• Mendel's work provided the missing mechanism that made Darwin's theory of natural selection mathematically viable.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mendel proposed a particulate (discrete) model of inheritance, while Darwin proposed a blending model (pangenesis)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Cell Biology", "Transport Mechanisms", "Bioenergetics"],
+    "Question": {
+      "content": "The sodium-glucose linked transporter (SGLT) in intestinal epithelial cells moves glucose against its concentration gradient into the cell. This is an example of secondary active transport because it is indirectly powered by:",
+      "type": "OBJ",
+      "options": ["ATP hydrolysis by the SGLT protein itself.", "The electrochemical gradient of Na+ established by the Na+/K+ ATPase.", "Direct coupling to the electron transport chain.", "The concentration gradient of glucose established by facilitated diffusion."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Secondary Active Transport (Co-transport)</h4>\n<p><strong>Answer: The electrochemical gradient of Na+ established by the Na+/K+ ATPase.</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>How it Works:</strong><br>\n1. <strong>Primary Active Transport:</strong> The Na+/K+ ATPase uses ATP to pump Na+ out of the cell, creating a large concentration and electrical gradient (high Na+ outside, low Na+ inside). This is the 'primary' energy source.<br>\n2. <strong>Secondary Active Transport (SGLT):</strong> The SGLT protein binds both Na+ and glucose. It allows Na+ to flow <em>down</em> its electrochemical gradient into the cell. The energy released from this 'downhill' movement of Na+ is used to pump glucose 'uphill' into the cell.<br>\n3. No ATP is directly used by SGLT; it is indirectly powered by the Na+ gradient.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The electrochemical gradient of Na+ established by the Na+/K+ ATPase."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Biochemistry", "Energy", "Bioenergetics"],
+    "Question": {
+      "content": "The complete oxidation of one molecule of glucose via cellular respiration yields approximately 30-32 ATP. The majority of these ATP molecules are produced during which specific process?",
+      "type": "OBJ",
+      "options": ["Substrate-level phosphorylation in glycolysis", "Substrate-level phosphorylation in the Krebs cycle", "Oxidative phosphorylation via the electron transport chain and chemiosmosis", "The decarboxylation of pyruvate to acetyl-CoA"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>ATP Yield in Cellular Respiration</h4>\n<p><strong>Answer: Oxidative phosphorylation via the electron transport chain and chemiosmosis</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>ATP Accounting:</strong><br>\n• <strong>Glycolysis:</strong> Produces 2 ATP (substrate-level) and 2 NADH.<br>\n• <strong>Pyruvate Decarboxylation & Krebs Cycle:</strong> Produce 2 ATP/GTP (substrate-level) plus many NADH and FADH2.<br>\n• <strong>Oxidative Phosphorylation:</strong> The NADH (≈10) and FADH2 (≈2) are oxidized by the electron transport chain. The energy released pumps H+ across the inner mitochondrial membrane, creating a proton motive force. ATP synthase uses this force to generate the bulk of ATP (≈26-28 molecules).<br>\n• This process accounts for roughly 85-90% of the total ATP yield.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oxidative phosphorylation via the electron transport chain and chemiosmosis"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "ADVANCED BIOLOGY MOCK EXAM",
+    "Subheading": "Section 2: Genetics, Microbiology & Systems (Hard)"
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Genetics", "Biological Molecules", "Nucleus"],
+    "Question": {
+      "content": "If a segment of DNA has the sequence 5'-ATGGCT-3' on the coding strand, what will be the sequence of the corresponding mRNA transcript, and what is the first amino acid it codes for (using the start codon rule)?",
+      "type": "OBJ",
+      "options": ["mRNA: 5'-AUGGCU-3', First Amino Acid: Methionine", "mRNA: 3'-UACCG A-5', First Amino Acid: Tyrosine", "mRNA: 5'-AUGGCU-3', First Amino Acid: Tryptophan", "mRNA: 5'-AUGGCU-3', First Amino Acid: Formylmethionine"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Transcription and Translation</h4>\n<p><strong>Answer: mRNA: 5'-AUGGCU-3', First Amino Acid: Methionine</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step:</strong><br>\n1. <strong>Identifying the Template Strand:</strong> The coding strand (5'-ATGGCT-3') has the same sequence as the mRNA (except T→U). The RNA polymerase uses the complementary template strand (3'-TACCGA-5') to synthesize mRNA.<br>\n2. <strong>mRNA Synthesis:</strong> The mRNA sequence is complementary to the template strand and identical to the coding strand (with U instead of T). Therefore, the mRNA is 5'-AUGGCU-3'.<br>\n3. <strong>The Start Codon:</strong> The first codon read by the ribosome is AUG.<br>\n4. <strong>Amino Acid:</strong> The codon AUG codes for the amino acid <strong>Methionine</strong> in eukaryotes (and formylmethionine in prokaryotes, but the question implies the standard genetic code).</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mRNA: 5'-AUGGCU-3', First Amino Acid: Methionine"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Genetics", "Evolution", "Cell Division"],
+    "Question": {
+      "content": "A cell in G2 phase of the cell cycle has 10 picograms (pg) of DNA. How much DNA would be present in a gamete (sperm or egg) produced by this organism?",
+      "type": "OBJ",
+      "options": ["2.5 pg", "5 pg", "10 pg", "20 pg"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA Content Through Cell Cycle</h4>\n<p><strong>Answer: 5 pg</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Logic:</strong><br>\n1. <strong>G1 Phase (2n, 1x DNA):</strong> A normal somatic cell has a diploid (2n) genome. Let's call its DNA content 'C'. In G1, before replication, the cell has 2C DNA.<br>\n2. <strong>S Phase (Replication):</strong> DNA is replicated.<br>\n3. <strong>G2 Phase (2n, 2x DNA):</strong> The cell is still diploid (2n) but each chromosome now has two sister chromatids. The DNA content has doubled to 4C.<br>\n4. <strong>Given:</strong> G2 DNA = 10 pg = 4C. Therefore, 1C = 2.5 pg.<br>\n5. <strong>Gamete (Haploid, n, 1x DNA):</strong> A gamete has a haploid genome (1C).<br>\n6. <strong>Answer:</strong> 1C = 5 pg? No, wait. 4C = 10 pg, so C = 10/4 = 2.5 pg. A gamete has 1C = 2.5 pg? That is incorrect. A gamete has half the DNA of a G1 cell. A G1 cell (2C) would have 5 pg. A gamete (1C) has 2.5 pg. Let's re-evaluate: G2 has 10 pg (4C). A gamete (n) has 1C. 1C = 10/4 = 2.5 pg. Yes, the correct answer is 2.5 pg.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.5 pg"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Prokaryotes", "Microbiology", "Bacterial Structure"],
+    "Question": {
+      "content": "A scientist is trying to classify a new bacterium. She finds that it does not retain the crystal violet stain after alcohol wash but does retain the safranin counterstain. This indicates the bacterium has a cell wall that is:",
+      "type": "OBJ",
+      "options": ["Thick with many peptidoglycan layers (Gram-positive)", "Thin with an outer membrane containing lipopolysaccharide (LPS) (Gram-negative)", "Composed mainly of chitin (like fungi)", "Lacking peptidoglycan entirely (like Mycoplasma)"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gram Staining Mechanism</h4>\n<p><strong>Answer: Thin with an outer membrane containing lipopolysaccharide (LPS) (Gram-negative)</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Reasoning:</strong><br>\n1. <strong>Crystal Violet (Primary Stain):</strong> All bacteria initially turn purple.<br>\n2. <strong>Iodine (Mordant):</strong> Forms a large crystal violet-iodine (CV-I) complex that gets trapped.<br>\n3. <strong>Alcohol/Acetone (Decolorizer):</strong><br>\n   - <strong>Gram-positive:</strong> Thick peptidoglycan layer dehydrates and shrinks, trapping the CV-I complex. They remain purple.<br>\n   - <strong>Gram-negative:</strong> Thin peptidoglycan layer cannot retain the complex. The outer membrane's lipids are dissolved by the alcohol, and the CV-I complex washes out. They become colorless.<br>\n4. <strong>Safranin (Counterstain):</strong> Stains the decolorized Gram-negative cells pink/red.<br>\n5. The described result (does not retain crystal violet, stains red with safranin) is classic for <strong>Gram-negative</strong> bacteria.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thin with an outer membrane containing lipopolysaccharide (LPS) (Gram-negative)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Ecology", "Energy Flow", "Evolution"],
+    "Question": {
+      "content": "In a terrestrial ecosystem, the biomass of producers is typically much greater than the biomass of primary consumers (herbivores). This observation is a direct consequence of which law of thermodynamics?",
+      "type": "OBJ",
+      "options": ["The First Law (energy conservation)", "The Second Law (energy transformation increases entropy)", "The Zeroth Law (thermal equilibrium)", "The Third Law (absolute zero unattainability)"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Thermodynamics and Ecological Pyramids</h4>\n<p><strong>Answer: The Second Law (energy transformation increases entropy)</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Detailed Explanation:</strong><br>\n1. <strong>The Second Law of Thermodynamics:</strong> In any energy transfer or transformation, the total entropy (disorder) of an isolated system always increases. This means no energy transfer is 100% efficient; some energy is always lost as heat.<br>\n2. <strong>Application to Food Chains:</strong> When a primary consumer (herbivore) eats a producer (plant), the energy stored in the plant's biomass is used for the herbivore's metabolism, growth, and reproduction.<br>\n3. <strong>Inefficiency:</strong> A large portion (typically 90%) of this energy is 'lost' as heat through cellular respiration and is not converted into herbivore biomass. Only about 10% is converted.<br>\n4. <strong>Result:</strong> This 10% efficiency explains why there is less biomass at each higher trophic level. The First Law (conservation) is not violated; it simply accounts for the energy being converted to heat, which is less useful for building biomass.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Second Law (energy transformation increases entropy)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Cell Biology", "Organelles", "Cell Theory"],
+    "Question": {
+      "content": "If a cell's lysosomes were to rupture and release their contents into the cytoplasm, which of the following would most likely occur and why?",
+      "type": "OBJ",
+      "options": ["The cell would swell and burst due to osmotic pressure.", "The cell would undergo rapid autolysis (self-digestion).", "The cell would initiate a heat shock response.", "The cell would begin to divide uncontrollably."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lysosomal Function and Rupture</h4>\n<p><strong>Answer: The cell would undergo rapid autolysis (self-digestion).</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Reasoning:</strong><br>\n1. <strong>Lysosome Contents:</strong> Lysosomes are membrane-bound organelles that contain a powerful cocktail of hydrolytic enzymes (proteases, lipases, nucleases, etc.). These enzymes work optimally at an acidic pH (~4.5-5.0).<br>\n2. <strong>Compartmentalization:</strong> The lysosomal membrane keeps these destructive enzymes safely separated from the rest of the cell's components (cytoplasm at pH ~7.2).<br>\n3. <strong>Rupture:</strong> If the lysosome membrane is ruptured, the hydrolytic enzymes are released into the cytoplasm.<br>\n4. <strong>Autolysis:</strong> Although the cytoplasmic pH is not optimal, the sheer concentration and power of these enzymes would still cause them to rapidly break down proteins, carbohydrates, lipids, and nucleic acids, leading to the cell digesting itself from within. This is a key process in programmed cell death (apoptosis/necrosis).</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The cell would undergo rapid autolysis (self-digestion)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Genetics", "Evolution", "Cell Division"],
+    "Question": {
+      "content": "An organism has a diploid chromosome number of 2n = 12. How many chromatids would be present in a cell from this organism during metaphase I of meiosis?",
+      "type": "OBJ",
+      "options": ["12", "24", "48", "6"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chromosome vs. Chromatid Count in Meiosis</h4>\n<p><strong>Answer: 24</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Logic:</strong><br>\n1. <strong>Definition:</strong> 2n = 12 means there are 12 chromosomes total, arranged as 6 homologous pairs.<br>\n2. <strong>Before Meiosis (S Phase):</strong> DNA replication occurs in the parent cell. Each of the 12 chromosomes duplicates to form two identical sister chromatids.<br>\n3. <strong>Metaphase I:</strong> The homologous pairs (each pair consisting of 2 chromosomes, and each chromosome made of 2 sister chromatids) align at the metaphase plate.<br>\n4. <strong>Counting Chromatids:</strong> You start with 12 unreplicated chromosomes. After replication, there are 12 chromosomes, but each has 2 chromatids. Therefore, the total number of chromatids is 12 chromosomes × 2 chromatids/chromosome = <strong>24 chromatids</strong>.<br>\n5. <strong>Key Distinction:</strong> The chromosome number is still counted as 12 (they are just duplicated), but the chromatid number is 24.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "24"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Prokaryotes", "Microbiology", "Genetics"],
+    "Question": {
+      "content": "Which of the following is a key difference between the process of conjugation in bacteria and sexual reproduction in eukaryotes?",
+      "type": "OBJ",
+      "options": ["Conjugation only transfers plasmids, not genomic DNA.", "Conjugation does not involve the fusion of two cells to form a single zygote.", "Conjugation requires a bacteriophage vector.", "Conjugation results in genetically identical offspring."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bacterial Conjugation vs. Eukaryotic Sex</h4>\n<p><strong>Answer: Conjugation does not involve the fusion of two cells to form a single zygote.</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Detailed Comparison:</strong><br>\n• <strong>Eukaryotic Sexual Reproduction:</strong> Involves the fusion of two haploid gametes (e.g., sperm and egg) to form a diploid zygote. This results in a new, genetically unique organism with a complete genome from both parents.<br>\n• <strong>Bacterial Conjugation:</strong> A donor cell (F+) extends a pilus to a recipient cell (F-). A copy of a plasmid (often the F-plasmid, which can integrate into the chromosome) is transferred through a conjugation bridge. The two cells do not fuse; they remain separate individuals after transfer. The recipient cell gains new genes but is not a 'zygote' resulting from complete cell fusion.<br>\n• Conjugation can transfer chromosomal DNA (if the F-plasmid is integrated as an Hfr strain), but the fundamental process is DNA transfer without complete cell fusion and zygote formation.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conjugation does not involve the fusion of two cells to form a single zygote."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Biochemistry", "Biological Molecules", "Lipids"],
+    "Question": {
+      "content": "The fluidity of a cell membrane can be altered by changes in temperature and lipid composition. Which of the following changes would help a bacterium maintain optimal membrane fluidity as the environmental temperature drops from 37°C to 10°C?",
+      "type": "OBJ",
+      "options": ["Increase the proportion of saturated fatty acids in its phospholipids.", "Decrease the proportion of unsaturated fatty acids in its phospholipids.", "Increase the proportion of unsaturated fatty acids in its phospholipids.", "Increase the length of the fatty acid tails."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Homeoviscous Adaptation in Membranes</h4>\n<p><strong>Answer: Increase the proportion of unsaturated fatty acids in its phospholipids.</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Reasoning:</strong><br>\n1. <strong>Problem:</strong> As temperature decreases, phospholipid tails move less, and the membrane becomes too rigid. This can impair protein function and transport.<br>\n2. <strong>Solution (Homeoviscous Adaptation):</strong> Bacteria modify their membrane lipid composition to maintain constant fluidity.<br>\n3. <strong>Unsaturated vs. Saturated Fatty Acids:</strong><br>\n   - <strong>Saturated Tails:</strong> Straight chains that pack tightly together, increasing rigidity.<br>\n   - <strong>Unsaturated Tails:</strong> Contain double bonds that introduce 'kinks'. These kinks prevent tight packing, increasing fluidity.<br>\n4. <strong>Adaptation to Cold:</strong> To combat rigidity, the bacterium will increase the proportion of unsaturated fatty acids and/or decrease fatty acid chain length.<br>\n5. <strong>Result:</strong> The kinks in the unsaturated tails create more space, maintaining fluidity at the lower temperature.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increase the proportion of unsaturated fatty acids in its phospholipids."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Nucleus", "Genetics", "Cell Biology"],
+    "Question": {
+      "content": "The nuclear pore complex (NPC) is a large structure that regulates transport between the nucleus and cytoplasm. Which of the following molecules would be able to passively diffuse through the NPC without the need for a nuclear localization signal (NLS) or energy?",
+      "type": "OBJ",
+      "options": ["A large ribosomal subunit (2.5 MDa)", "A 200 kDa protein", "A 40 kDa protein", "mRNA transcript"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nuclear Pore Complex Permeability</h4>\n<p><strong>Answer: A 40 kDa protein</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Detailed Explanation:</strong><br>\n1. <strong>Structure of NPC:</strong> The nuclear pore complex has a central channel with a size-exclusion limit. Ions and small molecules can diffuse freely.<br>\n2. <strong>Passive Diffusion Limit:</strong> Small molecules and proteins up to approximately <strong>40 kDa</strong> can passively diffuse through the NPC. Above this size, passive diffusion becomes very inefficient.<br>\n3. <strong>Active Transport (Larger Molecules):</strong> Larger proteins (e.g., >40-60 kDa) require a Nuclear Localization Signal (NLS) and are actively transported via importins, which is an energy-dependent process (uses Ran-GTP).<br>\n4. <strong>Specific Examples:</strong><br>\n   - A 40 kDa protein is at the upper limit of passive diffusion.<br>\n   - A 200 kDa protein (like many polymerases) requires an NLS.<br>\n   - Ribosomal subunits and mRNA are very large and require active, facilitated export.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A 40 kDa protein"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Evolution", "Genetics", "Prokaryotes vs Eukaryotes"],
+    "Question": {
+      "content": "The endosymbiotic event that led to the evolution of mitochondria is estimated to have occurred approximately 1.5-2 billion years ago. What is the strongest evidence that the ancestral prokaryote was an alphaproteobacterium rather than any other group?",
+      "type": "OBJ",
+      "options": ["Mitochondria have a double membrane.", "Mitochondria divide by binary fission.", "Phylogenetic analysis of mitochondrial DNA (rRNA genes) shows a clear and consistent grouping with alphaproteobacteria.", "Mitochondria are similar in size to bacteria."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Mitochondrial Ancestor</h4>\n<p><strong>Answer: Phylogenetic analysis of mitochondrial DNA (rRNA genes) shows a clear and consistent grouping with alphaproteobacteria.</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Evaluating the Evidence:</strong><br>\n1. <strong>All options are supporting evidence</strong> for the endosymbiotic theory in general. However, the question asks for the strongest evidence identifying the specific group (alphaproteobacteria).<br>\n2. <strong>Phylogenetic Analysis (Molecular Clock):</strong> By sequencing the ribosomal RNA (rRNA) genes from mitochondrial DNA and comparing them to the rRNA genes of diverse extant bacteria, we can construct an evolutionary tree. This molecular phylogenetic analysis consistently and robustly places mitochondrial DNA within the clade of <strong>alphaproteobacteria</strong>, with the order Rickettsiales as the closest living relatives.<br>\n3. <strong>Other Evidence:</strong> Double membranes, binary fission, and size are characteristics shared with many bacteria and support a prokaryotic origin but do not pinpoint the specific alphaproteobacterial lineage. The genetic sequence data provides the precise evolutionary relationship.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phylogenetic analysis of mitochondrial DNA (rRNA genes) shows a clear and consistent grouping with alphaproteobacteria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Cell Biology", "Transport Mechanisms", "Energy"],
+    "Question": {
+      "content": "Ouabain is a toxin that specifically inhibits the Na+/K+ ATPase (sodium-potassium pump). What would be the most immediate and direct effect of ouabain on a neuron at rest?",
+      "type": "OBJ",
+      "options": ["The neuron would immediately fire an action potential.", "The resting membrane potential would become more negative (hyperpolarized).", "The intracellular Na+ concentration would gradually increase, and the K+ concentration would gradually decrease.", "The neuron would lose its ability to perform facilitated diffusion."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Effect of Inhibiting Na+/K+ ATPase</h4>\n<p><strong>Answer: The intracellular Na+ concentration would gradually increase, and the K+ concentration would gradually decrease.</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Reasoning:</strong><br>\n1. <strong>Normal Function of Na+/K+ ATPase:</strong> The pump actively transports 3 Na+ out of the cell and 2 K+ into the cell against their concentration gradients, using ATP. This maintains the low intracellular Na+ and high intracellular K+.<br>\n2. <strong>Effect of Ouabain:</strong> By inhibiting the pump, active transport of Na+ and K+ stops.<br>\n3. <strong>Immediate Direct Result:</strong> The cell loses its ability to counteract the passive 'leak' of ions. Na+ will slowly leak back into the cell down its concentration gradient, and K+ will slowly leak out.<br>\n4. <strong>Consequences:</strong><br>\n   - [Na+]in gradually increases.<br>\n   - [K+]in gradually decreases.<br>\n   - The resting membrane potential (driven primarily by the K+ gradient) will slowly become less negative (depolarize) as the K+ gradient dissipates.<br>\n   - This is a relatively slow process because the pump is not directly involved in generating the immediate potential (ion leak channels are).</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The intracellular Na+ concentration would gradually increase, and the K+ concentration would gradually decrease."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Genetics", "Biological Molecules", "Nucleus"],
+    "Question": {
+      "content": "During DNA replication, which of the following statements correctly describes the role and directionality of DNA polymerase III in E. coli?",
+      "type": "OBJ",
+      "options": ["It synthesizes new DNA in the 3' → 5' direction on both the leading and lagging strands.", "It synthesizes new DNA in the 5' → 3' direction, requiring an RNA primer with a free 3'-OH group.", "It can initiate DNA synthesis de novo without a primer on the leading strand only.", "It synthesizes the lagging strand continuously in the 5' → 3' direction."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA Polymerase III Function</h4>\n<p><strong>Answer: It synthesizes new DNA in the 5' → 3' direction, requiring an RNA primer with a free 3'-OH group.</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Key Properties of DNA Polymerases:</strong><br>\n1. <strong>Directionality:</strong> All known DNA polymerases can only add new deoxyribonucleotides to the 3'-hydroxyl (3'-OH) end of a growing strand. Therefore, synthesis always proceeds in the <strong>5' → 3'</strong> direction.<br>\n2. <strong>Primer Requirement:</strong> DNA polymerase cannot start a new strand from scratch. It requires an existing 3'-OH group to attach the first nucleotide. This is provided by a short RNA primer synthesized by primase.<br>\n3. <strong>Leading and Lagging Strands:</strong><br>\n   - <strong>Leading Strand:</strong> Synthesized continuously in the 5' → 3' direction, towards the replication fork.<br>\n   - <strong>Lagging Strand:</strong> Synthesized discontinuously as Okazaki fragments, also in the 5' → 3' direction, but overall away from the replication fork. Each fragment requires its own RNA primer.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It synthesizes new DNA in the 5' → 3' direction, requiring an RNA primer with a free 3'-OH group."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Ecology", "Energy Flow", "Taxonomy"],
+    "Question": {
+      "content": "In an ecological pyramid of numbers for a forest ecosystem, you would typically find a large number of trees (producers) supporting a smaller number of herbivorous insects. However, in some parasitic food chains, a single tree (producer) may support hundreds of parasitic insects. This phenomenon is a direct challenge to the shape of which type of ecological pyramid?",
+      "type": "OBJ",
+      "options": ["Pyramid of energy", "Pyramid of biomass (dry weight)", "Pyramid of numbers", "All three types of pyramids"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Exceptions to Ecological Pyramids</h4>\n<p><strong>Answer: Pyramid of numbers</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Detailed Analysis:</strong><br>\n1. <strong>Pyramid of Numbers:</strong> This shows the number of individual organisms at each trophic level. The classic 'upright' shape expects many producers, fewer primary consumers, etc.<br>\n2. <strong>The Parasitic Exception:</strong> A single tree (one producer) can be host to thousands of parasitic insects (primary consumers). This results in an <strong>inverted pyramid of numbers</strong> (few producers, many consumers).<br>\n3. <strong>Pyramid of Biomass:</strong> Typically upright in terrestrial ecosystems (the total dry weight of the tree is far greater than the total weight of the insects on it). This remains upright even in the parasitic example.<br>\n4. <strong>Pyramid of Energy:</strong> This is <strong>always</strong> upright, as energy is lost as heat at each transfer (Second Law of Thermodynamics). The total energy flow from the tree to the insects is always less than the energy stored in the tree.<br>\n5. Therefore, the phenomenon directly challenges the shape of the pyramid of numbers, not the others.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pyramid of numbers"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Biological Molecules", "Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Cellulose and starch are both polymers of glucose, yet they have very different functions (structural vs. energy storage). What is the fundamental structural difference at the monomer linkage level that accounts for this functional divergence?",
+      "type": "OBJ",
+      "options": ["Starch uses β-1,4 glycosidic linkages; cellulose uses α-1,4 linkages.", "Starch uses α-1,4 and α-1,6 linkages; cellulose uses β-1,4 linkages.", "Starch is a linear polymer; cellulose is highly branched.", "Starch contains fructose; cellulose contains only glucose."]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Glycosidic Bond Configurations</h4>\n<p><strong>Answer: Starch uses α-1,4 and α-1,6 linkages; cellulose uses β-1,4 linkages.</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Structural Difference:</strong><br>\n1. <strong>Glucose Isomers:</strong> Glucose can exist in two anomeric forms: α-glucose and β-glucose. The -OH group on carbon 1 is 'down' in α and 'up' in β.<br>\n2. <strong>Starch (Energy Storage):</strong><br>\n   - Made of <strong>α-glucose</strong> monomers.<br>\n   - Primary linkage: <strong>α-1,4 glycosidic bonds</strong> (creating helical chains like amylose).<br>\n   - Branching: <strong>α-1,6 glycosidic bonds</strong> (creating amylopectin, a branched polymer).<br>\n   - The helical shape allows for compact storage and easy enzyme access (amylase can break α bonds).<br>\n3. <strong>Cellulose (Structural):</strong><br>\n   - Made of <strong>β-glucose</strong> monomers.<br>\n   - Linkage: <strong>β-1,4 glycosidic bonds</strong>.<br>\n   - This causes each glucose unit to be flipped 180° relative to its neighbor, creating long, straight, rigid chains.<br>\n   - These chains form strong hydrogen-bonded microfibrils that are indigestible by most animals (lack cellulase).</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Starch uses α-1,4 and α-1,6 linkages; cellulose uses β-1,4 linkages."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Prokaryotes", "Bacterial Structure", "Cell Biology"],
+    "Question": {
+      "content": "The Gram-negative bacterial cell wall is more complex than the Gram-positive wall. Which of the following components of the Gram-negative cell wall is directly responsible for the characteristic endotoxin (septic shock) reaction in a human host?",
+      "type": "OBJ",
+      "options": ["Peptidoglycan layer", "Teichoic acid", "Lipopolysaccharide (LPS) in the outer membrane", "Periplasmic space"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Source of Endotoxin</h4>\n<p><strong>Answer: Lipopolysaccharide (LPS) in the outer membrane</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Detailed Explanation:</strong><br>\n1. <strong>Lipopolysaccharide (LPS) Structure:</strong> LPS is a large molecule embedded in the outer leaflet of the Gram-negative outer membrane. It consists of:<br>\n   - <strong>Lipid A</strong> (the hydrophobic anchor).<br>\n   - A core polysaccharide.<br>\n   - An O-antigen (variable polysaccharide chain).<br>\n2. <strong>Endotoxin Activity (Lipid A):</strong> The <strong>Lipid A</strong> portion of LPS is the endotoxin. When Gram-negative bacteria lyse (e.g., by antibiotics or the immune system), Lipid A is released into the bloodstream.<br>\n3. <strong>Host Reaction:</strong> Lipid A triggers a massive, over-exuberant immune response. It binds to Toll-like receptor 4 (TLR4) on immune cells, causing the release of pro-inflammatory cytokines (e.g., TNF-α, IL-1). This can lead to fever, vasodilation, hypotension (septic shock), and disseminated intravascular coagulation (DIC).<br>\n4. <strong>Key Point:</strong> Gram-positive bacteria lack LPS and therefore do not cause a classic 'endotoxic' shock (though they can cause 'exotoxic' shock via secreted toxins).</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lipopolysaccharide (LPS) in the outer membrane"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Genetics", "Cell Division", "Nucleus"],
+    "Question": {
+      "content": "In an animal cell, cytokinesis (division of the cytoplasm) occurs via the formation of a cleavage furrow. This furrow is created by the constriction of a contractile ring. What is the primary protein component of this contractile ring?",
+      "type": "OBJ",
+      "options": ["Microtubules", "Actin and Myosin II", "Septins", "Keratin intermediate filaments"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Molecular Mechanism of Cytokinesis</h4>\n<p><strong>Answer: Actin and Myosin II</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step:</strong><br>\n1. <strong>The Contractile Ring:</strong> During late anaphase/telophase, a structure called the contractile ring forms just beneath the plasma membrane at the cell's equator.<br>\n2. <strong>Components:</strong> The ring is primarily composed of:<br>\n   - <strong>Actin filaments (F-actin):</strong> Provide the structural framework.<br>\n   - <strong>Myosin II motors:</strong> These motor proteins interact with the actin filaments.<br>\n3. <strong>Mechanism of Constriction:</strong> The myosin II molecules 'walk' along the actin filaments, pulling them together and causing the ring to tighten. This is analogous to how a purse string closes.<br>\n4. <strong>Result:</strong> The constriction creates a cleavage furrow that deepens until the cell is pinched into two daughter cells.<br>\n5. Microtubules (option A) are crucial for forming the mitotic spindle but not the contractile ring.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Actin and Myosin II"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Evolution", "Genetics", "History of Biology"],
+    "Question": {
+      "content": "The 'Modern Synthesis' (Neo-Darwinism) of the early 20th century reconciled Darwin's theory of natural selection with which other major scientific concept?",
+      "type": "OBJ",
+      "options": ["Lamarck's inheritance of acquired characteristics", "Mendelian genetics (particulate inheritance)", "Cuvier's theory of catastrophism", "The endosymbiotic theory"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Modern Synthesis</h4>\n<p><strong>Answer: Mendelian genetics (particulate inheritance)</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Historical Reconciliation:</strong><br>\n1. <strong>The Problem:</strong> Darwin did not know the mechanism of heredity. He believed in 'pangenesis' (blending inheritance), which was problematic because it would dilute new advantageous traits.<br>\n2. <strong>Mendel's Contribution (rediscovered 1900):</strong> Mendel's work showed that traits are inherited as discrete, unblending 'factors' (genes).<br>\n3. <strong>The Synthesis (1930s-1940s):</strong> Scientists like R.A. Fisher, J.B.S. Haldane, Sewall Wright, and Theodosius Dobzhansky integrated Mendelian genetics with Darwinian natural selection. They showed that:<br>\n   - Variation arises from random mutations in genes (discrete particles).<br>\n   - Natural selection acts on this variation in populations.<br>\n   - Evolution is a change in the frequency of alleles (gene variants) in a population over time.<br>\n4. This unified framework is called the 'Modern Synthesis' or 'Neo-Darwinism'.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mendelian genetics (particulate inheritance)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Cell Biology", "Organelles", "Prokaryotes vs Eukaryotes"],
+    "Question": {
+      "content": "Which of the following cellular structures or processes is present in both a photosynthetic bacterium (e.g., cyanobacterium) and a chloroplast from a plant cell?",
+      "type": "OBJ",
+      "options": ["A nucleus containing DNA", "Thylakoid membranes containing chlorophyll", "Mitochondria for ATP synthesis", "A cell wall composed of cellulose"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cyanobacteria vs. Chloroplasts</h4>\n<p><strong>Answer: Thylakoid membranes containing chlorophyll</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Reasoning Based on Endosymbiosis:</strong><br>\n1. <strong>Endosymbiotic Origin:</strong> The endosymbiotic theory states that chloroplasts evolved from a photosynthetic cyanobacterium-like prokaryote that was engulfed by a host cell.<br>\n2. <strong>Common Feature:</strong> Therefore, a cyanobacterium and a chloroplast share many core features of photosynthesis:<br>\n   - <strong>Thylakoid membranes:</strong> Both contain internal membrane systems called thylakoids where the light-dependent reactions occur.<br>\n   - <strong>Chlorophyll:</strong> Both contain chlorophyll a and accessory pigments.<br>\n   - <strong>Electron Transport Chains:</strong> Both use similar ETC components for chemiosmosis.<br>\n3. <strong>What is Different:</strong><br>\n   - A cyanobacterium is a whole prokaryotic cell (no nucleus, single cell wall of peptidoglycan).<br>\n   - A chloroplast is an organelle within a plant cell (has lost much of its independent genome, surrounded by two membranes, no cell wall of its own).</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thylakoid membranes containing chlorophyll"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Biochemistry", "Chemical Bonding", "Biological Molecules"],
+    "Question": {
+      "content": "The alpha-helix and beta-pleated sheet are examples of a protein's secondary structure. These structures are stabilized primarily by what type of chemical interaction?",
+      "type": "OBJ",
+      "options": ["Covalent peptide bonds between amino acids", "Hydrophobic interactions between nonpolar side chains", "Hydrogen bonds between the backbone amide (-NH) and carbonyl (-C=O) groups", "Disulfide bridges between cysteine residues"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stabilizing Secondary Structure</h4>\n<p><strong>Answer: Hydrogen bonds between the backbone amide (-NH) and carbonyl (-C=O) groups</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Detailed Explanation:</strong><br>\n1. <strong>Levels of Protein Structure:</strong><br>\n   - <strong>Primary:</strong> The linear sequence of amino acids, held by <strong>covalent peptide bonds</strong>.<br>\n   - <strong>Secondary:</strong> Local folding patterns (α-helix, β-sheet) stabilized by <strong>hydrogen bonds</strong>.<br>\n   - <strong>Tertiary:</strong> 3D folding of a single polypeptide, stabilized by hydrophobic interactions, H-bonds, ionic bonds, and disulfide bridges.<br>\n   - <strong>Quaternary:</strong> Assembly of multiple subunits.<br>\n2. <strong>Hydrogen Bonds in Secondary Structure:</strong><br>\n   - These bonds do not involve the amino acid side chains (R-groups).<br>\n   - They occur between the backbone -NH group (hydrogen donor) of one amino acid and the backbone -C=O group (hydrogen acceptor) of another amino acid a few residues away.<br>\n   - In an α-helix, the H-bond is between residue 'i' and residue 'i+4'.<br>\n   - In a β-sheet, the H-bonds are between adjacent strands.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydrogen bonds between the backbone amide (-NH) and carbonyl (-C=O) groups"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Cell Biology", "Transport Mechanisms", "Energy"],
+    "Question": {
+      "content": "Cystic fibrosis is caused by a mutation in the CFTR gene, which encodes a chloride ion channel. This channel is an example of which type of membrane transport?",
+      "type": "OBJ",
+      "options": ["Primary active transport", "Secondary active transport", "Facilitated diffusion (passive transport)", "Simple diffusion"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>CFTR and Transport Classification</h4>\n<p><strong>Answer: Facilitated diffusion (passive transport)</strong></p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Step-by-Step Classification:</strong><br>\n1. <strong>Simple Diffusion:</strong> Small nonpolar molecules (O2, CO2) move directly through the lipid bilayer. Ions like Cl- are charged and cannot do this efficiently.<br>\n2. <strong>Facilitated Diffusion (Passive):</strong> A protein channel or carrier allows a molecule to move <strong>down its concentration gradient</strong> (from high to low concentration). No energy (ATP) is required.<br>\n3. <strong>Active Transport:</strong> Requires energy (ATP or a coupled gradient) to move a molecule <strong>against its concentration gradient</strong>.<br>\n4. <strong>CFTR Channel Function:</strong> The CFTR protein is a chloride <strong>ion channel</strong>. Under normal conditions, it allows Cl- ions to flow out of epithelial cells passively, following their electrochemical gradient (high inside the cell, low outside).<br>\n5. <strong>Conclusion:</strong> Because it is a channel facilitating passive flow down an existing gradient, it is classified as <strong>facilitated diffusion</strong>, even though the CFTR channel is unique because it is gated (regulated) by ATP binding, but the ATP is not used to pump the ion against its gradient; it's used to open the channel.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Facilitated diffusion (passive transport)"
+    }
+  }
+]
