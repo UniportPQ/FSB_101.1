@@ -1,0 +1,586 @@
+[
+{
+   "type": "pageInfo",
+   "kind": "OBJ",
+   "course_title": "General Biology I",
+   "code": "FSB 101.1",
+   "session": "Easy",
+   "topics":   [
+  "Cell Biology",
+  "Biological Molecules",
+  "Chemical Thermodynamics",
+  "Genetics",
+  "Nutrition",
+  "Transport Mechanisms",
+  "Taxonomy",
+  "Microbiology",
+  "Virology",
+  "Cell Theory",
+  "Prokaryotes vs Eukaryotes",
+  "Prokaryotes",
+  "Bacterial Structure",
+  "Organelles",
+  "Respiration",
+  "Protein Synthesis",
+  "Cell Division",
+  "Nucleus",
+  "Thermodynamics",
+  "Energy",
+  "Biochemistry",
+  "Redox Reactions",
+  "Ecology",
+  "Energy Flow",
+  "Bioenergetics",
+  "Enzymology",
+  "Chemical Bonding",
+  "Evolution"
+],
+
+   "time": "30"
+ }  ,
+    {
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+ },
+
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Biological Molecules", "Biochemistry", "Chemical Reactions"],
+    "Question": {
+      "content": "What is the reverse of dehydration reaction called?",
+      "type": "OBJ",
+      "options": ["polymerization", "condensation", "decarboxylation", "hydrolysis"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Dehydration vs. Hydrolysis</h4>\n<p><strong>Hydrolysis</strong> is the correct answer.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\nDehydration reaction <strong>removes water</strong> to join molecules. Hydrolysis <strong>adds water</strong> to break them apart — it's the exact reverse.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Analogy</strong><br>\nDehydration = gluing two pieces of wood together (water comes out). Hydrolysis = using water to dissolve the glue and separate them.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "hydrolysis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Biological Molecules", "Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Which of the following is NOT an example of a disaccharide?",
+      "type": "OBJ",
+      "options": ["sucrose", "maltose", "galactose", "lactose"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Sugars</h4>\n<p><strong>Galactose</strong> is the correct answer because it is NOT a disaccharide.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Quick Breakdown</strong><br>\n• <strong>Disaccharides</strong> = two sugar units linked (sucrose, maltose, lactose)<br>\n• <strong>Monosaccharides</strong> = single sugar units (glucose, fructose, <strong style='color: var(--strongColor);'>galactose</strong>)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "galactose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Biochemistry", "Cell Biology", "Metabolism", "Energy"],
+    "Question": {
+      "content": "What is the breakdown of glucose in the cytoplasm of the cell called?",
+      "type": "OBJ",
+      "options": ["glucolysis", "gluconeogenesis", "glycolysis", "catabolism"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Glucose Breakdown</h4>\n<p><strong>Glycolysis</strong> is the correct answer.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Memory Trick</strong><br>\n• <strong>Glyco</strong> = sugar/glucose<br>\n• <strong>Lysis</strong> = to break down<br>\nGlycolysis = breaking down glucose in the cytoplasm (doesn't need oxygen).\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "glycolysis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Biological Molecules", "Biochemistry", "Proteins"],
+    "Question": {
+      "content": "What are the building blocks of proteins?",
+      "type": "OBJ",
+      "options": ["peptides", "amino acids", "nucleic acid", "glycosidic acid"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protein Building Blocks</h4>\n<p><strong>Amino acids</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Simple Analogy</strong><br>\nAmino acids are like <strong>letters of the alphabet</strong>. Just as letters combine to form words (proteins), amino acids link together to make all the proteins in your body.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "amino acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Biological Molecules", "Biochemistry", "Proteins"],
+    "Question": {
+      "content": "How many amino acids are involved in the construction of proteins in the human body?",
+      "type": "OBJ",
+      "options": ["20", "15", "10", "5"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Number of Amino Acids</h4>\n<p><strong>20</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Key Point</strong><br>\nThere are <strong>20 standard amino acids</strong> that the human body uses to build all its proteins. They combine in different sequences to create thousands of unique proteins.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "20"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Biological Molecules", "Biochemistry", "Proteins", "Nutrition"],
+    "Question": {
+      "content": "What are amino acids that cannot be synthesized by the human body called?",
+      "type": "OBJ",
+      "options": ["non-essential amino acids", "essential amino acids", "micro amino acids", "macro amino acids"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Essential vs. Non-Essential</h4>\n<p><strong>Essential amino acids</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Simple Rule</strong><br>\n• <strong>Essential</strong> = must come from food (body can't make them)<br>\n• <strong>Non-essential</strong> = body can produce them on its own\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "essential amino acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Cell Biology", "Biological Molecules", "Proteins"],
+    "Question": {
+      "content": "Which molecules are the major components of the dry weight of cells?",
+      "type": "OBJ",
+      "options": ["proteins", "lipids", "carbohydrate", "nucleic acid"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Major Cell Component</h4>\n<p><strong>Proteins</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Fact</strong><br>\nProteins make up about <strong>50% or more</strong> of the dry weight of most cells. They are the workhorses that perform most cellular functions.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "proteins"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["History of Biology", "Biological Molecules", "Proteins"],
+    "Question": {
+      "content": "Who first suggested the name 'proteins'?",
+      "type": "OBJ",
+      "options": ["Dalton", "Chadwick", "Berzelius", "Mendel"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Origin of the Word 'Protein'</h4>\n<p><strong>Berzelius</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>History Note</strong><br>\nJöns Jacob Berzelius, a Swedish chemist, suggested the name 'protein' in 1838. It comes from the Greek word 'proteios', meaning 'of first importance' or 'primary'.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Berzelius"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Cell Biology", "Biological Molecules", "Proteins"],
+    "Question": {
+      "content": "What are the most abundant intracellular macromolecules?",
+      "type": "OBJ",
+      "options": ["carbohydrates", "proteins", "lipids", "nucleic acids"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Most Abundant Macromolecules</h4>\n<p><strong>Proteins</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Why?</strong><br>\nProteins are everywhere inside cells — they act as enzymes, structural components, transporters, and signaling molecules. No other macromolecule is as versatile or abundant inside the cell.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "proteins"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Biological Molecules", "Biochemistry", "Proteins"],
+    "Question": {
+      "content": "Which of the following is NOT an example of a globular protein?",
+      "type": "OBJ",
+      "options": ["keratin", "albumin", "globulin", "insulin"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Globular vs. Fibrous Proteins</h4>\n<p><strong>Keratin</strong> is the correct answer because it is NOT globular.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Quick Comparison</strong><br>\n• <strong>Globular proteins</strong> = round, compact, water-soluble (albumin, globulin, insulin)<br>\n• <strong>Fibrous proteins</strong> = long, thread-like, structural (keratin, collagen)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "keratin"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["History of Biology", "Genetics", "Nucleus"],
+    "Question": {
+      "content": "Who introduced the term 'nucleic acid'?",
+      "type": "OBJ",
+      "options": ["Friedrich Miescher", "Richard Altmann", "Oscar Hertwig", "Watson and Crick"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Who Named Nucleic Acids?</h4>\n<p><strong>Richard Altmann</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>History Note</strong><br>\nFriedrich Miescher first isolated 'nuclein' in 1869. Later, in 1889, <strong>Richard Altmann</strong> coined the term 'nucleic acid' for these phosphate-rich substances from the nucleus.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Richard Altmann"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Genetics", "Biological Molecules", "Nucleus"],
+    "Question": {
+      "content": "What are the monomeric units of nucleic acids?",
+      "type": "OBJ",
+      "options": ["nucleosides", "phosphotides", "nucleotides", "fatty acids and glycerol"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building Blocks of Nucleic Acids</h4>\n<p><strong>Nucleotides</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Structure of a Nucleotide</strong><br>\nEach nucleotide has three parts: a <strong>sugar</strong> + a <strong>phosphate group</strong> + a <strong>nitrogenous base</strong>. Nucleotides link together to form DNA and RNA.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "nucleotides"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Biological Molecules", "Biochemistry", "Lipids"],
+    "Question": {
+      "content": "What is the process whereby a lipid mass is converted into small lipid droplets called?",
+      "type": "OBJ",
+      "options": ["hydrogenation", "saponification", "emulsification", "polymerization"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Breaking Down Fat Mass</h4>\n<p><strong>Emulsification</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Everyday Example</strong><br>\nEmulsification is like adding dish soap to greasy water — it breaks large fat droplets into many tiny ones. Your body does this with <strong>bile salts</strong> to help digest fats.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "emulsification"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Biological Molecules", "Lipids", "Neurobiology"],
+    "Question": {
+      "content": "Which of the following makes up to 70% of the dry weight of the nervous system?",
+      "type": "OBJ",
+      "options": ["lipids", "protein", "nucleic acid", "carbohydrates"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nervous System Composition</h4>\n<p><strong>Lipids</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Why So Much Fat?</strong><br>\nThe <strong>myelin sheath</strong> that insulates nerve fibers is made mostly of lipids. This fatty insulation allows nerve signals to travel quickly.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "lipids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Biological Molecules", "Proteins", "Cell Biology"],
+    "Question": {
+      "content": "What is the protein in the epidermis that thickens and protects the skin?",
+      "type": "OBJ",
+      "options": ["collagen", "fibrinogen", "keratin", "myosin"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Skin Protection Protein</h4>\n<p><strong>Keratin</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Where You Find Keratin</strong><br>\nKeratin is found in skin, hair, and nails. It's a <strong>fibrous protein</strong> that provides strength, waterproofing, and protection to the outer layer of skin (epidermis).\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "keratin"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Biological Molecules", "Biochemistry", "Lipids"],
+    "Question": {
+      "content": "What is the hydrolysis of fats by alkali known as?",
+      "type": "OBJ",
+      "options": ["hydrogenation", "esterification", "emulsification", "saponification"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fat + Alkali Reaction</h4>\n<p><strong>Saponification</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Real-World Connection</strong><br>\nSaponification is how <strong>soap is made</strong>! When fats/oils react with a strong alkali (like lye), they break down into glycerol and soap molecules.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "saponification"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Cell Biology", "Lipids", "Membrane Biology"],
+    "Question": {
+      "content": "What maintains the fluidity of the plasma membrane?",
+      "type": "OBJ",
+      "options": ["cholesterol", "linoleic acid", "linolenic acid", "phospholipid"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Membrane Fluidity Regulator</h4>\n<p><strong>Cholesterol</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>How Cholesterol Works</strong><br>\nCholesterol acts like a <strong>buffer</strong> — it prevents the membrane from becoming too rigid when cold and too fluid when hot. It keeps the membrane 'just right' for proper function.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "cholesterol"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Biological Molecules", "Biochemistry", "Proteins"],
+    "Question": {
+      "content": "What is the non-amino acid group of a conjugated protein called?",
+      "type": "OBJ",
+      "options": ["co-enzyme", "prosthetic group", "apoenzyme", "co-factor"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Parts of a Conjugated Protein</h4>\n<p><strong>Prosthetic group</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Structure</strong><br>\nA conjugated protein = <strong>apoprotein (protein part)</strong> + <strong>prosthetic group (non-amino acid part)</strong>. Example: Hemoglobin has heme (prosthetic group) attached to globin (protein).\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "prosthetic group"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Genetics", "Nucleus", "Chemical Bonding"],
+    "Question": {
+      "content": "How are the two strands in the double helix of a DNA bonded to each other?",
+      "type": "OBJ",
+      "options": ["disulphide bridges", "hydrogen bonds", "Vander waals forces", "metallic bonds"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA Strand Bonding</h4>\n<p><strong>Hydrogen bonds</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Base Pairing Rules</strong><br>\n• A (adenine) pairs with T (thymine) — <strong>2 hydrogen bonds</strong><br>\n• G (guanine) pairs with C (cytosine) — <strong>3 hydrogen bonds</strong><br>\nThese weak bonds allow DNA to unzip for replication.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "hydrogen bonds"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Biological Molecules", "Lipids", "Nutrition"],
+    "Question": {
+      "content": "Which of the following are examples of essential fatty acids?",
+      "type": "OBJ",
+      "options": ["linoleic and linolenic acid", "palmitic and stearic acid", "palmitic and arachidic acid", "oleic and citric acid"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Essential Fatty Acids</h4>\n<p><strong>Linoleic and linolenic acid</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Why 'Essential'?</strong><br>\nYour body cannot make linoleic acid (Omega-6) or linolenic acid (Omega-3). You must get them from foods like fish, nuts, and seeds.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "linoleic and linolenic acid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["History of Biology", "Genetics", "Nucleus"],
+    "Question": {
+      "content": "Which scientist isolated 'Nuclein' from phosphate-rich pus cells?",
+      "type": "OBJ",
+      "options": ["Richard Altmann", "Theodre Boveri", "Friedrich Miescher", "Watson and Crick"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Discovery of Nuclein</h4>\n<p><strong>Friedrich Miescher</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Historical Fact</strong><br>\nIn 1869, Friedrich Miescher collected pus from bandages and isolated a substance rich in phosphate from the nuclei. He called it <strong>'nuclein'</strong> — what we now know as DNA.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Friedrich Miescher"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Genetics", "Chemical Bonding", "Nucleus"],
+    "Question": {
+      "content": "Which bonds are present between the sugar and phosphate groups of a DNA?",
+      "type": "OBJ",
+      "options": ["peptide bonds", "ester bonds", "glycosidic bonds", "disulphide bridge"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DNA Backbone Bonds</h4>\n<p><strong>Ester bonds</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Structure of DNA Backbone</strong><br>\nThe sugar and phosphate groups connect through <strong>phosphodiester bonds</strong> — a type of ester bond. This forms the 'sugar-phosphate backbone' of DNA.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ester bonds"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["History of Biology", "Genetics", "Evolution"],
+    "Question": {
+      "content": "Who wrote that 'nuclein' is responsible for the transmission of hereditary characters?",
+      "type": "OBJ",
+      "options": ["Oscar Hertwig", "Richard Altmann", "Friedrich Miescher", "Watson and Crick"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Linking Nuclein to Heredity</h4>\n<p><strong>Oscar Hertwig</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Key Contribution</strong><br>\nIn 1884, Oscar Hertwig proposed that nuclein (DNA) was the substance responsible for passing hereditary traits from parents to offspring — years before DNA's structure was discovered.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oscar Hertwig"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Genetics", "Evolution", "Cell Biology"],
+    "Question": {
+      "content": "What are the carriers of the basic units of heredity known as?",
+      "type": "OBJ",
+      "options": ["codons", "genes", "plasmids", "chromosomes"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Heredity Carriers</h4>\n<p><strong>Genes</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>The Hierarchy</strong><br>\n• <strong>Genes</strong> = basic units of heredity (specific DNA sequences)<br>\n• Genes are located on <strong>chromosomes</strong><br>\n• <strong>Codons</strong> = three-base sequences that code for amino acids\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "genes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Genetics", "Chemical Bonding", "Nucleus"],
+    "Question": {
+      "content": "What are the bonds that link nucleotides together called?",
+      "type": "OBJ",
+      "options": ["glycosidic", "phosphodiester", "peptide", "ester"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nucleotide Linkage</h4>\n<p><strong>Phosphodiester</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Bond Specifics</strong><br>\nA <strong>phosphodiester bond</strong> forms between the 3' carbon of one sugar and the 5' carbon of the next sugar, linking nucleotides into a chain. This is the backbone of DNA and RNA.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "phosphodiester"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Microbiology", "Cell Division", "Prokaryotes", "Fungi"],
+    "Question": {
+      "content": "How does yeast reproduce asexually?",
+      "type": "OBJ",
+      "options": ["conjugation", "binary fission", "budding", "fragmentation", "regeneration"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Yeast Asexual Reproduction</h4>\n<p><strong>Budding</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>How Budding Works</strong><br>\nA small 'bud' forms on the parent yeast cell, grows, and eventually pinches off to become a new, smaller cell. This is how bread yeast multiplies.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "budding"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Prokaryotes", "Bacterial Structure", "Cell Biology"],
+    "Question": {
+      "content": "What structural polysaccharide composes the cell wall of bacteria?",
+      "type": "OBJ",
+      "options": ["chitin", "peptidoglycan", "tunic", "pectin"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bacterial Cell Wall</h4>\n<p><strong>Peptidoglycan</strong> is the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>Unique to Bacteria</strong><br>\nPeptidoglycan is a polymer of sugars and amino acids. It gives bacteria their shape and protects them from bursting. Antibiotics like penicillin target peptidoglycan synthesis.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "peptidoglycan"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Prokaryotes", "Microbiology", "Genetics"],
+    "Question": {
+      "content": "Which of the following is NOT a form of sexual reproduction in bacteria?",
+      "type": "OBJ",
+      "options": ["endospore formation", "conjugation", "transduction", "transformation"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bacterial Genetic Exchange</h4>\n<p><strong>Endospore formation</strong> is the correct answer — it is NOT a form of sexual reproduction.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Sexual Processes in Bacteria</strong><br>\n• <strong>Conjugation</strong> = direct cell-to-cell DNA transfer<br>\n• <strong>Transduction</strong> = DNA transfer via viruses<br>\n• <strong>Transformation</strong> = taking up DNA from environment\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Endospore formation</strong> is a survival mechanism, not reproduction.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "endospore formation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Prokaryotes", "Microbiology", "Plant Kingdom"],
+    "Question": {
+      "content": "What thick cells do Cyanobacteria form to reproduce asexually?",
+      "type": "OBJ",
+      "options": ["akinetes", "zoospore", "endospores", "gemmules"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cyanobacteria Survival Cells</h4>\n<p><strong>Akinetes</strong> are the correct answer.</p>\n<div>\n<strong style='color: var(--strongColor);'>What are Akinetes?</strong><br>\nAkinetes are thick-walled dormant cells that cyanobacteria form to survive harsh conditions. They germinate into new filaments when conditions improve.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "akinetes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Microbiology", "Plant Kingdom", "Cell Division", "Prokaryotes"],
+    "Question": {
+      "content": "In which of the following is sexual reproduction absent?",
+      "type": "OBJ",
+      "options": ["Volvox", "Nostoc", "Aspergillus", "Ulothrix"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Organisms Without Sexual Reproduction</h4>\n<p><strong>Nostoc</strong> is the correct answer.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Quick Breakdown</strong><br>\n• <strong>Nostoc</strong> (cyanobacterium) — only asexual reproduction<br>\n• <strong>Volvox, Ulothrix</strong> (algae) — both sexual and asexual<br>\n• <strong>Aspergillus</strong> (fungus) — both sexual and asexual\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nostoc"
+    }
+  }
+]
